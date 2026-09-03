@@ -17,10 +17,15 @@ generate_qmd <- function(json_path, lang) {
     slug <- gsub("[^a-z0-9]", "-", tolower(p$title))
     slug <- gsub("-+", "-", slug) 
     
-    # Sanitize double quotes to single quotes to prevent YAML parsing errors
+    # Sanitize double quotes to single quotes and remove backslashes
     safe_title <- gsub('"', "'", p$title)
+    safe_title <- gsub("\\\\", "", safe_title)
+    
     safe_client <- gsub('"', "'", p$client)
+    safe_client <- gsub("\\\\", "", safe_client)
+    
     safe_location <- gsub('"', "'", p$location)
+    safe_location <- gsub("\\\\", "", safe_location)
     
     # Build AI-readable JSON-LD metadata
     json_ld <- glue('

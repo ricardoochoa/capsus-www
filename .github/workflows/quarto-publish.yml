@@ -22,7 +22,7 @@ jobs:
         run: Rscript -e 'install.packages(c("jsonlite", "glue", "fs"))'
         
       - name: Generate Project .qmd files
-        run: Rscript build_projects.R
+        run: Rscript build_projects.r
         
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2

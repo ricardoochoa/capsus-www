@@ -1,0 +1,19 @@
+---
+title: "Ranking of Public Transportation for Mexican Cities"
+client: "Centro Mario Molina (Mario Molina Centre) and GIZ Mexico"
+location: "Mexico"
+year: 2024
+categories: ["Urban Mobility"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Ranking of Public Transportation for Mexican Cities",
+  "sponsor": "Centro Mario Molina (Mario Molina Centre) and GIZ Mexico",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+The project focused on designing and building a digital platform to assess the general performance of public transportation in Mexico. By analyzing 32 transportation systems and gathering user feedback, the platform is able to display data regarding various indicators in numerous ways, allowing for quick and simple understanding. The platform also provides detailed insights into these 32 transportation systems.

@@ -1,0 +1,19 @@
+---
+title: "Sustainable Strategy for the Social Housing Sector of Mexico"
+client: "ARA, CADU, DEREX, JAVER, RUBA, SADASI, UNION, VINTE"
+location: "Mexico"
+year: 2016
+categories: ["Public Policies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Sustainable Strategy for the Social Housing Sector of Mexico",
+  "sponsor": "ARA, CADU, DEREX, JAVER, RUBA, SADASI, UNION, VINTE",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+Work was carried out with several developers of social housing in Mexico, with the dual purpose of (1) proposing a sustainability scheme in housing that is cost-effective for businesses and their people, achieving high energy efficiency and improving environmental performance; and (2) quantify the benefits in terms of energy savings and mitigation of greenhouse gasses that the sector’s actions have had and will have in the future.

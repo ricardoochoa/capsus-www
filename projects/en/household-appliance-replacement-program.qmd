@@ -1,0 +1,19 @@
+---
+title: "Household Appliance Replacement Program"
+client: "World Bank"
+location: "Buenos Aires, Argentina"
+year: 2020
+categories: ["Sustainable Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Household Appliance Replacement Program",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Buenos Aires, Argentina"
+}
+</script>
+
+The project conducted a baseline study of household appliance consumption patterns in a low-income area of the city called “Barrio 31”. The work included the design and execution of a survey, direct measurements, and other relevant field work in representative areas. Using the gathered data, an appliance replacement program was developed to increase the energy efficiency of appliances, improve the quality of life for inhabitants, and lower households' electricity costs.

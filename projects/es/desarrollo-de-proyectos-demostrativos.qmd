@@ -1,0 +1,19 @@
+---
+title: "Desarrollo de Proyectos Demostrativos"
+client: "Amigos de Sian Ka’an A. C. (ONG Nacional para la Conservación Ambiental)"
+location: "México"
+year: 2021
+categories: ["Estudios Ambientales"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Desarrollo de Proyectos Demostrativos",
+  "sponsor": "Amigos de Sian Ka’an A. C. (ONG Nacional para la Conservación Ambiental)",
+  "spatialCoverage": "México"
+}
+</script>
+
+El objetivo de este proyecto fue diseñar un proyecto demostrativo para la Cuenca del Río Hondo basado en el Programa de Gestión de la Comisión de la Cuenca del Río Hondo (CCRH) y sus lineamientos. Este proyecto retomó las líneas de acción y objetivos establecidos durante varios talleres colaborativos y sesiones de planificación estratégica entre expertos del CCRH y varias comunidades en el marco del proyecto Manejo Integrado desde la Cuenca hasta el Arrecife en la ecorregión del Sistema Arrecifal Mesoamericano (MAR2R).

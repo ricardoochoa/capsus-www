@@ -1,0 +1,19 @@
+---
+title: "New Environmental Solutions for Mexican Houses"
+client: "German Agency for International Cooperation (GIZ) and the National Housing Commission of Mexico (CONAVI)"
+location: "Mexico"
+year: 2019-2020
+categories: ["Sustainable Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "New Environmental Solutions for Mexican Houses",
+  "sponsor": "German Agency for International Cooperation (GIZ) and the National Housing Commission of Mexico (CONAVI)",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+An exploratory research of components that make up a house was carried out for eco-materials, eco-technologies, and bioclimatic systems that can achieve water and energy savings. The research consisted of interviews, collection of information, estimation of energy and water consumption, and cost analysis of the solutions.

@@ -1,0 +1,19 @@
+---
+title: "Demonstration Project Development"
+client: "Amigos de Sian Ka’an A. C. (National NGO on Environmental Conservation)"
+location: "Mexico"
+year: 2021
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Demonstration Project Development",
+  "sponsor": "Amigos de Sian Ka’an A. C. (National NGO on Environmental Conservation)",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+The objective of this project was to design a demonstration project for the Río Hondo Basin based on the Management Program of the Río Hondo Basin Commission (CCRH) and its guidelines. This project took up the lines of action and objectives established during various collaborative workshops and strategic planning sessions between experts from the CCRH and several communities within the framework of the project Integrated Management from the Basin to the Reef in the ecoregion of the Mesoamerican Reef System (MAR2R).

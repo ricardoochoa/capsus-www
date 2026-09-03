@@ -1,0 +1,19 @@
+---
+title: "Guiyang Green Urban Development Project"
+client: "World Bank"
+location: "Guiyang City, China"
+year: 2024
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Guiyang Green Urban Development Project",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Guiyang City, China"
+}
+</script>
+
+The project aims to estimate current GHG emissions, carbon sequestration, and heat islands in Guiyang, forecasting their evolution under business-as-usual and alternative growth scenarios for 2050. It will focus on the citywide benefits of carbon reduction, nature-based solutions, and sequestration policies, particularly in the Aha Lake area. Key activities include analyzing available data, developing a GHG emission profile, assessing carbon sequestration potential through afforestation and reforestation, modeling future emissions and sequestration scenarios, identifying extreme heat exposure and estimating the benefit of using nature based solutions for heat management, carbon sequestration, flood prevention, natural conservation, and urban footprint containment.

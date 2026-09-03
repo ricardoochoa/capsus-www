@@ -1,0 +1,19 @@
+---
+title: "Plan Ambiental Municipal de Cuautitlán Izcalli 2009-2012"
+client: "Municipio de Cuautitlán Izcalli"
+location: "Cuautitlán Izcalli, Estado de México, México"
+year: 2010
+categories: ["Políticas Públicas"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Plan Ambiental Municipal de Cuautitlán Izcalli 2009-2012",
+  "sponsor": "Municipio de Cuautitlán Izcalli",
+  "spatialCoverage": "Cuautitlán Izcalli, Estado de México, México"
+}
+</script>
+
+Se desarrolló el Plan Ambiental Municipal que establece los lineamientos de política ambiental aplicables al ámbito municipal. Se establecen las estrategias que, en coordinación con las autoridades federales, estatales y con la sociedad civil, garanticen un desarrollo sustentable y armónico con el medio urbano, social y natural.

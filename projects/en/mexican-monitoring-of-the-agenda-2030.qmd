@@ -1,0 +1,19 @@
+---
+title: "Mexican Monitoring of the Agenda 2030"
+client: "GIZ"
+location: "Mexico"
+year: 2022
+categories: ["Public Policies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Mexican Monitoring of the Agenda 2030",
+  "sponsor": "GIZ",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+CAPSUS worked with the Mexican Ministry of Economic Development to develop a methodology and digital platform to monitor Mexico's progress toward the goals of Agenda 2030.

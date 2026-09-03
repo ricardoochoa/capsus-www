@@ -1,0 +1,19 @@
+---
+title: "Promotion of Sustainable Housing Solutions for Low-income Families in Mexico"
+client: "World Bank"
+location: "Mexico"
+year: 2020-2021
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Promotion of Sustainable Housing Solutions for Low-income Families in Mexico",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+The project supports the National Housing Commission (CONAVI) to promote more sustainable housing solutions for low-income families in 15 selected Mexican municipalities. The work focuses on adjusting and refining existing housing subsidies to incorporate elements of sustainability into the construction and improvement of low-income housing, including bioclimatic design, sustainable construction materials, and ecotechnologies, to reduce families' energy consumption and increase housing energy efficiency. The work also focuses on the redesign of housing sustainability manuals and on scenario development for regionalized passive solutions to achieve energy-efficient, comfortable housing for low-income households.

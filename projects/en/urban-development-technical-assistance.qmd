@@ -1,0 +1,19 @@
+---
+title: "Urban Development Technical Assistance"
+client: "World Bank"
+location: "Indonesia"
+year: 2022-2023
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Urban Development Technical Assistance",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Indonesia"
+}
+</script>
+
+The project has two main components: 1) Metropolitan analytics; and 2) Municipal Spatial Data Infrastructure (MSDI). Both components support the World Bank in its analytical and technical advisory to the Government of Indonesia (GoI) and the Ministry of National Development Planning of Indonesia (BAPPENAS) in, 1) identifying strategic areas for investment and financing to focus on, in the development of medium-term metropolitan scale competitiveness and sustainable, socio-spatial economic growth plans for 10 metropolitan areas; and 2) preparing a practical capacity building (training for trainers’) program that will support other cities on data governance to accelerate the operationalization of MSDI in all regions throughout Indonesia, in an effort to further increase the capacity of potential government and non-government stakeholders on MSDI to provide targeted technical assistance to local government officials.

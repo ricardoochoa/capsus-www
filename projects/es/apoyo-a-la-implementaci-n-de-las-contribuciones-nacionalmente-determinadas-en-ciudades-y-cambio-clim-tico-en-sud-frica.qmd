@@ -1,0 +1,19 @@
+---
+title: "Apoyo a la implementación de las Contribuciones Nacionalmente Determinadas en Ciudades y Cambio Climático en Sudáfrica"
+client: "Banco Mundial"
+location: "Sudáfrica"
+year: 2022
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Apoyo a la implementación de las Contribuciones Nacionalmente Determinadas en Ciudades y Cambio Climático en Sudáfrica",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Sudáfrica"
+}
+</script>
+
+El proyecto permite al Gobierno de la República de Sudáfrica identificar las tendencias de urbanización y las posibles acciones para mejorar la política urbana en apoyo a su transición. A través de un análisis espacial integral, el proyecto genera información clave para apoyar el desarrollo urbano sustentable, y el desarrollo económico resiliente y bajo en carbono. El objetivo es llevar a cabo un análisis de crecimiento urbano para evaluar el impacto de los riesgos climáticos, y las opciones de crecimiento urbano en la habitabilidad y la productividad de las áreas urbanas en Sudáfrica, y proporcionar vías de transición estratégica, y conexiones políticas que son críticas para la resiliencia climática y la urbanización baja en carbono en Sudáfrica. El trabajo se divide en tres actividades principales, que se centran en el análisis espacial y el diagnóstico de políticas urbanas, la modelación de escenarios futuros a medio y largo plazo, y la difusión de los resultados.

@@ -1,0 +1,19 @@
+---
+title: "Air Quality Forecast"
+client: "Ministry of the Environment of the Government of the State of Mexico"
+location: "State of Mexico, Mexico"
+year: 2019
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Air Quality Forecast",
+  "sponsor": "Ministry of the Environment of the Government of the State of Mexico",
+  "spatialCoverage": "State of Mexico, Mexico"
+}
+</script>
+
+The research was conducted to assess the feasibility of implementing an air quality forecasting system in the State of Mexico, the suitability of available models and a roadmap to define possible steps to be taken in the development and implementation of the system.

@@ -1,0 +1,19 @@
+---
+title: "Roadmap for Distributed Renewable Energy"
+client: "IFC"
+location: "Mexico"
+year: 2024
+categories: ["Renewable Energy"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Roadmap for Distributed Renewable Energy",
+  "sponsor": "IFC",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+The project was developed with Econoler and Coenergia, with the aim of developing a roadmap to promote distributed renewable energy in Mexico. During the project, the team identified the relevant stakeholders and conducted research on the current market characteristics, its challenges, opportunities and potential actions that could increase the share of renewable energy implemented by the private sector. Along the project, the team conducted a workshop and several interviews with industry experts, public officials, financial institutions, developers and consumers to understand the existing challenges and how to overcome them. The final product was a Road Map that recommends a specific list of actions, milestones and policies needed to increase private investment in distributed renewable energy in Mexico.

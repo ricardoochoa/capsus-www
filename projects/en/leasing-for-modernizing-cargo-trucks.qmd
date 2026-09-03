@@ -1,0 +1,19 @@
+---
+title: "Leasing for Modernizing Cargo Trucks"
+client: "GIZ"
+location: "Mexico City"
+year: 2022
+categories: ["Sustainable Finance"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Leasing for Modernizing Cargo Trucks",
+  "sponsor": "GIZ",
+  "spatialCoverage": "Mexico City"
+}
+</script>
+
+The project consisted of an exploration of leasing in Mexico, identifying operational mechanisms, the experiences of financial institutions that offer it, and an implementation roadmap to incorporate it into NAFIN's portfolio of operations and services. Specifically: 1) Identify its legal nature, general operating principles, and accounting management scheme; 2) Identify experiences of three financial institutions that offer leasing, highlighting the challenges, benefits, asset management mechanism, and default treatment; 3) Identify a general roadmap on the possible incorporation of leasing into NAFIN's portfolio of operations and services.

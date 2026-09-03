@@ -1,0 +1,19 @@
+---
+title: "Technical Assistance for Municipal Spatial Data Infrastructure (MSDI) Implementation in Kenya"
+client: "World Bank"
+location: "Kenya"
+year: 2024
+categories: ["Data & Technology"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Technical Assistance for Municipal Spatial Data Infrastructure (MSDI) Implementation in Kenya",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Kenya"
+}
+</script>
+
+The main objective was to assist three Kenyan cities (Kathwana, Kitengela, and Nakuru) in taking their initial strides toward establishing a robust Municipal Spatial Data Infrastructure (MSDI) that facilitates data-driven decision-making for effective urban planning and governance. This support entailed conducting an initial assessment for all three cities. Additionally, one Kenyan municipality received assistance in developing an MSDI Roadmap, while the other two municipalities benefited from technical assistance.

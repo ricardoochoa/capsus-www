@@ -1,0 +1,19 @@
+---
+title: "Conservation and Management Guidelines, and Master Plans for Protected Natural Areas"
+client: "Ministry of the Environment of Mexico City (SEDEMA)"
+location: "Mexico City, Mexico"
+year: 2025-2026
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Conservation and Management Guidelines, and Master Plans for Protected Natural Areas",
+  "sponsor": "Ministry of the Environment of Mexico City (SEDEMA)",
+  "spatialCoverage": "Mexico City, Mexico"
+}
+</script>
+
+The first component of the project consists of the design and implementation of a strategic identity and a manual of image and design guidelines to guide the intervention and management of Mexico City’s Natural Park System, promoting ecological protection, resilience against urban and climate risks, and cultural integration. The manual proposes sustainable design principles and directives for architectural elements, green infrastructure, mobility, furniture, and signage. The second component focuses on the development of Master Plans for two natural parks, including a site diagnosis and a system of environmental and social monitoring indicators to evaluate the results of the Plans.

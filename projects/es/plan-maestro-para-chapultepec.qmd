@@ -1,0 +1,19 @@
+---
+title: "Plan Maestro para Chapultepec"
+client: "Gobierno de la Ciudad de México"
+location: "Ciudad de México, México"
+year: 2021
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Plan Maestro para Chapultepec",
+  "sponsor": "Gobierno de la Ciudad de México",
+  "spatialCoverage": "Ciudad de México, México"
+}
+</script>
+
+En conjunto con ORU y un grupo de arquitectos mexicanos, CAPSUS desarrolló el nuevo Plan Maestro para el parque principal de la Ciudad de México. El plan tenía el objetivo social y ambiental de revitalizar el parque central y servir como una solución natural para mitigar los efectos del cambio climático en la ciudad.

@@ -1,0 +1,19 @@
+---
+title: "Development of a Green Mortgage Product for a Leading Global Financial Institution"
+client: "Global Financial Institution"
+location: "Mexico"
+year: 2023-2024
+categories: ["Sustainable Finance"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Development of a Green Mortgage Product for a Leading Global Financial Institution",
+  "sponsor": "Global Financial Institution",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+The project was developed in partnership with the German Passivhaus Institute (PHI) and GOPA. It consisted of developing the methodology and system to estimate the energy and water savings of houses to review their potential to qualify for a lower mortgage rate named Green Mortgage. The team accompanied the Financial Institution during the pilot implementation phase.

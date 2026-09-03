@@ -1,0 +1,19 @@
+---
+title: "Demographic Trends"
+client: "World Bank"
+location: "Worldwide"
+year: 2018
+categories: ["Data & Technology"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Demographic Trends",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Worldwide"
+}
+</script>
+
+The project consists of the analysis and information design of demographic trends in 6 regions of the world. The project shows changes in growth and the average age of the population in different countries.

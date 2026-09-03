@@ -1,0 +1,19 @@
+---
+title: "Accessibility Modeling for Sustainable Urban Mobility Plans (SUMP) in Sarbagita, Kedungsepur, and Mamminasata"
+client: "Cardno Emerging Markets (Australia) Pty Ltd"
+location: "Sarbagita, Kedungsepur, and Mamminasata metropolitan areas in Indonesia"
+year: 2021-2022
+categories: ["Urban Mobility"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Accessibility Modeling for Sustainable Urban Mobility Plans (SUMP) in Sarbagita, Kedungsepur, and Mamminasata",
+  "sponsor": "Cardno Emerging Markets (Australia) Pty Ltd",
+  "spatialCoverage": "Sarbagita, Kedungsepur, and Mamminasata metropolitan areas in Indonesia"
+}
+</script>
+
+The objective of the assignment is to inform the development and selection of urban mobility strategies in the Sarbagita, Kedungsepur, and Mamminasata metropolitan areas by quantifying accessibility to economic, social, and cultural activities for a set of spatial development and public transport network scenarios. The output of this assignment will be used to examine the strengths and weaknesses of combinations of spatial development and public transport integration to identify a preferred integrated scenario that will lead to better and more equitable accessibility across the metropolitan area.

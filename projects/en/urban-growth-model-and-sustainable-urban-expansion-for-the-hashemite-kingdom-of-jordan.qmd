@@ -1,0 +1,19 @@
+---
+title: "Urban Growth Model and Sustainable Urban Expansion for the Hashemite Kingdom of Jordan"
+client: "World Bank and Korean Green Growth Trust Fund"
+location: "Amman, Irbid, Zarqa, Russiefa, Mafraq, Jordan"
+year: 2017-2018
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Urban Growth Model and Sustainable Urban Expansion for the Hashemite Kingdom of Jordan",
+  "sponsor": "World Bank and Korean Green Growth Trust Fund",
+  "spatialCoverage": "Amman, Irbid, Zarqa, Russiefa, Mafraq, Jordan"
+}
+</script>
+
+Through modeling urban scenarios, the Jordanian national government and local authorities in Amman, Irbid, Russeifa, Zarqa and Mafraq evaluated strategies and investments to drive long-term sustainable urban development in the country. The study compares different urban growth alternatives for the five cities. Through the study, the impact of different public policies on the environmental, social and economic aspects was quantitatively compared, informing decision makers and generating consensus on the policies that provide greater benefits. The project was developed with funds from the Korean Green Growth Trust Fund through the World Bank.

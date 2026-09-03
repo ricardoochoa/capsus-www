@@ -1,0 +1,19 @@
+---
+title: "Asesoría en materia de Impacto Ambiental"
+client: "Quantum Energía"
+location: "México"
+year: 2025-2026
+categories: ["Energía Renovable"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Asesoría en materia de Impacto Ambiental",
+  "sponsor": "Quantum Energía",
+  "spatialCoverage": "México"
+}
+</script>
+
+Asesoría especializada a Quantum Energía para asegurar el cumplimiento integral de la normativa ambiental en sus proyectos de infraestructura energética. Las actividades incluyen la capacitación de coordinadores de planta y la regularización de responsabilidades y trámites ante la ASEA y la SEMARNAT, específicamente para ductos de gas natural y plantas de generación de energía eléctrica.

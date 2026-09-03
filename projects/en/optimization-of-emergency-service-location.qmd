@@ -1,0 +1,19 @@
+---
+title: "Optimization of Emergency Service Location"
+client: "City of San Diego"
+location: "San Diego, California, USA"
+year: 2019
+categories: ["Data & Technology"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Optimization of Emergency Service Location",
+  "sponsor": "City of San Diego",
+  "spatialCoverage": "San Diego, California, USA"
+}
+</script>
+
+CAPSUS collaborated (pro-bono) with the City of San Diego's Performance and Analytics team and developed a forecasting model for emergency medical services (EMS) that accounted for time and seasonal variations in the location of the population. The model aimed to restore the service level of the EMS department to reduce response time.

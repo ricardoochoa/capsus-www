@@ -1,0 +1,19 @@
+---
+title: "Environmental Social Responsibility"
+client: "Marsh Mexico"
+location: "Mexico City, Mexico"
+year: 2009
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Environmental Social Responsibility",
+  "sponsor": "Marsh Mexico",
+  "spatialCoverage": "Mexico City, Mexico"
+}
+</script>
+
+Corporate consulting on business practices and environmental responsibility and training courses.

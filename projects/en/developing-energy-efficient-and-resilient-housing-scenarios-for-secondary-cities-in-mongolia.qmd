@@ -1,0 +1,19 @@
+---
+title: "Developing Energy-efficient and Resilient Housing Scenarios for Secondary Cities in Mongolia"
+client: "World Bank"
+location: "Mongolia"
+year: 2022-2023
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Developing Energy-efficient and Resilient Housing Scenarios for Secondary Cities in Mongolia",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Mongolia"
+}
+</script>
+
+The project supports the development of resilient, energy-efficient, green, and affordable housing for the ger districts in the two key secondary cities in Mongolia: Darkhan and Erdenet. The project produced a detailed assessment for the cities which support the prioritization of affordable housing planning and development with low GHG emissions and resilience to climate change, in ger areas and non-ger areas. The results support existing housing programs and incentivize the use of resilient and low-carbon solutions. This project is a consequence of previous work done by CAPSUS in Mongolia.

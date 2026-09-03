@@ -1,0 +1,19 @@
+---
+title: "Escenarios de Crecimiento Urbano para Calcuta"
+client: "LEA Associates"
+location: "India"
+year: 2024
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Escenarios de Crecimiento Urbano para Calcuta",
+  "sponsor": "LEA Associates",
+  "spatialCoverage": "India"
+}
+</script>
+
+El objetivo principal de esta consultoría fue desarrollar tres escenarios de crecimiento urbano para la ciudad de Calcuta, India, y evaluarlos a través de un grupo de indicadores urbanos y ambientales que incluyen el crecimiento urbano, el cambio de uso de suelo, las emisiones de gases de efecto invernadero, los costos operativos municipales, entre otros. A través de esta consultoría CAPSUS creo los indicadores y modelos necesarios para asistir a LEA Associates y la ciudad en la visualización de datos, indicadores y posibles futuros urbanos, de forma que se pudiera pronosticar la ciudad, evaluarla y comparar diferentes alternativas de inversiones y políticas públicas. Esta metodología funciona como laboratorio de ideas para los tomadores de decisión, de forma que puedan comprender los costos y beneficios de los proyectos y regulaciones antes de implementarlos. CAPSUS desarrolló tres escenarios de crecimiento urbano: Tendencial, Planificado, y Resiliente al Clima.

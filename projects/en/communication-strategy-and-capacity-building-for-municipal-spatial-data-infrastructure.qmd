@@ -1,0 +1,19 @@
+---
+title: "Communication Strategy and Capacity Building for Municipal Spatial Data Infrastructure"
+client: "City Planning Labs - World Bank"
+location: "Indonesia"
+year: 2019-2020
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Communication Strategy and Capacity Building for Municipal Spatial Data Infrastructure",
+  "sponsor": "City Planning Labs - World Bank",
+  "spatialCoverage": "Indonesia"
+}
+</script>
+
+Development of an internal communication, dissemination and knowledge exchange strategy for City Planning Labs (CPL), which is a World Bank technical assistance initiative. CAPSUS assistance consisted in organizing workshops and working groups to improve local capacities in data management.

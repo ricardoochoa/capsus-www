@@ -1,0 +1,19 @@
+---
+title: "Wind Farms in Zacatecas"
+client: "PRENEAL"
+location: "Zacatecas, Mexico"
+year: 2011-2012
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Wind Farms in Zacatecas",
+  "sponsor": "PRENEAL",
+  "spatialCoverage": "Zacatecas, Mexico"
+}
+</script>
+
+Environmental Impact Assessment, Land Use Change, permitting and other environmental studies were made for the wind farm project and its associated transmission line.

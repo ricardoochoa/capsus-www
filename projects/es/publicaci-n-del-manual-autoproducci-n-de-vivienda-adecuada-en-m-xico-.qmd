@@ -1,0 +1,19 @@
+---
+title: "Publicación del Manual “Autoproducción de Vivienda Adecuada en México”"
+client: "GIZ / CONAVI / INFONAVIT"
+location: "México"
+year: 2021-2022
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Publicación del Manual “Autoproducción de Vivienda Adecuada en México”",
+  "sponsor": "GIZ / CONAVI / INFONAVIT",
+  "spatialCoverage": "México"
+}
+</script>
+
+Desarrollo del contenido para una publicación, junto con GIZ, CONAVI e INFONAVIT para la divulgación de una estrategia integral para autoproducción de vivienda adecuada en México basada en esquemas de financiamiento para la población mexicana de menores ingresos, asegurando la toma de decisiones informada por parte de las familias sobre la construcción de viviendas seguras y funcionales. Como producto final, se generó la impresión de un tiraje de 1000 ejemplares para distribución y divulgación de la información.

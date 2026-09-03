@@ -1,0 +1,19 @@
+---
+title: "Urban Growth Scenarios for Kolkata"
+client: "LEA Associates"
+location: "India"
+year: 2024
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Urban Growth Scenarios for Kolkata",
+  "sponsor": "LEA Associates",
+  "spatialCoverage": "India"
+}
+</script>
+
+The main objective of this consultancy was to develop three urban growth scenarios for the city of Kolkata, India, and evaluate them through a group of urban and environmental indicators, including urban growth, land use change, GHG emissions, municipal operating costs, among others. The consultancy utilized the Urban Growth Scenarios methodology and the Urban Performance model to forecast the city, evaluate it, and compare the three urban growth scenarios: Business as Usual, Planned Scenario, and Climate Resilient Scenario.

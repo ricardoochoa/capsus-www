@@ -1,0 +1,19 @@
+---
+title: "Climate Change and Development in Cities in Egypt"
+client: "World Bank"
+location: "Egyptian Cities"
+year: 2021-2022
+categories: ["Climate Change"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Climate Change and Development in Cities in Egypt",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Egyptian Cities"
+}
+</script>
+
+The objective of the project is to assess urban growth across 14 cities in Egypt, with a focus on identifying possible pathways for low-carbon, resilient urban development. In this assessment, instead of addressing sector-specific actions, efforts focused on integrated mitigation and adaptation. This project conducted sectoral assessments, split efforts, and missed the opportunity to identify synergies.

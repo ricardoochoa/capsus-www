@@ -1,0 +1,21 @@
+---
+title: "Programa de Reemplazo de Electrodomésticos"
+client: "Banco Mundial"
+location: "Buenos Aires, Argentina"
+year: 2020
+categories: ["Energía Renovable"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Programa de Reemplazo de Electrodomésticos",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Buenos Aires, Argentina"
+}
+</script>
+
+Este proyecto estima la línea base de consumo de energía eléctrica de las viviendas en una zona de bajos ingresos de la ciudad, llamado “Barrio 31”. El trabajo incluyó el diseño y ejecución de encuestas, mediciones directas y otros tipos de trabajo de campo en áreas representativas. 
+
+Con los datos recopilados, se desarrolló un programa de reemplazo de electrodomésticos con el objetivo de aumentar la eficiencia energética de los electrodomésticos, mejorar la calidad de vida de los habitantes y reducir el costo de la electricidad de los hogares.

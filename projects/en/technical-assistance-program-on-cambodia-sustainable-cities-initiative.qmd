@@ -1,0 +1,19 @@
+---
+title: "Technical Assistance Program on Cambodia Sustainable Cities Initiative"
+client: "World Bank"
+location: "Phnom Penh Green City, Cambodia"
+year: 2022-2023
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Technical Assistance Program on Cambodia Sustainable Cities Initiative",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Phnom Penh Green City, Cambodia"
+}
+</script>
+
+The objective of the project is to update the Phnom Penh Green City Strategic Plan and help prepare Phnom Penh for the challenges that climate change will impose and make the city part of the solution by focusing on a low-carbon and resilient development path that aims to reach net-zero emissions by 2050. The specific objectives of the project are: Improve spatial and land use planning systems for risk-informed and carbon-sensitive development Enhance efficiency, resilience, and sustainability of urban infrastructure and service delivery systems Mainstream environmental sustainability, citizen engagement, and social inclusion These objectives were achieved through a deep assessment of the current policies and characteristics of Phnom Penh, coupled with policy and investment recommendations based on international best practices that are adjusted to the context of the city and country. The information obtained was used to develop urban scenarios that were compared to identify the environmental, social, and economic tradeoffs of each urban growth trajectory path. The exercise facilitated city-level planning, policy, and investment choices. Knowledge sharing and capacity building were central pillars for this project to foster appropriation and replication of the methodological approach.

@@ -1,0 +1,21 @@
+---
+title: "Proyección del Crecimiento de la Megalópolis, 2018-2050 (2023 \- 2024\)"
+client: "CAME"
+location: "México"
+year: 
+categories: ["Datos y Tecnología"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Proyección del Crecimiento de la Megalópolis, 2018-2050 (2023 \- 2024\)",
+  "sponsor": "CAME",
+  "spatialCoverage": "México"
+}
+</script>
+
+CAPSUS realizó un ejercicio exhaustivo de recopilación de datos, definición de indicadores y modelización utilizando nuestra herramienta interna de Rendimiento Urbano. Esta herramienta se basa en datos espaciales e indicadores numéricos para crear escenarios detallados de crecimiento urbano, cubriendo aspectos como la huella de la ciudad, la infraestructura de movilidad, los servicios, el consumo de agua y energía, la generación de energía, la gestión del agua, y los peligros climáticos. CAPSUS modeló un escenario de crecimiento tendencial para toda la Megalópolis Mexicana (Querétaro, Estado de México, Ciudad de México, Puebla, Tlaxcala, Morelos, e Hidalgo) y seis zonas metropolitanas individuales. 
+
+Después de completar el modelado, CAPSUS evaluó a través de indicadores, los impactos ambientales, económicos y sociales asociados con las tendencias de desarrollo en la Megalópolis hasta el 2050. Además, mediante el desarrollo de infografías, un sitio web informativo y un informe y base de datos completos, CAPSUS contribuyó a construir una base de conocimiento sobre las tendencias actuales de crecimiento urbano y sus implicaciones sociales, ambientales y económicas, que pueden ser difundidas en toda la región.

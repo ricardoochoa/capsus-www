@@ -1,0 +1,19 @@
+---
+title: "Urban Planning Tool for the Reduction of Emissions of Air Pollutants"
+client: "Mexico City Ministry of the Environment (SEDEMA)"
+location: "Mexico City, Mexico"
+year: 2018
+categories: ["Data & Technology"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Urban Planning Tool for the Reduction of Emissions of Air Pollutants",
+  "sponsor": "Mexico City Ministry of the Environment (SEDEMA)",
+  "spatialCoverage": "Mexico City, Mexico"
+}
+</script>
+
+Capacity building, consultancy and the installation of a software tool were part of this project that aimed to identify urban policies and investments that can mitigate the emission of air contaminants in the city.

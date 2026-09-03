@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "CAPSUS"
+  # logo: "images/Menu-Logo-Capsus.png" # Uncomment once images are migrated
+  navbar:
+    background: "#00495a"
+    left:
+      - href: portfolio-en.qmd
+        text: "Projects"
+    right:
+      - href: portfolio-es.qmd
+        text: "ES"
+        
+format:
+  html:
+    theme: custom.scss
+    minimal: true # Strips out heavy default JS/CSS for a low-carbon footprint

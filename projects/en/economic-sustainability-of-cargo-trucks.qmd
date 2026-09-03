@@ -1,0 +1,19 @@
+---
+title: "Economic Sustainability of Cargo Trucks"
+client: "HEAT / German International Cooperation for Sustainable Development (GIZ)"
+location: "Jalisco, Mexico"
+year: 2022
+categories: ["Urban Mobility"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Economic Sustainability of Cargo Trucks",
+  "sponsor": "HEAT / German International Cooperation for Sustainable Development (GIZ)",
+  "spatialCoverage": "Jalisco, Mexico"
+}
+</script>
+
+The project is part of a border national program on “Sustainable Freight Transport”. In this project, CAPSUS worked with HEAT and the GIZ to foster the economic sustainability of SME's private cargo fleets. The team works alongside local stakeholders to identify best practices for the sector's sustainable development, with a particular focus on leveraging economies of scale.

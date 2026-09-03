@@ -1,0 +1,19 @@
+---
+title: "CCDR Palestine"
+client: "World Bank"
+location: "Palestine"
+year: 2023
+categories: ["Climate Change"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "CCDR Palestine",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Palestine"
+}
+</script>
+
+The project consisted in assessing, analyzing, and proposing climate change strategies for seven cities in Palestine. The methodology consists in identifying the current, projected, and potential values for a set of relevant social, economic and environmental indicators. The project allows the quantification of benefits and costs of different development pathways for the cities.

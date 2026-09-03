@@ -1,0 +1,19 @@
+---
+title: "Estrategia para Fortalecer la Gobernanza Comunitaria del Agua"
+client: "Cooperación Alemana para el Desarrollo Sostenible (GIZ)"
+location: "Comunidades rurales del estado de Quintana Roo, México"
+year: 2021-2022
+categories: ["Políticas Públicas"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Estrategia para Fortalecer la Gobernanza Comunitaria del Agua",
+  "sponsor": "Cooperación Alemana para el Desarrollo Sostenible (GIZ)",
+  "spatialCoverage": "Comunidades rurales del estado de Quintana Roo, México"
+}
+</script>
+
+El objetivo fue desarrollar una Estrategia para Fortalecer la Gobernanza Comunitaria del Agua. El proyecto comenzó con un diagnóstico de las condiciones sociales y ambientales de varias comunidades en Quintana Roo, México. Estos resultados sirvieron para desarrollar tres componentes principales de la Estrategia: 1\) Programa de Acompañamiento de Capacitación, 2\) Propuesta de Gestión Comunitaria y 3\) Programa de Fortalecimiento de Capacidades. Todos los componentes trabajan en sinergia y se relacionan con un conjunto de indicadores ambientales y sociales para medir el éxito de la implementación de la estrategia.

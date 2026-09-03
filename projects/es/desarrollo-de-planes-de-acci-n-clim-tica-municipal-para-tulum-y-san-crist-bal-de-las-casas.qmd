@@ -1,0 +1,19 @@
+---
+title: "Desarrollo de Planes de Acción Climática Municipal para Tulum y San Cristóbal de las Casas"
+client: "Banco Mundial"
+location: "Tulum, Quintana Roo y San Cristóbal de las Casas, Chiapas México"
+year: 2021-2022
+categories: ["Cambio Climático"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Desarrollo de Planes de Acción Climática Municipal para Tulum y San Cristóbal de las Casas",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Tulum, Quintana Roo y San Cristóbal de las Casas, Chiapas México"
+}
+</script>
+
+El objetivo general de este proyecto fue guiar y apoyar a los municipios de Tulum y San Cristóbal de las Casas a través de un proceso participativo con las partes interesadas, recopilación de datos/información relevante y desarrollo de un Plan de Acción Climática Municipal para cada ciudad, siguiendo la Metodología del IPCC y otras metodologías reconocidas internacionalmente para la elaboración de informes. Esto incluye la organización de talleres con las partes interesadas locales (autoridades municipales) para comprometerse con las personas beneficiadas, proporcionar contexto y guiar los esfuerzos y la cooperación local, y promover el establecimiento de objetivos. El segundo componente del proyecto es desarrollar capacidades locales en el uso adecuado de herramientas, plantillas y estándares internacionales para informes relacionados con inventarios y evaluaciones de GEI, planificación de escenarios y monitoreo recurrente.

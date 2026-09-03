@@ -1,0 +1,19 @@
+---
+title: "Reciclaje de Agua"
+client: "Papalote Museo del Niño"
+location: "Ciudad de México, México"
+year: 2012
+categories: ["Gestión de Residuos"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Reciclaje de Agua",
+  "sponsor": "Papalote Museo del Niño",
+  "spatialCoverage": "Ciudad de México, México"
+}
+</script>
+
+Se elaboró una propuesta al Museo Papalote para desarrollar un proyecto de tratamiento y reciclaje del agua consumida. El proyecto recircula aproximadamente 70% del agua y reduce la facturación del agua para el museo. El proyecto es autofinanciable.

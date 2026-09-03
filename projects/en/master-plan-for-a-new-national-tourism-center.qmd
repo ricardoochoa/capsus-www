@@ -1,0 +1,19 @@
+---
+title: "Master Plan for a New National Tourism Center"
+client: "FONATUR (National Tourism Development Fund)"
+location: "Sinaloa, Mexico"
+year: 2016
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Master Plan for a New National Tourism Center",
+  "sponsor": "FONATUR (National Tourism Development Fund)",
+  "spatialCoverage": "Sinaloa, Mexico"
+}
+</script>
+
+A Master Plan was designed for a new tourist destination with over 2,000 hectares of potentially developed land. The aim of the project was to create an urban-tourism design that could bring economic development to the region in the most sustainable way possible. As part of the work, sustainability guidelines were provided, including the efficient use of energy and natural resources, environmental protection practices, and sustainable urban development design. The project was developed in conjunction with A911.

@@ -1,0 +1,19 @@
+---
+title: "Environmental Impact Advisory"
+client: "Quantum Energía"
+location: "Mexico"
+year: 2025-2026
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Environmental Impact Advisory",
+  "sponsor": "Quantum Energía",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+Specialized advisory for Quantum Energía to ensure comprehensive compliance with environmental regulations for its energy infrastructure projects. Activities include training plant coordinators and regularizing responsibilities and procedures before ASEA and SEMARNAT, specifically regarding natural gas pipelines and electric power generation plants.

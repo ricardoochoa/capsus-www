@@ -1,0 +1,13 @@
+---
+title: "Nuestros Proyectos"
+listing:
+  contents: projects/es
+  type: grid
+  categories: true
+  sort: "year desc"
+  filter-ui: true
+  page-size: 12
+  fields: [image, title, client, location, year]
+---
+
+Explore nuestro trabajo reciente en diferentes regiones y temas. Utilice el menú lateral para filtrar por categoría o la barra de búsqueda para encontrar iniciativas específicas.

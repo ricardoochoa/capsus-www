@@ -1,0 +1,19 @@
+---
+title: "Water Savings"
+client: "President Hotel Mexico City"
+location: "Mexico City, Mexico"
+year: 2010-2016
+categories: ["Sustainable Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Water Savings",
+  "sponsor": "President Hotel Mexico City",
+  "spatialCoverage": "Mexico City, Mexico"
+}
+</script>
+
+A water-saving treatment plant was developed to treat and recycle water used by the hotel’s laundry. The Project was self-financed.

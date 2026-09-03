@@ -1,0 +1,19 @@
+---
+title: "Bulgaria Compact Cities ASA Urban Growth/shrinkage Scenario Exercise"
+client: "World Bank"
+location: "Vratsa and Sliven, Bulgaria"
+year: 2022
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Bulgaria Compact Cities ASA Urban Growth/shrinkage Scenario Exercise",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Vratsa and Sliven, Bulgaria"
+}
+</script>
+
+The objective was to provide technical assistance to the Government of Bulgaria and selected Bulgarian municipalities to achieve both climate adaptation and mitigation benefits by developing a pragmatic Sustainable Cities approach. CAPSUS conducted an urban and climate risk mapping through a literature review and research of urban spatial modeling, sector plans, and climate change in Bulgaria. The analysis forecasted three possible urban growth/shrinkage scenarios to assess accessibility to urban services and employment opportunities, exposure to climate hazards, climate change mitigation, expansion costs, poverty, and infrastructure coverage. Also, CAPSUS adapted existing dissemination materials to foster dialogue with stakeholders.

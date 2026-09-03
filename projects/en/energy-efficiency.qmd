@@ -1,0 +1,19 @@
+---
+title: "Energy Efficiency"
+client: "+KOTA"
+location: "Mexico City, Mexico"
+year: 2010
+categories: ["Sustainable Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Energy Efficiency",
+  "sponsor": "+KOTA",
+  "spatialCoverage": "Mexico City, Mexico"
+}
+</script>
+
+Consultancy services were done to reduce the energy consumption across the stores of the client.

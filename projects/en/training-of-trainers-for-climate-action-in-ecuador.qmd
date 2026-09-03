@@ -1,0 +1,19 @@
+---
+title: "Training of Trainers for Climate Action in Ecuador"
+client: "GIZ"
+location: "Ecuador"
+year: 2022
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Training of Trainers for Climate Action in Ecuador",
+  "sponsor": "GIZ",
+  "spatialCoverage": "Ecuador"
+}
+</script>
+
+CAPSUS designed and implemented a capacity development training course for a team of experts from various institutions in Ecuador. The objective was to equip them to assist local governments in identifying projects that would reduce GHG emissions and enhance community resilience. Additionally, the project aimed to develop stakeholders' ability to draft project proposals eligible for climate financing, both locally and internationally.

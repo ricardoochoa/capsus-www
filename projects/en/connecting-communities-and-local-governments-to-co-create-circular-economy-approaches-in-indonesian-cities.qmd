@@ -1,0 +1,19 @@
+---
+title: "Connecting Communities and Local Governments to Co-create Circular Economy Approaches in Indonesian Cities"
+client: "World Bank"
+location: "Indonesia"
+year: 2022-2023
+categories: ["Data & Technology"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Connecting Communities and Local Governments to Co-create Circular Economy Approaches in Indonesian Cities",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Indonesia"
+}
+</script>
+
+The main objective of this project is to develop a Collaborative Planning Tool that enables the rapid, easy, and digital collection of data at the community level. This tool will allow the government to gather real-time information on community needs, as well as evaluate and approve project proposals. The platform also facilitates coordination between different levels of government through an efficient data-sharing mechanism. Additionally, it features an integrated dashboard for data visualization and analytics, providing easily digestible information for convenient presentation. CollabData, developed by CAPSUS and UP Tech, serves as the baseline technology and can be accessed both through the web and mobile devices.

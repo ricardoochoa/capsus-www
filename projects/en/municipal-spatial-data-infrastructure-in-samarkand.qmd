@@ -1,0 +1,19 @@
+---
+title: "Municipal Spatial Data Infrastructure in Samarkand"
+client: "World Bank"
+location: "Samarkand, Uzbekistan"
+year: 2024
+categories: ["Data & Technology"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Municipal Spatial Data Infrastructure in Samarkand",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Samarkand, Uzbekistan"
+}
+</script>
+
+The objective of this assistance is to foster a city-level spatial data ecosystem that enables informed planning, improved coordination, and more efficient use of public resources. The project is based on the IPDS methodology developed under the World Bank’s City Planning Labs (CPL) initiative, which applies a four-building-block framework: Institutions (policies, regulations and practices for creating, managing, sharing and updating data), People (technical capacities, quantity of qualified persons, roles), Data (type and quality of available datasets), and Systems (software and hardware). The technical assistance has been structured into four phases: (1) an assessment of existing geospatial datasets in Samarkand; (2) an assessment of the city’s MSDI readiness across the IPDS framework; (3) the formulation of an MSDI Roadmap based on the assessment findings; and (4) the development of a Capacity-Building Strategy for the city government.

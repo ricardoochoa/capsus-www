@@ -1,0 +1,19 @@
+---
+title: "Benchmark analysis of the port sector in Mexico"
+client: "Cosol"
+location: "Mexico"
+year: 2024
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Benchmark analysis of the port sector in Mexico",
+  "sponsor": "Cosol",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+The objective of this project was to evaluate the current state of the port sector in Mexico by comparing it with the international context, to identify areas of opportunity and formulate recommendations for the sector. In addition to the cabinet research, the project used a multi-criteria geospatial tool to identify the most optimal sites for port development.

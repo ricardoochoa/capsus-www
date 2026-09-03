@@ -1,0 +1,19 @@
+---
+title: "Facilitation Package for Emission Reduction Scenarios – Climate Action Planning in Latin America"
+client: "C40 Cities"
+location: "Latin America"
+year: 2018
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Facilitation Package for Emission Reduction Scenarios – Climate Action Planning in Latin America",
+  "sponsor": "C40 Cities",
+  "spatialCoverage": "Latin America"
+}
+</script>
+
+CAPSUS supported C40 Cities in strengthening climate action planning in Latin America by developing a facilitation package for GHG emission reduction scenarios, based on lessons learned from nine cities participating in the CAP LATAM program. The work included surveys and interviews with local teams, the production of a report on best practices and recommendations, and the creation of a handbook and facilitation tools (glossaries, forms, templates, and workshop materials) to guide other cities in designing their own emissions reduction scenarios.

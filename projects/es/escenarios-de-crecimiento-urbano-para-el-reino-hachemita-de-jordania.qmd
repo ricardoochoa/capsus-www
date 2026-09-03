@@ -1,0 +1,19 @@
+---
+title: "Escenarios de Crecimiento Urbano para el reino Hachemita de Jordania"
+client: "Grupo Banco Mundial y el Fondo de Crecimiento Verde de Corea"
+location: "Amman, Russeifa, Zarqa, Irbid y Mafraq, Jordania"
+year: 2017-2018
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Escenarios de Crecimiento Urbano para el reino Hachemita de Jordania",
+  "sponsor": "Grupo Banco Mundial y el Fondo de Crecimiento Verde de Corea",
+  "spatialCoverage": "Amman, Russeifa, Zarqa, Irbid y Mafraq, Jordania"
+}
+</script>
+
+Mediante la modelación de escenarios urbanos, el gobierno nacional de Jordania y las autoridades locales de Amman, Irbid, Russeifa, Zarqa y Mafraq evaluaron estrategias e inversiones para impulsar un desarrollo urbano sustentable a largo plazo. El estudio compara diferentes alternativas de crecimiento urbano para las cinco ciudades. A través del estudio se comparó cuantitativamente el impacto de diferentes políticas públicas en lo ambiental, social y económico, informando a los tomadores de decisiones y generando consenso sobre las políticas que otorgan mayores beneficios.

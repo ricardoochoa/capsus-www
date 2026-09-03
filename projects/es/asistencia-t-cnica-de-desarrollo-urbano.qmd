@@ -1,0 +1,19 @@
+---
+title: "Asistencia Técnica de Desarrollo Urbano"
+client: "Banco Mundial"
+location: "Indonesia"
+year: 2022-2023
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Asistencia Técnica de Desarrollo Urbano",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Indonesia"
+}
+</script>
+
+El proyecto tiene dos componentes principales: 1\) Análisis metropolitano y 2\) Infraestructura Municipal de Datos Espaciales (MSDI). Ambos componentes apoyan al Gobierno de Indonesia y al Ministerio de Planificación del Desarrollo Nacional de Indonesia en 1\) identificar áreas estratégicas para la inversión y el financiamiento para el desarrollo de competitividad a escala metropolitana a medio plazo, así como planes de crecimiento económico socioespacial sustentable para 10 áreas metropolitanas en alineación al plan nacional 2025; y 2\) preparar un programa de desarrollo de capacidades (capacitación para capacitadores) que apoyará a otras ciudades en la gobernanza de datos para acelerar la operación de la IMDE en todas las regiones de Indonesia, en un esfuerzo por aumentar aún más la capacidad de los gobiernos y organizaciones no gubernamentales en la IMDE para proporcionar asistencia técnica específica a los funcionarios del gobierno local.

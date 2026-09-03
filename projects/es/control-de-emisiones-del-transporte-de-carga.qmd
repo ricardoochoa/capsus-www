@@ -1,0 +1,19 @@
+---
+title: "Control de Emisiones del Transporte de Carga"
+client: "Secretaría de Comunicaciones y Transportes"
+location: "México"
+year: 2016-2017
+categories: ["Movilidad Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Control de Emisiones del Transporte de Carga",
+  "sponsor": "Secretaría de Comunicaciones y Transportes",
+  "spatialCoverage": "México"
+}
+</script>
+
+Trabajamos colaborativamente con la Dirección General de Autotransporte Federal y con empresarios, para proponer estrategias de control de emisiones en el sector de carga en México. El objetivo del proyecto es desarrollar políticas públicas e identificar opciones tecnológicas que permitan mejorar el desempeño ambiental del sector, sin restarle competitividad.

@@ -1,0 +1,19 @@
+---
+title: "Technical Assistance for Environmental Policy Design and Implementation"
+client: "Environmental Commission of the Megalopolis (CAMe)"
+location: "Mexico City, Mexico"
+year: 2021-2024
+categories: ["Public Policies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Technical Assistance for Environmental Policy Design and Implementation",
+  "sponsor": "Environmental Commission of the Megalopolis (CAMe)",
+  "spatialCoverage": "Mexico City, Mexico"
+}
+</script>
+
+The project supports the Environmental Commission of the Megalopolis (CAMe) in its operation, monitoring, coordination, and follow-up on strategic projects. The work also includes the evaluation and monitoring of projects financed by the “1490 Environmental Trust Fund”. The support is given in the areas of urban mobility, freight transportation, air quality, climate change, legal, data analysis, emission testing (transport sector), emission inventories, environmental policy making, dissemination and capacity development.

@@ -1,0 +1,19 @@
+---
+title: "Energy Savings in Public Lighting"
+client: "Huixquilucan Municipality, State of Mexico"
+location: "Huixquilucan, State of Mexico, Mexico"
+year: 2011
+categories: ["Sustainable Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Energy Savings in Public Lighting",
+  "sponsor": "Huixquilucan Municipality, State of Mexico",
+  "spatialCoverage": "Huixquilucan, State of Mexico, Mexico"
+}
+</script>
+
+The Municipality intended to reduce its expenses and carbon footprint through an energy efficiency project. The specific action consisted in the replacement of public lighting (more luminosity, less energy use), which achieved energy savings of 38% and economic savings of 7 million pesos annually. The project also included a campaign of social communication about the measure (website, press release), and a launch event that was carbon neutral. Later, this project expanded to the public, with a light-bulb replacement campaign, exchanging more than 30,000 traditional light bulbs with efficient ones in homes within the municipality.

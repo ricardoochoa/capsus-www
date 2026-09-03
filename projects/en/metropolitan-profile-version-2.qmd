@@ -1,0 +1,19 @@
+---
+title: "Metropolitan Profile Version 2"
+client: "World Bank and Korean Green Growth Trust Fund"
+location: "Mexico"
+year: 2017-2018
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Metropolitan Profile Version 2",
+  "sponsor": "World Bank and Korean Green Growth Trust Fund",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+The Metropolitan Profile Version 2 is a project funded by the Energy Sector Management Assistance Program through the World Bank to assess development paths for Mexican cities and identify the most sustainable options. The National Housing Commission (CONAVI, for its acronym in Spanish) is the government dependency performing this assessment and working as a link between the actors. This second version of the Metropolitan Profile analyzes the urban growth trends, by 2030, in 37 metropolitan areas of Mexico and compares it with scenarios of compact growth or in accordance with the current Urban Development Programs. More than fifteen indicators are used to evaluate the scenarios. Additionally, it includes two case studies, Mérida and Tijuana, which include scenarios defined by the local planning institutes and energy efficiency strategies. In the case of Mérida, the study was used to compare the benefits of the new Urban Development Program against the previous version.

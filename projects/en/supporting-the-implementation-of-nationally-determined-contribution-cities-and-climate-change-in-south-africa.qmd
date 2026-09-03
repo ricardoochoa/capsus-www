@@ -1,0 +1,19 @@
+---
+title: "Supporting the Implementation of Nationally Determined Contribution-Cities and Climate Change in South Africa"
+client: "World Bank"
+location: "South Africa"
+year: 2022
+categories: ["Climate Change"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Supporting the Implementation of Nationally Determined Contribution-Cities and Climate Change in South Africa",
+  "sponsor": "World Bank",
+  "spatialCoverage": "South Africa"
+}
+</script>
+
+The project supports the Government of the Republic of South Africa in identifying urbanization trends and potential actions to improve urban policy in support of a just transition. Through a comprehensive spatial analysis, the project produces key insights to support sustainable urban development, and low-carbon & resilient economic development. The objective is to conduct urban growth analytics to assess the impact of climate change risks and urban growth choices on the overall livability and productivity of urban clusters in South Africa, and provide strategic transition pathways & policy levers that are critical for climate-resilient and low-carbon urbanization across South Africa. The work is divided into three main activities: baseline spatial analytics and urban policy diagnostics; future scenario modeling for the medium to long term; and dissemination of the results.

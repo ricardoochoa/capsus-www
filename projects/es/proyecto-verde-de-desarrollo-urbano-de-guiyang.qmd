@@ -1,0 +1,19 @@
+---
+title: "Proyecto Verde de Desarrollo Urbano de Guiyang"
+client: "Banco Mundial"
+location: "Guiyang, China"
+year: 2024
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Proyecto Verde de Desarrollo Urbano de Guiyang",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Guiyang, China"
+}
+</script>
+
+Este proyecto tiene como objetivo evaluar las emisiones actuales de gases de efecto invernadero y la captura de carbono de la ciudad de Guiyang, así como pronosticar tendencias futuras bajo diferentes escenarios. Se centra en el área del lago Aha, un espacio verde urbano clave, pero también considerará las implicaciones para toda la ciudad. El proyecto desarrollará recomendaciones para el desarrollo urbano sostenible y las estrategias de mitigación del clima.

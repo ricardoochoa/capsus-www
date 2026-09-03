@@ -1,0 +1,19 @@
+---
+title: "Climate Change Development Report for the Hashemite Kingdom of Jordan"
+client: "World Bank"
+location: "Amman, Jordan"
+year: 2022
+categories: ["Climate Change"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Climate Change Development Report for the Hashemite Kingdom of Jordan",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Amman, Jordan"
+}
+</script>
+
+This project developed analytical insights for the Jordan Climate Change Development Report (CCDR), focusing on the urban, transport, and energy sectors of Amman, Jordan. The project assessed the potential for climate change adaptation and greenhouse gas emission reduction through urban planning and infrastructure improvements, with an emphasis on identifying co-benefits such as improved access to jobs, enhanced productivity, and positive health outcomes. Using Urban Performance as a base for urban growth modeling, the project analyzed different growth scenarios and their implications for policy making, incorporating existing government plans and considering the impacts of various public policies on the physical, fiscal, environmental, and social dimensions of Amman.

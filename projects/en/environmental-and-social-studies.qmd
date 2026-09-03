@@ -1,0 +1,19 @@
+---
+title: "Environmental and Social Studies"
+client: "Las Garzas Solar Park"
+location: "Durango, Mexico"
+year: 2018
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Environmental and Social Studies",
+  "sponsor": "Las Garzas Solar Park",
+  "spatialCoverage": "Durango, Mexico"
+}
+</script>
+
+The Environmental and Social Impact Assessments were carried out for a solar park. The power plant will be located near the City of Torreón in the state of Durango. The solar farm project was acquired by Iberdrola for its future construction.

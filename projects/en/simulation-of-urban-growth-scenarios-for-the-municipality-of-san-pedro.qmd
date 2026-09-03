@@ -1,0 +1,19 @@
+---
+title: "Simulation of urban growth scenarios for the municipality of San Pedro"
+client: "Centro Mario Molina (Mario Molina Centre)"
+location: "Mexico"
+year: 2024
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Simulation of urban growth scenarios for the municipality of San Pedro",
+  "sponsor": "Centro Mario Molina (Mario Molina Centre)",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+The project aimed to address San Pedro's new urban challenges and accelerated demographic transition by developing an innovative urban scenario simulation tool. The tool helps stakeholders visualize and measure the impacts of policies and investments on the future city’s structure and performance, and facilitates consensus-building on urban planning strategies to ensure the municipality's long-term sustainability and resilience.

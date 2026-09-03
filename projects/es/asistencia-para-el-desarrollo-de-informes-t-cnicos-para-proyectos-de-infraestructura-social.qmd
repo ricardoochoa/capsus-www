@@ -1,0 +1,19 @@
+---
+title: "Asistencia para el Desarrollo de Informes Técnicos para Proyectos de Infraestructura Social"
+client: "GIZ Banobras"
+location: "México"
+year: 2023-2024
+categories: ["Datos y Tecnología"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Asistencia para el Desarrollo de Informes Técnicos para Proyectos de Infraestructura Social",
+  "sponsor": "GIZ Banobras",
+  "spatialCoverage": "México"
+}
+</script>
+
+Este proyecto se centró en el desarrollo y diseño de una aplicación web para integrar portafolios técnicos sobre infraestructura hidráulica. La aplicación sirve como una guía metodológica para el personal técnico municipal en México, asistiendo en el mantenimiento y actualización de la infraestructura hidráulica existente y la creación de nuevos proyectos. La plataforma permite consultar metodologías sobre estudios de campo previos a la ejecución de proyectos y permite el seguimiento del progreso. El proyecto abarca la investigación de los métodos y requisitos para la implementación de dichos proyectos, incorporando visitas de campo a municipios de bajos recursos en México para comprender mejor sus necesidades institucionales. Además, el proyecto incluyó el diseño de sesiones de capacitación para los actores interesados.

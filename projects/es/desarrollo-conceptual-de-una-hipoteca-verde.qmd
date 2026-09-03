@@ -1,0 +1,19 @@
+---
+title: "Desarrollo conceptual de una Hipoteca Verde"
+client: "BBVA / GOPA"
+location: "México"
+year: 2021-2022
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Desarrollo conceptual de una Hipoteca Verde",
+  "sponsor": "BBVA / GOPA",
+  "spatialCoverage": "México"
+}
+</script>
+
+CAPSUS trabajó con GOPA y Passive House Institute (PHI) en el desarrollo de un concepto de hipoteca verde a través de la metodología *design-thinking* para un banco internacional en México. El programa tiene como objetivo ofrecer un nuevo producto financiero que propicie la adquisición de viviendas con alta eficiencia hídrica y energética para futuros propietarios. Se espera que este producto pueda mover el mercado hacia la mejora del desempeño ambiental al tiempo que más personas busquen y prioricen unidades de vivienda con ecotecnologías, diseños y ubicaciones con ahorro de energía y agua. Una parte del proyecto consistió en desarrollar el concepto de una herramienta de software para evaluar el potencial de ahorro de energía y agua que podría lograr una vivienda.

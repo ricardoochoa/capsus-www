@@ -1,0 +1,19 @@
+---
+title: "Plan de infraestructura sustentable para Zacatecas"
+client: "Gobierno de Zacatecas"
+location: "Zacatecas, México"
+year: 2021
+categories: ["Finanzas Sostenibles"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Plan de infraestructura sustentable para Zacatecas",
+  "sponsor": "Gobierno de Zacatecas",
+  "spatialCoverage": "Zacatecas, México"
+}
+</script>
+
+El proyecto consistió en desarrollar un análisis del estado de Zacatecas para identificar la infraestructura necesaria para alcanzar un desarrollo sustentable a nivel regional. CAPSUS realizó un análisis de la infraestructura existente, las tendencias demográficas y económicas del estado, y utilizando esa información el equipo desarrolló un conjunto de recomendaciones de inversiones para mejorar el desarrollo ambiental, social y económico del estado.

@@ -1,0 +1,19 @@
+---
+title: "Curso sobre Sustentabilidad Urbana"
+client: "Instituto Tecnológico de Estudios Superiores de Monterrey (ITESM)"
+location: "Estado de México, México"
+year: 2019
+categories: ["Datos y Tecnología"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Curso sobre Sustentabilidad Urbana",
+  "sponsor": "Instituto Tecnológico de Estudios Superiores de Monterrey (ITESM)",
+  "spatialCoverage": "Estado de México, México"
+}
+</script>
+
+Se apoyó al Instituto en la impartición de un curso a nivel licenciatura de planeación urbana con un enfoque de sustentabilidad y mediante el uso de herramientas de informática para la toma de decisiones.

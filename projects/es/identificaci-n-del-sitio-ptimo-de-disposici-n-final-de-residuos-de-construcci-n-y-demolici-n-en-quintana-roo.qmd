@@ -1,0 +1,19 @@
+---
+title: "Identificación del Sitio Óptimo de Disposición Final de Residuos de Construcción y Demolición en Quintana Roo"
+client: "Exinsa"
+location: "México"
+year: 2023
+categories: ["Gestión de Residuos"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Identificación del Sitio Óptimo de Disposición Final de Residuos de Construcción y Demolición en Quintana Roo",
+  "sponsor": "Exinsa",
+  "spatialCoverage": "México"
+}
+</script>
+
+El objetivo principal de este proyecto fue realizar un diagnóstico del municipio de Benito Juárez que sirva como guía y herramienta de apoyo al cliente para iniciar el desarrollo de un sitio de disposición final de residuos de construcción y demolición de acuerdo con las condiciones normativas, biofísicas y socioeconómicas del municipio. Sugiere las mejores ubicaciones en el municipio, así como las mejores prácticas de gestión de residuos y las tendencias de generación de residuos de construcción y demolición.

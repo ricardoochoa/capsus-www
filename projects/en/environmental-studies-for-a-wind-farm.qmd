@@ -1,0 +1,19 @@
+---
+title: "Environmental Studies for a Wind Farm"
+client: "ZUMA ENERGY"
+location: "Tamaulipas, Mexico"
+year: 2016-2017
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Environmental Studies for a Wind Farm",
+  "sponsor": "ZUMA ENERGY",
+  "spatialCoverage": "Tamaulipas, Mexico"
+}
+</script>
+
+Various support services for the establishment of a 400 MW wind farm and its transmission lines were carried out. Some of the services performed were environmental feasibility studies, environmental Due Diligence, flora and fauna field studies, Environmental Impact Assessment, and Technical Justification Study for Land Use change. The project was conducted jointly with ENVIROSENSE.

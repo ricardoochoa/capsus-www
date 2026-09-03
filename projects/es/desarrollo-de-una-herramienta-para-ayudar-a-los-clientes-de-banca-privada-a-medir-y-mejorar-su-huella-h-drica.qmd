@@ -1,0 +1,19 @@
+---
+title: "Desarrollo de una herramienta para ayudar a los clientes de banca privada a medir y mejorar su huella hídrica"
+client: "Institución financiera"
+location: "México"
+year: 2025
+categories: ["Datos y Tecnología"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Desarrollo de una herramienta para ayudar a los clientes de banca privada a medir y mejorar su huella hídrica",
+  "sponsor": "Institución financiera",
+  "spatialCoverage": "México"
+}
+</script>
+
+El objetivo general de este proyecto es desarrollar una herramienta, integral y de fácil aplicación que permita a los usuarios medir y mejorar su huella hídrica.  De manera específica, se desarrolló una metodología práctica para la medición del consumo de agua e impacto en los mantos acuíferos de las actividades productivas de diversos sectores, de forma que la herramienta produzca indicadores relevantes y que esta sea adaptable a las diversas características y necesidades de los usuarios. Los algoritmos que se utilizan se basan en marcos y metodologías líderes en la evaluación de la huella hídrica, incluyendo la ISO 14046 y la Norma Mexicana NMX-SAA-14046-IMNC-2017, "GESTIÓN AMBIENTAL-HUELLA DE AGUA-PRINCIPIOS, REQUISITOS Y DIRECTRICES. De igual manera, la herramienta identifica y clasifica soluciones concretas y viables que puedan ser susceptibles de financiamiento sostenible.

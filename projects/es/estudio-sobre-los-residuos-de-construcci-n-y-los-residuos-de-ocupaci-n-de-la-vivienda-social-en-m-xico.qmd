@@ -1,0 +1,19 @@
+---
+title: "Estudio sobre los residuos de construcción y los residuos de ocupación de la vivienda social en México"
+client: "Infonavit"
+location: "México"
+year: 2017
+categories: ["Gestión de Residuos"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Estudio sobre los residuos de construcción y los residuos de ocupación de la vivienda social en México",
+  "sponsor": "Infonavit",
+  "spatialCoverage": "México"
+}
+</script>
+
+Estudio para la definición de estrategias o mecanismos promovidos por el instituto, para el manejo adecuado de los residuos generados durante la construcción de unidades habitacionales y en la ocupación de la vivienda. El objetivo de desarrollar dichas estrategias es mejorar las condiciones de vida de los derechohabientes en las unidades habitacionales financiadas por el instituto.

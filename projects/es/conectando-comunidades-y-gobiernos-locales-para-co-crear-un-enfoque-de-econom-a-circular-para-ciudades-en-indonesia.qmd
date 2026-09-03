@@ -1,0 +1,19 @@
+---
+title: "Conectando comunidades y gobiernos locales para co-crear un enfoque de economía circular para ciudades en Indonesia"
+client: "Banco Mundial"
+location: "Indonesia"
+year: 2022-2023
+categories: ["Datos y Tecnología"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Conectando comunidades y gobiernos locales para co-crear un enfoque de economía circular para ciudades en Indonesia",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Indonesia"
+}
+</script>
+
+El objetivo principal es apoyar el desarrollo de una herramienta de planificación colaborativa para acceder a una variedad de información que apunta al potencial de desarrollo del espacio público identificado. Esta plataforma permite que las personas de la comunidad y las personas de sectores informales, como los recicladores, sean parte integral de la identificación de los vertederos e incluyan a la comunidad en el proceso de regeneración de estas áreas. CollabData (desarrollado por CAPSUS y UPTech) es la tecnología de referencia para permitir que las personas usuarias de la plataforma (personas residentes, académicas, personas funcionarias gubernamentales, quienes administran la plataforma, incluido el Banco Mundial, etc.) ingresen datos sobre los espacios públicos potenciales información diversa de los espacios públicos identificados y dar seguimiento a los proyectos asociados. Se puede acceder a CollabData a través de la web, pero también en dispositivos móviles. Fue diseñado para ser lo más ligero posible para que exista un uso muy limitado de datos móviles.

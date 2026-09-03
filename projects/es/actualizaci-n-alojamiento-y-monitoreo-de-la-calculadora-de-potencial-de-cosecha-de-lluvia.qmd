@@ -1,0 +1,19 @@
+---
+title: "Actualización, alojamiento y monitoreo de la calculadora de potencial de cosecha de lluvia"
+client: "Cántaro Azul"
+location: "México"
+year: 2025
+categories: ["Datos y Tecnología"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Actualización, alojamiento y monitoreo de la calculadora de potencial de cosecha de lluvia",
+  "sponsor": "Cántaro Azul",
+  "spatialCoverage": "México"
+}
+</script>
+
+Actualización y mejoras de accesibilidad de la calculadora de potencial de cosecha de lluvia, una herramienta desarrollada previamente por CAPSUS. El trabajo abarcó la integración a la imagen de Cántaro Azul y la integración a su página web. Se actualizó el material de ayuda para asegurar transparencia y claridad en los procesos y se realizaron mejoras en el sistema de geolocalización. Estos cambios permiten el uso de datos climatológicos a escala global, basados en la localización del proyecto, así como proyecciones de cambio climático. Adicionalmente, se realizaron mejoras en el sistema de idiomas, de manera que la herramienta ahora está disponible en español, inglés y francés.

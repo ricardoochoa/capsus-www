@@ -1,0 +1,19 @@
+---
+title: "Dissemination and Capacity Development Semarang Siap 2.0"
+client: "World Bank"
+location: "Indonesia"
+year: 2022-2023
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Dissemination and Capacity Development Semarang Siap 2.0",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Indonesia"
+}
+</script>
+
+This project aims at developing the capacity of the City Government of Semarang to gain insight into the city's situation in real-time using a digital solution. As part of this project, CAPSUS is further developing the open-source digital platform, called Semarang SIAP. This tool guarantees a seamless process for collecting, managing, and analyzing data for the City Government of Semarang. Working collaboratively with the World Bank and the Planning Agency of Semarang, CAPSUS will ensure the usability and sustainability of the platform through implementation support and capacity building. The general activities of this project are: 1) updating and adding additional functionalities to the Semarang SIAP platform according to the needs of Semarang City, 2) supporting an implementation pilot of Semarang SIAP, and 3) updating and developing additional resources for capacity building and knowledge transfer to promote the sustainability of Semarang SIAP utilization.

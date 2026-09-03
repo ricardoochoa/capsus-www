@@ -1,0 +1,19 @@
+---
+title: "Identifying the Optimal Construction and Demolition Waste Disposal Site in Quintana Roo"
+client: "Exinsa"
+location: "Mexico"
+year: 2023
+categories: ["Waste Management"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Identifying the Optimal Construction and Demolition Waste Disposal Site in Quintana Roo",
+  "sponsor": "Exinsa",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+The main objective of this project was to perform a diagnosis of the Benito Juárez municipality that serves as a guide and a support tool for the client to start developing a construction and demolition waste final disposal site according to the normative, biophysical and socioeconomic conditions of the municipality. It suggests the best locations in the municipality as well as waste management best practices and construction and demolition waste generation trends.

@@ -1,0 +1,19 @@
+---
+title: "Digital tools for a Sustainable Future in the urban area of Georgetown City in Guyana"
+client: "University of Guyana"
+location: "Georgetown, Guyana"
+year: 2021
+categories: ["Data & Technology"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Digital tools for a Sustainable Future in the urban area of Georgetown City in Guyana",
+  "sponsor": "University of Guyana",
+  "spatialCoverage": "Georgetown, Guyana"
+}
+</script>
+
+This project aimed to enhance climate resilience in Georgetown City, with a focus on flood-hazard mitigation. By strategically employing "Suitability" and "Urban Performance" Urban Planning Tools developed by CAPSUS, the initiative supported evidence-based decision-making processes to guide sustainable urban development. Key activities included a comprehensive assessment of the potential social and economic impacts of flood hazards on the population, built-up areas, critical amenities, and urban infrastructure. The project also raised awareness among key stakeholders about the value of digital tools and spatial insights for prioritizing interventions, reducing vulnerability, and fostering long-term resilience to climate risks.

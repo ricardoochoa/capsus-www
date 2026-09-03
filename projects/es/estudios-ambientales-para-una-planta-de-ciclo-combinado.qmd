@@ -1,0 +1,19 @@
+---
+title: "Estudios Ambientales para una Planta de Ciclo Combinado"
+client: "PANEM Energy"
+location: "Tecate, Baja California"
+year: 2016-2017
+categories: ["Estudios Ambientales"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Estudios Ambientales para una Planta de Ciclo Combinado",
+  "sponsor": "PANEM Energy",
+  "spatialCoverage": "Tecate, Baja California"
+}
+</script>
+
+Se apoyó el establecimiento de una planta de generación eléctrica de 300 MW que utiliza gas natural y cuya tecnología es una turbina con ciclo combinado, mediante la elaboración de una Manifestación de Impacto Ambiental y un Estudio de Impacto Social. El objetivo es lograr una planta de generación que aporte electricidad a bajo costo e impacto ambiental, por lo que parte del trabajo consiste en modelar la pluma de emisiones y proponer las acciones y opciones tecnológicas de mayor costo-efectividad, de forma que se establezcan los mejores controles ambientales.

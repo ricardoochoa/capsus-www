@@ -1,0 +1,19 @@
+---
+title: "Escenarios de Crecimiento Urbano en Palestina"
+client: "Municipal Development and Lending Fund (MDLF)"
+location: "Ramalá-Al Bireh, Belén, Hebrón, Nablus y Gaza, Palestina"
+year: 2018-2019
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Escenarios de Crecimiento Urbano en Palestina",
+  "sponsor": "Municipal Development and Lending Fund (MDLF)",
+  "spatialCoverage": "Ramalá-Al Bireh, Belén, Hebrón, Nablus y Gaza, Palestina"
+}
+</script>
+
+El Ministerio de Gobierno Local, a través del proyecto Ciudades Integradas y Desarrollo Urbano (ICUD) apoya el incremento de capacidades de planeación sustentable en las áreas urbanas de Ramala, Belén, Hebrón, Nablus y la ciudad de Gaza. Como parte de dicho proyecto, el alcance de esta consultoría consistió en el desarrollo de una herramienta de planificación urbana integral, llamada Urban Performance, y en la modelación de escenarios de desarrollo urbano al año 2035 para las cinco ciudades. Los escenarios fueron desarrollados y analizados de la mano de los actores locales, quienes también recibieron capacitación para continuar utilizando y desarrollando la herramienta a futuro. Las cinco ciudades continuaron desarrollando nuevos análisis y escenarios con Urban Performance después de concluido el proyecto.

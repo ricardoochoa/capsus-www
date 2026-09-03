@@ -1,0 +1,19 @@
+---
+title: "Parques Eólicos en Oaxaca"
+client: "PRENEAL México"
+location: "Oaxaca, México"
+year: 2011-2012
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Parques Eólicos en Oaxaca",
+  "sponsor": "PRENEAL México",
+  "spatialCoverage": "Oaxaca, México"
+}
+</script>
+
+Se coordinan los estudios y trabajos para cumplir con la normatividad ambiental, se apoya también en la revisión de documentación para acreditar el cumplimiento de condicionantes ambientales ante SEMARNAT y seguimiento a los trámites de autorización de construcción de los proyectos Parque Eólico San Dionisio y Parque Eólico Istmeño, Oaxaca. Además, se elaboró la Manifestación de Impacto Ambiental para la línea de alta transmisión y se asesoró a la empresa para el establecimiento de una unidad de manejo ambiental que permita incrementar la población de la fauna endémica de la región.

@@ -1,0 +1,19 @@
+---
+title: "Colima Strategic Investment Roadmap"
+client: "Alianza para la Regeneración Urbana"
+location: "Colima, Mexico"
+year: 2025
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Colima Strategic Investment Roadmap",
+  "sponsor": "Alianza para la Regeneración Urbana",
+  "spatialCoverage": "Colima, Mexico"
+}
+</script>
+
+CAPSUS spearheaded a high-level territorial governance and investment prioritization study for the State of Colima to anchor the 2025–2026 Development Program. By deploying the UN-Habitat GAF-MTR framework, we conducted a rigorous diagnostic of the state’s legal, institutional, and financial architecture, ensuring alignment with international best practices. A standout feature of our approach was the application of mathematical network analysis to the project pipeline; by modeling investments as nodes and functional interdependencies as edges, we moved beyond static ranking to identify “catalytic assets”—strategic projects that optimize capital allocation by unlocking secondary investment cycles. This data-driven methodology provided the State and potential multilateral lenders with a transparent, bankable roadmap that mitigates institutional risk and maximizes the socio-economic return on metropolitan infrastructure.

@@ -1,0 +1,19 @@
+---
+title: "Desarrollo de un Producto Hipotecario Verde para la banca privada"
+client: "Institución financiera"
+location: "México"
+year: 2022-2024
+categories: ["Finanzas Sostenibles"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Desarrollo de un Producto Hipotecario Verde para la banca privada",
+  "sponsor": "Institución financiera",
+  "spatialCoverage": "México"
+}
+</script>
+
+El proyecto fue desarrollado en asociación con el Instituto Alemán Passivhaus (PHI) y GOPA. Consistió en desarrollar la metodología y el sistema para estimar el ahorro de energía y agua de las viviendas para revisar su potencial y calificar para una tasa hipotecaria más baja denominada Hipoteca Verde. El equipo acompañó a la Institución Financiera durante la fase de implementación del piloto.

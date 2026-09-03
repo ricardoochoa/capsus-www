@@ -1,0 +1,19 @@
+---
+title: "Livable Cities in Sri Lanka: Contributions to the Climate Change and Development Report"
+client: "World Bank"
+location: "Sri Lanka"
+year: 2024
+categories: ["Climate Change"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Livable Cities in Sri Lanka: Contributions to the Climate Change and Development Report",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Sri Lanka"
+}
+</script>
+
+The project conducted a comprehensive analysis of the livability, climate change vulnerability, and potential mitigation and adaptation strategies for the Colombo Metropolitan Area (CMA) and Sri Lanka to inform the development of policy recommendations for Sri Lanka's Climate Change and Development Report (CCDR). It included 1) an evaluation of national-level climate change mitigation and adaptation policies and their linkages with urbanization processes, 2) a quantified and spatial analysis to assess the contribution of unplanned urban growth and the lack of a low-carbon focus across municipal services to the country’s GHG emissions and performance against key indicators, and 3) an assessment of the Solid Waste Management (SWM) value chain. The project also forecasted trends under three scenarios for CMA up to 2050: the Do-nothing scenario, the Planned scenario, and the Best-case scenario.

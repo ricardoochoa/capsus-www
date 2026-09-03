@@ -1,0 +1,19 @@
+---
+title: "Research Agenda for Clean Energy and Energy Efficiency"
+client: "SENER, World Bank, and Inter-American Development Bank"
+location: "Campeche, Quintana Roo, Tabasco, Yucatan, Mexico"
+year: 2016
+categories: ["Public Policies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Research Agenda for Clean Energy and Energy Efficiency",
+  "sponsor": "SENER, World Bank, and Inter-American Development Bank",
+  "spatialCoverage": "Campeche, Quintana Roo, Tabasco, Yucatan, Mexico"
+}
+</script>
+
+Cabinet and field studies were carried out in the Yucatan Peninsula in four states in southeast Mexico to develop a research agenda for the Mexican Department of Energy for public spending in this part of the country. This project included the analysis of the natural vocation of the region, the economic dynamics, the energy supply and demand, the established companies and existing investment projects, the regional competitiveness in the field, the existing infrastructure, the current research efforts and results, the business needs, and the installed capacity of academic institutions. The result was the development of State Investment Plans in Clean Energy, based on an assessment of regional needs. For this project, we worked with PRETIUM S.C.

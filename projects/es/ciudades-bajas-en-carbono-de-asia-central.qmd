@@ -1,0 +1,19 @@
+---
+title: "Ciudades bajas en carbono de Asia Central"
+client: "Banco Mundial"
+location: "Kazajstán, Kirguistán, Tayikistán, Turkmenistán y Uzbekistán."
+year: 2022-2023
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Ciudades bajas en carbono de Asia Central",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Kazajstán, Kirguistán, Tayikistán, Turkmenistán y Uzbekistán."
+}
+</script>
+
+El proyecto consistió en desarrollar indicadores que mostraran diagnósticos urbano-ambientales a nivel de país y evaluar opciones de políticas para 48 ciudades en Asia Central (AC) a través de ejercicios analíticos cuantitativos, espaciales y cualitativos para catalizar la formulación de políticas efectivas que promuevan un desarrollo urbano verde, inclusivo, sostenible y climáticamente inteligente. El objetivo principal del estudio es profundizar en la comprensión de los desafíos a nivel subnacional (incluidas las regiones, áreas metropolitanas y ciudades, según corresponda) e identificar acciones potenciales en ciudades seleccionadas de cinco países para potenciar el desarrollo de ciudades y regiones resilientes y bajas en carbono. El proyecto contribuye a reducir la huella de carbono, el consumo de energía y las emisiones de gases de efecto invernadero (GEI) de las ciudades de AC, colocándolas en un camino de desarrollo más verde y resiliente. El estudio también examinó las acciones de adaptación que contribuyen tanto a la mitigación como a una agenda más amplia de resiliencia. Los hallazgos del estudio aportaron la batería de indicadores, la metodología, la línea base y las recomendaciones iniciacles para servir como puntos de partida para que las ciudades de la región implementen estrategias, inversiones y acciones climáticamente inteligentes. El proyecto se desarrolló de manera general en 48 ciudades y de manera profunda y detallada en cinco ciudades.

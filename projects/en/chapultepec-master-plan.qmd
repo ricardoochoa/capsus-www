@@ -1,0 +1,19 @@
+---
+title: "Chapultepec Master Plan"
+client: "Mexico City Government"
+location: "Mexico City, Mexico"
+year: 2021
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Chapultepec Master Plan",
+  "sponsor": "Mexico City Government",
+  "spatialCoverage": "Mexico City, Mexico"
+}
+</script>
+
+Together with ORU and a group of Mexican architects, CAPSUS developed the new Master Plan for Mexico City's main city park. The plan had social and environmental objectives to revitalize Chapultepec Park and serve as a nature-based solution to mitigate the effects of climate change in the city.

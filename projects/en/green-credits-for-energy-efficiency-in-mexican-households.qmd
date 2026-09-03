@@ -1,0 +1,19 @@
+---
+title: "Green Credits for Energy Efficiency in Mexican Households"
+client: "GIZ / FIPATERM"
+location: "Mexico"
+year: 2023
+categories: ["Sustainable Finance"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Green Credits for Energy Efficiency in Mexican Households",
+  "sponsor": "GIZ / FIPATERM",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+CAPSUS worked with FIPATERM and GOPA to develop an online system to guide homeowners in the best choices for improving energy efficiency in their homes through the installation of new equipment. The system helps calculate and approve a green loan to the home owners through the Mexican FIPATERM energy efficiency fund.

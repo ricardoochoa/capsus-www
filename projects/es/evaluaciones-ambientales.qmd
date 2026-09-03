@@ -1,0 +1,19 @@
+---
+title: "Evaluaciones ambientales"
+client: "ZUMA Energía"
+location: "México"
+year: 2016
+categories: ["Energía Renovable"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Evaluaciones ambientales",
+  "sponsor": "ZUMA Energía",
+  "spatialCoverage": "México"
+}
+</script>
+
+Se realiza la auditoría (Due Diligence) de proyectos de generación eléctrica mediante energía renovable y se da consultoría sobre la factibilidad ambiental de nuevos proyectos de inversión en el sector energético.

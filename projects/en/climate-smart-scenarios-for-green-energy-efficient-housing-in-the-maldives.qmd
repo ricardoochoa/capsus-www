@@ -1,0 +1,19 @@
+---
+title: "Climate-Smart Scenarios for Green & Energy-Efficient Housing in the Maldives"
+client: "World Bank"
+location: "Greater Male, Addu, and Fuvahmulah, Maldives"
+year: 2023-2024
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Climate-Smart Scenarios for Green & Energy-Efficient Housing in the Maldives",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Greater Male, Addu, and Fuvahmulah, Maldives"
+}
+</script>
+
+The project supports the Government of Maldives in developing metrics that provide socio-spatial economic assessments and key recommendations to inform the national housing policy. The work provides input for more efficient and effective financing on housing in Greater Male (Malé City, Hulhumalé, Thilafushi, Gulhi Falhu), Addu City, and Fuvahmulah City. The project produces a detailed assessment of the cities that prioritizes affordable housing investments with low GHG emissions and resilience to climate change. The work includes data collection and mapping of urban development and climate risk vulnerability metrics; scenario planning for housing development; the evaluation of scenarios; the development of green and energy-efficient technical housing guidelines; and the dissemination of results.

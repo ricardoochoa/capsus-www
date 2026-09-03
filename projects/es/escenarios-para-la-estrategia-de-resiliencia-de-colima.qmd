@@ -1,0 +1,19 @@
+---
+title: "Escenarios para la Estrategia de Resiliencia de Colima"
+client: "AECOM y la Oficina de Resiliencia de Colima para la Rockefeller Foundation"
+location: "Colima, México"
+year: 2018
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Escenarios para la Estrategia de Resiliencia de Colima",
+  "sponsor": "AECOM y la Oficina de Resiliencia de Colima para la Rockefeller Foundation",
+  "spatialCoverage": "Colima, México"
+}
+</script>
+
+El proyecto es uno de los elementos que conforman la Estrategia de Resiliencia para la Ciudad de Colima, como parte de la iniciativa 100 Ciudades Resilientes de la Rockefeller Foundation. Su objetivo fue identificar las estrategias con mayor potencial de impulsar el desarrollo resiliente de la Zona Metropolitana de Colima-Villa de Álvarez con una visión al año 2030. Para ello, se analizaron cuantitativamente más de diez posibles intervenciones o políticas públicas. Entre estas destacan las relacionadas con la planificación del crecimiento urbano de forma compacta, nuevas rutas de transporte y ciclovías, creación de nuevas unidades de equipamiento urbano y el cambio de alumbrado público a la tecnología LED. El proceso y resultados del estudio fueron utilizados para definir elementos del nuevo Programa Municipal de Desarrollo Urbano y Programa de Desarrollo Urbano de Centro de Población de Colima.

@@ -1,0 +1,19 @@
+---
+title: "Scenarios for the Resilience Strategy for Colima"
+client: "AECOM and the Resilience Office for Colima of the Rockefeller Foundation"
+location: "Colima, Mexico"
+year: 2018
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Scenarios for the Resilience Strategy for Colima",
+  "sponsor": "AECOM and the Resilience Office for Colima of the Rockefeller Foundation",
+  "spatialCoverage": "Colima, Mexico"
+}
+</script>
+
+The project is one of the elements that make up the Resilience Strategy for the City of Colima, as part of the Rockefeller Foundation's 100 Resilient Cities initiative. Its objective was to identify the strategies with the greatest potential to promote the resilient development of the Colima-Villa de Álvarez Metropolitan Area with a vision for the year 2030. To this end, more than ten possible interventions or public policies were analyzed quantitatively. These include those related to planning urban growth in a compact way, new transport routes and bicycle routes, the creation of new urban amenities and the change of public lighting to LED technology. The process and results of the study were used to define elements of the new Urban Development Program.

@@ -1,0 +1,19 @@
+---
+title: "Public Consultation"
+client: "Amigos de Sian Ka’an A. C. (National NGO on Environmental Conservation)"
+location: "Quintana Roo, Mexico"
+year: 2017
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Public Consultation",
+  "sponsor": "Amigos de Sian Ka’an A. C. (National NGO on Environmental Conservation)",
+  "spatialCoverage": "Quintana Roo, Mexico"
+}
+</script>
+
+The project consisted of designing and implementing a public consultation process for the conservation and management program of the protected area: Mexican Caribbean Biosphere Reserve for the National Commission of Protected Areas (CONANP). This process included a web-based platform for interactive visualization and for systematizing the opinions registered by citizens.

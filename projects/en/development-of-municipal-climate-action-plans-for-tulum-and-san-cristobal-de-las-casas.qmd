@@ -1,0 +1,19 @@
+---
+title: "Development of Municipal Climate Action Plans for Tulum and San Cristobal de las Casas"
+client: "World Bank"
+location: "Tulum, Quintana Roo & San Cristóbal de las Casas, Chiapas Mexico"
+year: 2021-2022
+categories: ["Climate Change"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Development of Municipal Climate Action Plans for Tulum and San Cristobal de las Casas",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Tulum, Quintana Roo & San Cristóbal de las Casas, Chiapas Mexico"
+}
+</script>
+
+The overall objective of this project is to guide and support the municipalities of Tulum and San Cristobal de las Casas through a process of stakeholder engagement, collection of relevant data/information, and development of a Municipal Climate Action Plan for each city, compliant with the IPCC methodology and other relevant, internationally recognized reporting methodologies. This includes organizing workshops with local stakeholders (municipal authorities) to engage with beneficiaries, provide context and direction for local efforts and cooperation, and secure buy-in for target setting. A second component of the project is to build local capacity to use appropriate tools, templates, and international reporting standards for GHG inventories and assessments, scenario planning, and regular monitoring.

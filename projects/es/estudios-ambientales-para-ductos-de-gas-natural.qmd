@@ -1,0 +1,19 @@
+---
+title: "Estudios Ambientales para Ductos de Gas Natural"
+client: "IGASAMEX"
+location: "Ciudad de México, México"
+year: 2016-2025
+categories: ["Estudios Ambientales"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Estudios Ambientales para Ductos de Gas Natural",
+  "sponsor": "IGASAMEX",
+  "spatialCoverage": "Ciudad de México, México"
+}
+</script>
+
+Se realizaron estudios ambientales para apoyar el cumplimiento de condicionantes y estrategias de protección ambiental a una industria de gas natural.

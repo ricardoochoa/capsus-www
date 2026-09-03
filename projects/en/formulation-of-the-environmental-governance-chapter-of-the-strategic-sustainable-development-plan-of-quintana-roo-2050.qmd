@@ -1,0 +1,19 @@
+---
+title: "Formulation of the Environmental Governance Chapter of the Strategic Sustainable Development Plan of Quintana Roo 2050"
+client: "Ciudadanos por la Transparencia (Citizens for Transparency Organization)"
+location: "Mexico"
+year: 2024
+categories: ["Public Policies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Formulation of the Environmental Governance Chapter of the Strategic Sustainable Development Plan of Quintana Roo 2050",
+  "sponsor": "Ciudadanos por la Transparencia (Citizens for Transparency Organization)",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+This project involved the creation of the Environmental Governance chapter for the Strategic Sustainable Development Plan of Quintana Roo 2050. It entailed comprehensive documentary research on the state's primary environmental challenges and a detailed mapping of the environmental regulatory framework and relevant public policies. CAPSUS led the project, designing and implementing instruments for information co-generation and facilitating citizen participation processes with key stakeholders from the private, public, and civil society sectors across the different regions of the state. CAPSUS also developed strategic action lines and public policy recommendations aimed at enhancing the multisectoral relevance and effectiveness of environmental governance in Quintana Roo.

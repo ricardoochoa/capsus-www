@@ -1,0 +1,19 @@
+---
+title: "Environmental Studies and Permitting for a Combined Cycle Plant"
+client: "PANEM Energy"
+location: "Tecate, Baja California, Mexico"
+year: 2016-2017
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Environmental Studies and Permitting for a Combined Cycle Plant",
+  "sponsor": "PANEM Energy",
+  "spatialCoverage": "Tecate, Baja California, Mexico"
+}
+</script>
+
+We worked with the client to establish a 300 MW power plant that uses natural gas and whose technology is a combined cycle turbine. CAPSUS's role was to develop both an Environmental Impact Assessment and a Social Impact Study. The aim of the overall project is to provide electricity at low cost and with minimal environmental impact, therefore, part of the work consisted of modeling emissions and proposing cost-effective options for pollution control.

@@ -1,0 +1,19 @@
+---
+title: "Demographic Transition in Latin America"
+client: "Inter-American Development Bank (IDB)"
+location: "Latin America"
+year: 2016
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Demographic Transition in Latin America",
+  "sponsor": "Inter-American Development Bank (IDB)",
+  "spatialCoverage": "Latin America"
+}
+</script>
+
+Production of a 7-minute animated video “Disruptive Demographics in Latina America and the Caribbean: Shrinking and aging in sustainable cities” summarizing the main findings of the demographic transition study for 20 cities in Latin America. The presentation includes changes in longevity, births and fertility since 1950 and its projection to 2100.

@@ -1,0 +1,19 @@
+---
+title: "Plataforma para el seguimiento de la huella de carbono y de agua del tequila"
+client: "Consejo Regulador del Tequila y Centro Mario Molina, 2026"
+location: "México"
+year: 2026
+categories: ["Datos y Tecnología"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Plataforma para el seguimiento de la huella de carbono y de agua del tequila",
+  "sponsor": "Consejo Regulador del Tequila y Centro Mario Molina, 2026",
+  "spatialCoverage": "México"
+}
+</script>
+
+El proyecto consistió en el desarrollo de una plataforma tecnológica integral para la industria del tequila, diseñada para calcular y monitorear tanto la huella hídrica como la de carbono del tequila. Para lograr una medición precisa a lo largo de toda la cadena de valor, la herramienta incorpora inteligencia geoespacial aplicada directamente a las parcelas y zonas de cultivo. Además, se estructuraron sus datos medioambientales siguiendo estrictamente las directrices y jerarquías del Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC). De este modo, el sistema abarcó el ciclo de vida completo de la bebida, integrando la recopilación de datos desde el sector agrícola, centrándose en el cultivo del agave hasta el sector industrial, donde se documentan exhaustivamente los procesos de cocción, destilación, refinado y embotellado.

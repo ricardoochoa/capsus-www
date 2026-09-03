@@ -1,0 +1,19 @@
+---
+title: "City Climate Action Plan Analysis"
+client: "World Bank"
+location: "Latin America and the Caribbean"
+year: 2021-2022
+categories: ["Public Policies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "City Climate Action Plan Analysis",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Latin America and the Caribbean"
+}
+</script>
+
+The overall objective of this project is to analyze 30 Climate Action Plans (CAPs) from cities in Latin America and the Caribbean to identify patterns that could guide the identification of actions in similarly endowed cities. The analysis helped categorize the actions identified in each city’s CAP by sector, cost (if available), funding source, and timeline (short-, medium-, or long-term).

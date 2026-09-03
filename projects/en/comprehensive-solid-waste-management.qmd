@@ -1,0 +1,19 @@
+---
+title: "Comprehensive Solid Waste Management"
+client: "Metepec Municipality"
+location: "Metepec, Mexico"
+year: 2010
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Comprehensive Solid Waste Management",
+  "sponsor": "Metepec Municipality",
+  "spatialCoverage": "Metepec, Mexico"
+}
+</script>
+
+Consulting services for the strengthening of the waste management area of the municipality (part of the Capital of the State of Mexico).

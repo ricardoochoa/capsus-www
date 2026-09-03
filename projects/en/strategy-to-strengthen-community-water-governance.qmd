@@ -1,0 +1,19 @@
+---
+title: "Strategy to Strengthen Community Water Governance"
+client: "German International Cooperation for Sustainable Development (GIZ)"
+location: "Rural communities in the state of Quintana Roo, Mexico"
+year: 2021-2022
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Strategy to Strengthen Community Water Governance",
+  "sponsor": "German International Cooperation for Sustainable Development (GIZ)",
+  "spatialCoverage": "Rural communities in the state of Quintana Roo, Mexico"
+}
+</script>
+
+The objective was to develop a Strategy to Strengthen Community Water Governance. The project started with a diagnosis of the social and environmental conditions of several communities in Quintana Roo, Mexico. These results served to develop three main components of the Strategy: 1) Accompaniment Training Program, 2) Community Management Proposal, and 3) Capacity Building Program. All components work in synergy and relate to a set of environmental and social indicators to measure the success of the strategy’s implementation.

@@ -1,0 +1,19 @@
+---
+title: "Study About Construction Waste and Social Housing Waste in Mexico"
+client: "Infonavit"
+location: "Mexico"
+year: 2017
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Study About Construction Waste and Social Housing Waste in Mexico",
+  "sponsor": "Infonavit",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+A study was done to define strategies or mechanisms promoted by the institute for the adequate management of the waste generated during the construction of housing units and the occupation of the dwellings. The objective of developing these strategies is to improve the living conditions of the beneficiaries in the housing units financed by the institute.

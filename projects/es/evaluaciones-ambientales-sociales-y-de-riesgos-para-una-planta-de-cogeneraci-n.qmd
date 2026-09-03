@@ -1,0 +1,19 @@
+---
+title: "Evaluaciones Ambientales, Sociales y de Riesgos para una Planta de Cogeneración"
+client: "Igasamex"
+location: "Querétaro, México"
+year: 2021-2022
+categories: ["Energía Renovable"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Evaluaciones Ambientales, Sociales y de Riesgos para una Planta de Cogeneración",
+  "sponsor": "Igasamex",
+  "spatialCoverage": "Querétaro, México"
+}
+</script>
+
+CAPSUS trabajó con Igasamex y AESA en el desarrollo de una planta de cogeneración de gas natural para un parque industrial en el estado de Querétaro en México. Esta planta tiene la intención de mejorar la seguridad de la electricidad para el parque, reducir los costos de electricidad a las industrias aledañas y reducir la intensidad de carbono del parque industrial, su diseño le permite trabajar de forma aislada o interconectada con la red nacional. La planta de cogeneración podría lograr una reducción del 50% en las emisiones de GEI por consumo de electricidad.

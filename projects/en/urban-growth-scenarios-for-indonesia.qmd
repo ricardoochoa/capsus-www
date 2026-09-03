@@ -1,0 +1,19 @@
+---
+title: "Urban Growth Scenarios for Indonesia"
+client: "World Bank, Korean Green Growth Trust Fund, and National Government of Indonesia"
+location: "Denpasar and Semarang, Indonesia"
+year: 2017
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Urban Growth Scenarios for Indonesia",
+  "sponsor": "World Bank, Korean Green Growth Trust Fund, and National Government of Indonesia",
+  "spatialCoverage": "Denpasar and Semarang, Indonesia"
+}
+</script>
+
+The Urban Growth Scenarios for Indonesia were funded by the Korean Green Growth Trust Fund through the World Bank to assess development paths for two Indonesian cities –Semarang and Denpasar. Urban growth scenarios were developed by adapting two tools: Suitability and Urban Performance. The tools were used to visualize the impacts of different public policies on the environmental, social, and economic dimensions. The scenarios included different urban public policies in terms of housing availability, water efficiency, energy consumption, cost-revenues balance, and greenhouse gas emissions, thus estimating environmental, social, and economic indicators for each urban growth path option. Additionally, the benefits and drawbacks of different combinations of public policies, projects, and conditions were assessed to reach a consensus about the best development path. Stakeholders participated in a series of capacity-building and technology transfer workshops. Finally, as an extension for the project, we proposed new land regulations for Palu, after the 2018 earthquake and tsunami.

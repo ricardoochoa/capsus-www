@@ -1,0 +1,19 @@
+---
+title: "Community Water Governance Strengthening Strategy"
+client: "Amigos de Sian Ka’an A. C. (National NGO on Environmental Conservation)"
+location: "Quintana Roo, Mexico"
+year: 2021
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Community Water Governance Strengthening Strategy",
+  "sponsor": "Amigos de Sian Ka’an A. C. (National NGO on Environmental Conservation)",
+  "spatialCoverage": "Quintana Roo, Mexico"
+}
+</script>
+
+The objective of this project was to develop a community water governance strengthening strategy by designing three different components: 1) Proposal for community management, 2) Community assistance capacity building program, and 3) Capacity strengthening program targeted to the communities. This project started with a comprehensive diagnosis of eight communities in Quintana Roo. The information was collected using a digital platform to systematize the results. Collecting information from the communities ensured that the strategy was aligned with the region’s reality. This strategy involved the installation of water efficiency technologies by the Amigos de Sian Ka’an team, and the development of accessible visual materials by CAPSUS, to facilitate the knowledge for the use and maintenance of these technologies.

@@ -1,0 +1,19 @@
+---
+title: "Urban Growth Scenarios for Palestine"
+client: "Municipal Development and Lending Fund (MDLF) of Palestine"
+location: "Ramallah-Al Bireh, Bethlehem, Hebron, Nablus and Gaza, Palestine"
+year: 2018-2019
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Urban Growth Scenarios for Palestine",
+  "sponsor": "Municipal Development and Lending Fund (MDLF) of Palestine",
+  "spatialCoverage": "Ramallah-Al Bireh, Bethlehem, Hebron, Nablus and Gaza, Palestine"
+}
+</script>
+
+The Ministry of Local Government, through the Integrated Cities and Urban Development (ICUD) project, supports the increase in sustainable planning capacities in the urban areas of Ramallah, Bethlehem, Hebron, Nablus and Gaza City. As part of this project, the consultancy consisted of developing a comprehensive urban planning tool, called Urban Performance, and modeling of urban development scenarios by 2035 for the five cities. The scenarios were developed and analyzed by local actors, who also received training to continue using and developing the tool further in the future. The five cities continued assessing urban scenarios with Urban Performance after the consultancy ended.

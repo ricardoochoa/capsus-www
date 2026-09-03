@@ -1,0 +1,19 @@
+---
+title: "Evaluation of the Effectiveness of the Diesel IEPS Accreditation Policy"
+client: "French Development Agency (AFD)"
+location: "Mexico"
+year: 2022-2023
+categories: ["Public Policies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Evaluation of the Effectiveness of the Diesel IEPS Accreditation Policy",
+  "sponsor": "French Development Agency (AFD)",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+This program aims to evaluate: (1) the effectiveness of the tax accreditation policy for the Special Tax on Products and Services (IEPS) in promoting the formalization of small businesses in the motor transport sector, (2) the economic concentration of accreditations within the sector, and (3) the environmental impacts resulting from the granting of IEPS tax accreditations for diesel. The project involved developing an Excel-based tool for estimating GHG emissions and costs. The evaluation results assisted the Ministry of Finance and Public Credit (SHCP) in defining fiscal policy alternatives for Mexico's trucking sector.

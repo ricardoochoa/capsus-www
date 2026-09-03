@@ -1,0 +1,19 @@
+---
+title: "Update, Hosting, and Monitoring of the Rainwater Harvesting Potential Calculator"
+client: "Cántaro Azul"
+location: "Mexico"
+year: 2025
+categories: ["Technology & Software"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Update, Hosting, and Monitoring of the Rainwater Harvesting Potential Calculator",
+  "sponsor": "Cántaro Azul",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+Update and accessibility improvements for the rainwater harvesting potential calculator, a tool previously developed by CAPSUS. The work included alignment with Cántaro Azul’s brand identity and integration into their website. Support materials were updated to ensure transparency and clarity in the processes, and improvements were made to the geolocation system. These changes allow for the use of global-scale climatological data based on the project's location, as well as climate change projections. Additionally, improvements were made to the language system, making the tool now available in Spanish, English, and French.

@@ -1,0 +1,19 @@
+---
+title: "Curso de Actualización a las Disciplinas (CADI) para profesores – Tecnologías de información para el análisis urbano"
+client: "Instituto Tecnológico de Estudios Superiores de Monterrey (ITESM)"
+location: "Estado de México, México"
+year: 2017
+categories: ["Datos y Tecnología"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Curso de Actualización a las Disciplinas (CADI) para profesores – Tecnologías de información para el análisis urbano",
+  "sponsor": "Instituto Tecnológico de Estudios Superiores de Monterrey (ITESM)",
+  "spatialCoverage": "Estado de México, México"
+}
+</script>
+
+El objetivo del curso fue mostrar como un Sistema de Información Geográfica (SIG o GIS por sus siglas en inglés), puede ser una herramienta de apoyo muy importante en los análisis urbanos. El temario incluyó temas desde las bases de un SIG, los tipos de datos utilizado por un SIG, como integrar, editar y modelar los datos para resolver un problema particular, como visualizar la información y como realizar análisis SIG. El curso fue impartido en conjunto con SIGSA, empresa dedicada a la integración de los Sistemas de Información Geográfica.

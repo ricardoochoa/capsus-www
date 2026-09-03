@@ -1,0 +1,19 @@
+---
+title: "Análisis del Estatus Quo de la municipalidad de Mérida"
+client: "GIZ"
+location: "México"
+year: 2022
+categories: ["Cambio Climático"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Análisis del Estatus Quo de la municipalidad de Mérida",
+  "sponsor": "GIZ",
+  "spatialCoverage": "México"
+}
+</script>
+
+El objetivo del proyecto fue generar un análisis del *estatus quo* del municipio de Mérida, en relación con estrategias de resiliencia y adaptación al cambio climático. Para identificar las fortalezas, debilidades y áreas de oportunidad en esta materia, se analizó el estado actual del marco normativo, la estructura organizacional y las capacidades institucionales del municipio. Asimismo, se identificaron las potenciales opciones para financiar medidas de adaptación.  El análisis integró criterios de perspectiva de género y el reconocimiento de la diversidad de grupos vulnerables ante los efectos del cambio climático.

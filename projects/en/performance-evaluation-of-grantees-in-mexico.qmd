@@ -1,0 +1,19 @@
+---
+title: "Performance Evaluation of Grantees in Mexico"
+client: "Children Investment Fund Foundation / C230 / RICARDO"
+location: "Mexico"
+year: 2021
+categories: ["Public Policies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Performance Evaluation of Grantees in Mexico",
+  "sponsor": "Children Investment Fund Foundation / C230 / RICARDO",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+The Children Investment Fund Foundation has several international grants to a diverse portfolio of organizations. One of their grants is aimed at supporting the Climate Change and Renewable Energy agenda in Mexico. CAPSUS was part of a team that included RICARDO and C230 Consulting to evaluate the effectiveness and benefits of the grants in Mexico.

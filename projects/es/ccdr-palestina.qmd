@@ -1,0 +1,19 @@
+---
+title: "CCDR Palestina"
+client: "Banco Mundial"
+location: "Palestina"
+year: 2023
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "CCDR Palestina",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Palestina"
+}
+</script>
+
+El proyecto consistió en evaluar, analizar y proponer estrategias de cambio climático para siete ciudades de Palestina. La metodología consiste en identificar los valores actuales, proyectados y potenciales de un conjunto de indicadores sociales, económicos y ambientales relevantes. El proyecto permite la cuantificación de beneficios y costos de diferentes vías de desarrollo para las ciudades.

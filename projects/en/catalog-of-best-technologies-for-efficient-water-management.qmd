@@ -1,0 +1,19 @@
+---
+title: "Catalog of Best Technologies for Efficient Water Management"
+client: "Amigos de Sian Ka’an A. C. (National NGO on Environmental Conservation)"
+location: "Quintana Roo, Mexico"
+year: 2020-2021
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Catalog of Best Technologies for Efficient Water Management",
+  "sponsor": "Amigos de Sian Ka’an A. C. (National NGO on Environmental Conservation)",
+  "spatialCoverage": "Quintana Roo, Mexico"
+}
+</script>
+
+The objective of this project was to assess the results of the first stage of a project that built and installed technologies for efficient water management in rural communities in the state of Quintana Roo, Mexico. The results of this assessment helped develop a lessons-learned report. Considering these lessons learned, CAPSUS designed and implemented two workshops with national and international experts to define a catalog with the best technologies to install and build in other rural communities in Quintana Roo, as a second stage of the project.

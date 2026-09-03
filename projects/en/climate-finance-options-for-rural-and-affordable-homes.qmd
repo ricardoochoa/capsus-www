@@ -1,0 +1,19 @@
+---
+title: "Climate Finance Options for Rural and Affordable Homes"
+client: "German International Cooperation for Sustainable Development (GIZ) and the National Housing Commission of Mexico (CONAVI)"
+location: "Mexico"
+year: 2021-2022
+categories: ["Sustainable Finance"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Climate Finance Options for Rural and Affordable Homes",
+  "sponsor": "German International Cooperation for Sustainable Development (GIZ) and the National Housing Commission of Mexico (CONAVI)",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+The objective of the project was to identify actors and sources of climate financing that can collaborate with the Mexican National Housing Commission to address the lack of sustainable housing, enhance energy efficiency in housing improvement, expansion, and reconstruction, and mitigate the lack of services. The project consisted of mapping national and international actors/institutions/mechanisms that offer climate financing to support the Commission’s programs; prioritizing the identified alternatives; contacting the prioritized actors to facilitate collaboration; and generating roadmap sheets detailing the steps or processes to formalize the cooperation.

@@ -1,0 +1,19 @@
+---
+title: "Design and Test of a Methodology Based in Digital Tools for the Frequent Collection of Information of the Current Situation in Informal Settlements in the Asuncion Metropolitan Area"
+client: "Inter-American Development Bank"
+location: "Paraguay"
+year: 2022-2023
+categories: ["Data & Technology"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Design and Test of a Methodology Based in Digital Tools for the Frequent Collection of Information of the Current Situation in Informal Settlements in the Asuncion Metropolitan Area",
+  "sponsor": "Inter-American Development Bank",
+  "spatialCoverage": "Paraguay"
+}
+</script>
+
+This project aims at designing and implementing a methodology to identify and characterize slums in the Metropolitan Area of Asuncion in Paraguay. This methodology is supported by the adaptation and use of two systems. The first is an automatized system to remotely identify slums, as well as changes in shape or extension. The second tool is a system to continuously collect real-time information from the residents, promoting citizen participation to understand the needs, concerns, and infrastructure deficits. The results from the data collection assist government entities in making informed decisions about water and sanitation services and therefore improving their life quality. The project included a capacity-building component for public servants from various cities in the metropolitan area, oriented toward the application of the methodology and the use of the tools.

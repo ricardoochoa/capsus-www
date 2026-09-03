@@ -1,0 +1,19 @@
+---
+title: "Desarrollo Territorial Sostenible en Mozambique: Retos y Oportunidades Claves"
+client: "Banco Mundial"
+location: "Mozambique"
+year: 2023-2024
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Desarrollo Territorial Sostenible en Mozambique: Retos y Oportunidades Claves",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Mozambique"
+}
+</script>
+
+El proyecto tuvo como objetivo identificar los principales desafíos y oportunidades para el desarrollo territorial sostenible en Mozambique. El primer objetivo fue identificar y visualizar datos espaciales y numéricos relevantes sobre las características territoriales, los desafíos y las oportunidades de desarrollo de Mozambique. Se realizó un análisis exhaustivo de los indicadores demográficos, urbanos y económicos de Mozambique, centrándose en las tendencias históricas y las proyecciones futuras para las áreas urbanizadas, el crecimiento de la población y las vulnerabilidades. Finalmente, se desarrollaron recomendaciones para el desarrollo territorial y económico sostenible, incluida la identificación de las lagunas de datos. La evaluación se llevó a cabo a tres escalas diferentes: nacional, regional y urbano, e incluyó un enfoque detallado en ciudades específicas. Se consideraron las condiciones de referencia de los indicadores y las tendencias proyectadas para cada factor en los próximos 30 años.

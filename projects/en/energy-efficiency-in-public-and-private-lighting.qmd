@@ -1,0 +1,19 @@
+---
+title: "Energy Efficiency in Public and Private Lighting"
+client: "Huixquilucan Municipality, State of Mexico"
+location: "Huixquilucan, Mexico"
+year: 2010
+categories: ["Sustainable Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Energy Efficiency in Public and Private Lighting",
+  "sponsor": "Huixquilucan Municipality, State of Mexico",
+  "spatialCoverage": "Huixquilucan, Mexico"
+}
+</script>
+
+A self-financing luminaire replacement project was developed for the Municipality, an energy saving of 38% was achieved, equivalent to 7 million pesos per year. It was supported by a social communication campaign, which included a carbon neutral launching event and the recognition of environmental NGOs. This project included a campaign to replace domestic light bulbs, exchanging more than 30,000 traditional light bulbs for efficient ones.

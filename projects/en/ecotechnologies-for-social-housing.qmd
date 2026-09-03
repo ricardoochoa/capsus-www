@@ -1,0 +1,19 @@
+---
+title: "Ecotechnologies for Social Housing"
+client: "INFONAVIT"
+location: "Mexico"
+year: 2016
+categories: ["Sustainable Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Ecotechnologies for Social Housing",
+  "sponsor": "INFONAVIT",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+Consulting services were provided to the INFONAVIT (national mortgage bank) to improve the processes and eco-technology options for the Green Mortgage program.

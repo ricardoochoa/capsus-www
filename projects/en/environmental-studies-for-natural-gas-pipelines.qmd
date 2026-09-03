@@ -1,0 +1,19 @@
+---
+title: "Environmental Studies for Natural Gas Pipelines"
+client: "IGASAMEX"
+location: "Mexico City, Mexico"
+year: 2016-2025
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Environmental Studies for Natural Gas Pipelines",
+  "sponsor": "IGASAMEX",
+  "spatialCoverage": "Mexico City, Mexico"
+}
+</script>
+
+Environmental studies were conducted to support compliance with federal environmental conditions related to the natural gas industry. These studies included the analysis of environmental impacts, risk profiles, effect that the actions or inactions of the company could have on people and communities, economic implications and budget estimations to avoid or compensate social, economic and environmental impacts.

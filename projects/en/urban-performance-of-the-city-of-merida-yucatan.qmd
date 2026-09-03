@@ -1,0 +1,19 @@
+---
+title: "Urban Performance of the City of Merida, Yucatan"
+client: "Ministry of Territorial and Urban Development (SEDATU)"
+location: "Merida, Yucatán, Mexico"
+year: 2013
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Urban Performance of the City of Merida, Yucatan",
+  "sponsor": "Ministry of Territorial and Urban Development (SEDATU)",
+  "spatialCoverage": "Merida, Yucatán, Mexico"
+}
+</script>
+
+An evaluation of the different scenarios of urban growth for the city of Merida was performed: trend growth; Municipal Urban Development Plan; and an ideal scenario. Environmental, economic, and social indicators were used to perform an urban sustainability analysis. Some of the factors considered in the spatial analysis were density, infrastructure costs, maintenance costs, availability of resources, capacity, financial independence, occupation of housing, mobility strategies, consumption of energy, school equipment, and demographics, among others.

@@ -1,0 +1,19 @@
+---
+title: "“Ranking” del Transporte Público para Ciudades Mexicanas"
+client: "Centro Mario Molina y GIZ México"
+location: "México"
+year: 2024
+categories: ["Datos y Tecnología"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "“Ranking” del Transporte Público para Ciudades Mexicanas",
+  "sponsor": "Centro Mario Molina y GIZ México",
+  "spatialCoverage": "México"
+}
+</script>
+
+El proyecto se centró en diseñar y construir una plataforma digital para evaluar el desempeño general del transporte público en México. Al analizar 32 sistemas de transporte y recopilar comentarios de los usuarios, la plataforma puede mostrar datos sobre varios indicadores de diversas maneras, lo que permite una comprensión rápida y sencilla. La plataforma también proporciona información detallada sobre estos 32 sistemas de transporte.

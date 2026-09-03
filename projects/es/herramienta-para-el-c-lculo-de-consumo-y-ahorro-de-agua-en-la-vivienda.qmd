@@ -1,0 +1,19 @@
+---
+title: "Herramienta para el cálculo de consumo y ahorro de agua en la vivienda"
+client: "Agencia Alemana de Cooperación Internacional (GIZ)"
+location: "México"
+year: 2016
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Herramienta para el cálculo de consumo y ahorro de agua en la vivienda",
+  "sponsor": "Agencia Alemana de Cooperación Internacional (GIZ)",
+  "spatialCoverage": "México"
+}
+</script>
+
+Gracias al apoyo de la Agencia Alemana de Cooperación Internacional (GIZ) se trabajó con las instituciones federales del sector vivienda y con la CONAGUA para actualizar el Simulador de Agua en la Vivienda (SAAVi). Esta herramienta permite estimar el consumo de agua de una vivienda y calcular el ahorro del líquido en la misma que puede lograrse a través de diferentes ecotecnologías. La herramienta también incluye estimaciones de ahorro energético y de emisiones de gases de efecto invernadero.

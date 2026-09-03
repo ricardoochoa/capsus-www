@@ -1,0 +1,19 @@
+---
+title: "Feasibility of a Waste to Energy Plant in Mexico"
+client: "GESTAB / CALTIA"
+location: "Mexico City and the State of Mexico, Mexico"
+year: 2018
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Feasibility of a Waste to Energy Plant in Mexico",
+  "sponsor": "GESTAB / CALTIA",
+  "spatialCoverage": "Mexico City and the State of Mexico, Mexico"
+}
+</script>
+
+Field research was carried out to identify the type of waste that reaches landfills in the metropolitan areas of Toluca and Mexico City. In addition to physical characterization, laboratory tests were performed to have more data on the composition of solid waste, such as moisture and caloric power. Based on this information, an opinion was issued on the technical and economic feasibility of establishing a recycling or waste to energy power generation plant with the solid waste produced in the region.

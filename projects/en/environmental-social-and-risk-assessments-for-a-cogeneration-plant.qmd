@@ -1,0 +1,19 @@
+---
+title: "Environmental, Social, and Risk Assessments for a Cogeneration Plant"
+client: "Igasamex"
+location: "Querétaro, Mexico"
+year: 2021-2024
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Environmental, Social, and Risk Assessments for a Cogeneration Plant",
+  "sponsor": "Igasamex",
+  "spatialCoverage": "Querétaro, Mexico"
+}
+</script>
+
+CAPSUS worked with Igasamex and AESA in the development of a natural gas cogeneration plant for an industrial park in the state of Queretaro in Mexico. This plant was planned to work stand-alone or interconnected with the national grid, its intention is to improve the reliability of electricity for the park, reduce the costs of electricity to the industries located there, and reduce the carbon intensity of the industrial park. The cogeneration plant could achieve a 50% reduction in GHG emissions from electricity consumption. Part of CAPSUS 'role was related to the evaluation of the environmental and social impacts from the plant and how to avoid or mitigate them.

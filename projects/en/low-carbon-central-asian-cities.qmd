@@ -1,0 +1,19 @@
+---
+title: "Low Carbon Central Asian Cities"
+client: "World Bank"
+location: "Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan and Uzbekistan."
+year: 2022-2023
+categories: ["Climate Change"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Low Carbon Central Asian Cities",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan and Uzbekistan."
+}
+</script>
+
+The project aims to provide country-level diagnostics and evaluate policy options for urban areas in Central Asia through quantitative, spatial, and qualitative analytical exercises to catalyze effective policy-making that furthers green, inclusive, sustainable, and climate-smart urban development. The main objective of the study is to deepen understanding of sub-national level (including regions, metropolitan areas and cities as appropriate) challenges and identify potential actions in selected CA cities across five countries to advance the development of low-carbon climate resilient cities and regions. These will contribute to reducing CA cities’ carbon footprint, energy consumption and Greenhouse Gas (GHG) emissions, setting them on a greener and more resilient development path. The study will also examine adaptation actions that could contribute to both mitigation and broader resilience agenda. Findings from the study could provide the starting points for CA cities to think about strategies and potential actions on climate smart planning, investments and finance. The geographic coverage begins with a wider lens covering medium to large cities in CA, which includes around 50 cities before narrowing down to more in-depth support for five cities.

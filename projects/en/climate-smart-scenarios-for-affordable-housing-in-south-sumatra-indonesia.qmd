@@ -1,0 +1,19 @@
+---
+title: "Climate-Smart Scenarios for Affordable Housing in South Sumatra, Indonesia"
+client: "World Bank"
+location: "Palembang, Musi Rawas, and Lubuklinggau, Indonesia"
+year: 2022-2023
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Climate-Smart Scenarios for Affordable Housing in South Sumatra, Indonesia",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Palembang, Musi Rawas, and Lubuklinggau, Indonesia"
+}
+</script>
+
+The project supports the Local Governments of Palembang, Musi Rawas, and Lubuklinggau to generate a comprehensive housing policy. Through a holistic and climate-smart approach, the project produces a detailed assessment for the cities to identify strategic locations for affordable housing investments. The objective is to aid in the definition of affordable, green and energy-efficient housing projects in these cities to increase regional competitiveness, climate resilience and sustainable development. The work also includes the development of a spatial land-suitability assessment to identify priority locations for affordable housing, an in-depth spatial assessment to prioritize affordable housing investments, the estimation of GHG emission reduction targets, the proposal of green and energy-efficient technical housing guidelines, and the development of three scenarios for the implementation of affordable housing projects (present conditions, business as usual, and climate-smart scenarios).

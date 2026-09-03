@@ -1,0 +1,19 @@
+---
+title: "Sustainable Territorial Development in Mozambique: Key Challenges and Opportunities"
+client: "World Bank"
+location: "Mozambique"
+year: 2023-2024
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Sustainable Territorial Development in Mozambique: Key Challenges and Opportunities",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Mozambique"
+}
+</script>
+
+The project aimed at identifying key challenges and opportunities for sustainable territorial development in Mozambique. The first objective was to identify and visualize relevant spatial and numerical data on Mozambique’s territorial characteristics, development challenges and opportunities. A comprehensive analysis was conducted on Mozambique’s demographic, urban, and economic indicators, focusing on historical trends and future projections for built-up areas, population growth, and vulnerabilities. Finally, recommendations for sustainable territorial and economic development were developed, including the identification of data gaps. The assessment was carried out at three different scales—national, regional, and city—and included a detailed focus on specific cities. It considered the baseline conditions of the indicators and projected trends for each factor over the next 30 years.

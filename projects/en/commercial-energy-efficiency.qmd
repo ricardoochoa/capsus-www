@@ -1,0 +1,19 @@
+---
+title: "Commercial Energy Efficiency"
+client: "Devlyn"
+location: "Mexico City, Mexico"
+year: 2012
+categories: ["Sustainable Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Commercial Energy Efficiency",
+  "sponsor": "Devlyn",
+  "spatialCoverage": "Mexico City, Mexico"
+}
+</script>
+
+Consulting services were given, to implement an energy-savings program within the branches, buildings, and laboratories of the group. Advising services included the option of self-supply schemes by renewable energy sources.

@@ -1,0 +1,19 @@
+---
+title: "Development of a Green Mortgage"
+client: "BBVA / GOPA / Passivehouse Institute"
+location: "Mexico"
+year: 2021-2024
+categories: ["Sustainable Finance"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Development of a Green Mortgage",
+  "sponsor": "BBVA / GOPA / Passivehouse Institute",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+CAPSUS worked with GOPA, Passivhaus Institut, and BBVA to develop a green mortgage financial product that started with the design-thinking methodology. The project included developing a system that estimates a household's energy and water demand, and then estimates the GHG, energy, and water savings that passive and active measures can achieve. This information is used to determine whether a house is “green” and could qualify for a discounted “green mortgage”. The new financial product promotes future homeowners to buy houses with high water and energy efficiency. It is expected that this product could move the market towards improved environmental performance, as more people will seek and prioritize housing units with eco-technologies, designs, and locations that achieve energy and water savings. The financial product and the system were rolled out in 2024. CAPSUS continues to improve and maintain the system, integrating it into BBVA platforms to ensure a seamless process from home valuation to the mortgage offer.

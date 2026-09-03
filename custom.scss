@@ -1,0 +1,30 @@
+/*-- scss:defaults --*/
+// Core CAPSUS Brand Palette
+$primary: #28c5b9;     // Teal
+$secondary: #b2d912;   // Green
+$dark: #00495a;        // Deep Blue
+$body-bg: #fbfafa;     // Off-white background
+$body-color: #333333;
+
+// Typography
+$font-family-sans-serif: "Lato", sans-serif;
+
+/*-- scss:rules --*/
+// Custom overrides for low-carbon, fast rendering
+.navbar {
+  border-bottom: 3px solid $secondary;
+}
+
+// Card styling for the Quarto listings to match previous hover states
+.quarto-listing-category {
+  color: $primary;
+}
+
+.quarto-grid-item {
+  border: 1px solid rgba($dark, 0.1);
+  transition: all 0.3s ease;
+  &:hover {
+    border-bottom: 5px solid $secondary;
+    transform: translateY(-5px);
+  }
+}

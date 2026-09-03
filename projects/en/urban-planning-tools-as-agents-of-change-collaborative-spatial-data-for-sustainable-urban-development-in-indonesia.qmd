@@ -1,0 +1,19 @@
+---
+title: "Urban Planning Tools as Agents of Change: Collaborative Spatial Data for Sustainable Urban Development in Indonesia"
+client: "World Bank and the National Government of Indonesia"
+location: "Indonesia"
+year: 2019-2020
+categories: ["Data & Technology"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Urban Planning Tools as Agents of Change: Collaborative Spatial Data for Sustainable Urban Development in Indonesia",
+  "sponsor": "World Bank and the National Government of Indonesia",
+  "spatialCoverage": "Indonesia"
+}
+</script>
+
+A web-based spatial information repository (Geoportal) was developed in addition to three urban planning tools integrated into the Geoportal. The tool called “CollabData” is intended to promote public participation in urban planning processes. The “Urban Hotspots” tool identifies the most suitable location within a city to carry out a specific activity, such as the prioritization of investment projects. The “Urban Performance” tool allows users to design and evaluate urban scenarios to compare the impact of investment projects through a set of indicators. The project was a collaboration with the World Bank to support various agencies and six cities in Indonesia to improve the process of evaluating and approving their urban master plans.

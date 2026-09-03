@@ -1,0 +1,19 @@
+---
+title: "Elaboración de Planes de Acción Climática para Ciudades, bajo el Programa de Ciudades Africanas"
+client: "Grupo del Banco Africano de Desarrollo"
+location: "Juba, Sudán del Sur"
+year: 2025-2026
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Elaboración de Planes de Acción Climática para Ciudades, bajo el Programa de Ciudades Africanas",
+  "sponsor": "Grupo del Banco Africano de Desarrollo",
+  "spatialCoverage": "Juba, Sudán del Sur"
+}
+</script>
+
+El proyecto estableció una hoja de ruta estratégica clara, con un fuerte énfasis en la priorización de inversiones, transitando sistemáticamente desde un Perfilado Rápido de la Ciudad —que validó los desafíos locales y las brechas de datos— hacia una fase de Estrategia y Priorización que identificó de manera colaborativa una lista corta de 12 acciones de alto impacto. Esta priorización se finalizó durante la fase de desarrollo del plan de acción, utilizando un Análisis Multicriterio (MCA) para seleccionar y detallar los 3 a 5 proyectos prioritarios listos para inversión, junto con fichas de proyecto integrales y una hoja de ruta para su implementación. El plan final abordó directamente la visión de Juba de convertirse en un centro urbano más resiliente al clima, habitable y productivo, sentando las bases para una futura transformación institucional y la movilización de financiamiento urbano.

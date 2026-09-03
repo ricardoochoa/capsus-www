@@ -1,0 +1,19 @@
+---
+title: "Evaluación de desempeño de beneficiarios en México"
+client: "Children Investment Fund Foundation / C230 / RICARDO"
+location: "México"
+year: 2021
+categories: ["Energía Renovable"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Evaluación de desempeño de beneficiarios en México",
+  "sponsor": "Children Investment Fund Foundation / C230 / RICARDO",
+  "spatialCoverage": "México"
+}
+</script>
+
+La Children Investment Fund Foundation tiene varios apoyos internacionales para diversas organizaciones. Uno de los apoyos está dirigido a apoyar la agenda de Cambio Climático y Energía Renovable en México. CAPSUS formó parte de un equipo que incluyó a RICARDO y la firma consultora C230 para evaluar la efectividad y los beneficios de los subsidios en México.

@@ -1,0 +1,19 @@
+---
+title: "Handbook for Gender-Inclusive Urban Planning and Design"
+client: "World Bank"
+location: "Worldwide"
+year: 2020
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Handbook for Gender-Inclusive Urban Planning and Design",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Worldwide"
+}
+</script>
+
+A manual developed by the World Bank was redesigned, which presents clear and practical guidelines for implementing inclusive planning and design processes, adaptable to a plan or project in any context, and with a focus on establishing gender principles.

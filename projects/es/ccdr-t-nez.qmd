@@ -1,0 +1,19 @@
+---
+title: "CCDR Túnez"
+client: "Banco Mundial"
+location: "Túnez"
+year: 2023
+categories: ["Cambio Climático"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "CCDR Túnez",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Túnez"
+}
+</script>
+
+CAPSUS realizó un estudio con el objetivo de evaluar, analizar y proponer políticas públicas de cambio climático. La metodología consiste en identificar los valores actuales, proyectados y potenciales relacionados con los escenarios tendenciales y “caso ideal” para un conjunto de indicadores relevantes (PIB de corto plazo, creación de empleo, pobreza y desigualdad en términos de exposición a desastres naturales) hacia los riesgos económicos antes señalados. Se espera que el enfoque permita cuantificar las oportunidades y amenazas de cada riesgo, así como los impactos sobre el sistema financiero y la sostenibilidad fiscal. Incluye la evaluación de los riesgos relacionados con el clima, los compromisos climáticos de Túnez, las políticas y capacidades actuales y futuras, las implicaciones económicas y las recomendaciones de políticas.

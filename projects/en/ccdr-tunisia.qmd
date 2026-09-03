@@ -1,0 +1,19 @@
+---
+title: "CCDR Tunisia"
+client: "World Bank"
+location: "Tunisia"
+year: 2023
+categories: ["Climate Change"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "CCDR Tunisia",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Tunisia"
+}
+</script>
+
+CAPSUS conducted a study aiming at assessing, analyzing, and proposing climate change public policies. The methodology consists in identifying the current, projected, and potential values (related to the Business as usual and Best-case scenarios) for a set of relevant indicators (short-term GDP, job creation, poverty, and inequality in terms of exposition to natural disasters) towards the previously stated economic risks. The approach is expected to allow the quantification of opportunities and threats for each risk, as well as the impacts on financial system and fiscal sustainability. It included the assessment of climate-related risks, Tunisia’s climate commitments, current and prospective policies and capacities, economic implications and policy recommendations.

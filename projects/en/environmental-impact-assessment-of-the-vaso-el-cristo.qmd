@@ -1,0 +1,19 @@
+---
+title: "Environmental Impact Assessment of the Vaso El Cristo"
+client: "Water Commission of the State of Mexico (CAEM)"
+location: "Estado de México, Mexico"
+year: 2021
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Environmental Impact Assessment of the Vaso El Cristo",
+  "sponsor": "Water Commission of the State of Mexico (CAEM)",
+  "spatialCoverage": "Estado de México, Mexico"
+}
+</script>
+
+The project supports the Water Commission of the State of Mexico in complying with the guidelines established by federal environmental legislation for the development of the Project for the rehabilitation of the Vaso El Cristo and the development of new public spaces. The work includes establishing an environmental management and rehabilitation strategy for the area, ensuring a positive impact on both the environment and society.

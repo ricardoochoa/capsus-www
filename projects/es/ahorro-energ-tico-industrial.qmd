@@ -1,0 +1,19 @@
+---
+title: "Ahorro Energético Industrial"
+client: "Silanes Laboratorios y DIPAK"
+location: "Estado de México, México"
+year: 2017
+categories: ["Energía Renovable"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Ahorro Energético Industrial",
+  "sponsor": "Silanes Laboratorios y DIPAK",
+  "spatialCoverage": "Estado de México, México"
+}
+</script>
+
+El servicio de consultoría consistió en apoyar a la industria a reducir sus costos de energía, incluyendo la disminución tarifaria de la electricidad consumida. El servicio consistió en realizar un diagnóstico, evaluar opciones e identificar proveedores para dar una recomendación basada en beneficios ambientales, económicos y operacionales. En este proyecto se analizaron diferentes opciones, como: cambio de equipos consumidores de energía, inversión en auto abasto solar y cambio de suministrador de energía.

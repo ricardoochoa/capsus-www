@@ -1,0 +1,19 @@
+---
+title: "Herramienta informática para ubicar zonas ideales para la construcción de vivienda social"
+client: "Comisión Nacional de Vivienda (CONAVI)"
+location: "México"
+year: 2017-2018
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Herramienta informática para ubicar zonas ideales para la construcción de vivienda social",
+  "sponsor": "Comisión Nacional de Vivienda (CONAVI)",
+  "spatialCoverage": "México"
+}
+</script>
+
+La herramienta fue desarrollada para la CONAVI con el objetivo de facilitar el análisis del entorno urbano en 384 ciudades de México. Consiste en un sistema informático que utiliza algoritmos y sistemas geográficos para evaluar cada manzana de una ciudad. Permite analizar una o varias capas de información urbana de forma simultánea, integrándose en un índice de aptitud. El índice se muestra como un mapa de calor, resaltando aquellas zonas con mayor aptitud de acuerdo con el análisis deseado; por ejemplo, las mejores ubicaciones para proyectos de vivienda social. En su primera fase se desarrolló la herramienta, se instaló en el servidor de la CONAVI y se capacitó a su personal para su uso y mantenimiento. En su segunda fase se integraron más de 30 capas de información para 384 ciudades mexicanas.

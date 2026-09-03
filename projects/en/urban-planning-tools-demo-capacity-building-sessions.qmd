@@ -1,0 +1,19 @@
+---
+title: "Urban Planning Tools Demo Capacity Building Sessions"
+client: "World Bank"
+location: "Worldwide"
+year: 2024
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Urban Planning Tools Demo Capacity Building Sessions",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Worldwide"
+}
+</script>
+
+The project consisted in designing and programming three urban planning tools, 1) Urban performance (this tool compares urban growth scenarios and assesses the impact of investment projects using a set of indicators), 2) Suitability (This tool identifies the most suitable locations within a city for implementing urban planning projects and investments), and 3) CollabData (This tool promotes social participation and communication regarding community needs and priorities). Additionally, the project included planning and conducting capacity-building sessions for the World Bank’s stakeholders. These sessions aimed to facilitate knowledge transfer for experts and practitioners through the development of graphic materials, audiovisual materials and collaborative activities.

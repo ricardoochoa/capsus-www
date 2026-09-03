@@ -1,0 +1,19 @@
+---
+title: "Estrategia de Incorporación de Ecotecnologías"
+client: "INFONAVIT"
+location: "México"
+year: 2016
+categories: ["Finanzas Sostenibles"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Estrategia de Incorporación de Ecotecnologías",
+  "sponsor": "INFONAVIT",
+  "spatialCoverage": "México"
+}
+</script>
+
+Se asesoró en la elaboración de una estrategia de incorporación de nuevas ecotecnologías al programa de Hipoteca Verde. Como parte del trabajo, se propusieron cambios a los procedimientos de inclusión de nuevas tecnologías y mecanismos de ajuste al programa.

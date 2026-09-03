@@ -1,0 +1,19 @@
+---
+title: "Infraestructura Municipal de Datos Espaciales en Samarcanda"
+client: "Banco Mundial"
+location: "Samarcanda, Uzbekistán"
+year: 2024-2025
+categories: ["Datos y Tecnología"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Infraestructura Municipal de Datos Espaciales en Samarcanda",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Samarcanda, Uzbekistán"
+}
+</script>
+
+El objetivo de esta asistencia es fomentar un ecosistema de datos espaciales a nivel de ciudad que permita una planificación informada, una mejor coordinación y un uso más eficiente de los recursos públicos. El proyecto se basa en la metodología IPDS desarrollada en el marco de la iniciativa City Planning Labs (CPL) del Banco Mundial, que aplica un marco de cuatro bloques: Instituciones (políticas, reglamentos y prácticas para la creación, gestión, intercambio y actualización de datos), Personas (capacidades técnicas, cantidad de personal cualificado, funciones), Datos (tipo y calidad de los conjuntos de datos disponibles) y Sistemas (software y hardware). La asistencia técnica se ha estructurado en cuatro fases: (1) una evaluación de los conjuntos de datos geoespaciales existentes en Samarcanda; (2) una evaluación de la preparación de la ciudad para la MSDI en el marco de la IPDS; (3) la formulación de una hoja de ruta de la MSDI basada en los resultados de la evaluación; y (4) el desarrollo de una estrategia de fortalecimiento de capacidades para el gobierno de la ciudad.

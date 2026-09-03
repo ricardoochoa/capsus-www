@@ -1,0 +1,19 @@
+---
+title: "Cálculo de accesibilidad urbana para planes de movilidad sustentable en Sarbagita, Kedungsepur y Mamminasata"
+client: "Cardno Emerging Markets (Australia) Pty Ltd"
+location: "Zonas metropolitanas de Sarbagita, Kedungsepur y Mamminasata en Indonesia"
+year: 2021-2022
+categories: ["Movilidad Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Cálculo de accesibilidad urbana para planes de movilidad sustentable en Sarbagita, Kedungsepur y Mamminasata",
+  "sponsor": "Cardno Emerging Markets (Australia) Pty Ltd",
+  "spatialCoverage": "Zonas metropolitanas de Sarbagita, Kedungsepur y Mamminasata en Indonesia"
+}
+</script>
+
+El objetivo del proyecto fue informar el desarrollo y la selección de estrategias de movilidad urbana en Sarbagita, Kedungsepur y Mamminasata a través del cálculo de accesibilidad de la población a actividades económicas sociales y culturales en distintos escenarios de desarrollo y para diferentes redes de transporte público.  El resultado del proyecto fue usado para examinar las fortalezas y debilidades de los escenarios de desarrollo y para identificar un escenario integrado que mejore la accesibilidad en las zonas metropolitanas.

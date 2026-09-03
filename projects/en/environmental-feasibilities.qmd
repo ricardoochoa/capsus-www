@@ -1,0 +1,19 @@
+---
+title: "Environmental Feasibilities"
+client: "ZUMA Energy"
+location: "Mexico"
+year: 2016
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Environmental Feasibilities",
+  "sponsor": "ZUMA Energy",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+Technical Due Diligence of potential renewable energy projects was done to prioritize the investment program of the fund.

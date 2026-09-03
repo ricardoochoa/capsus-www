@@ -1,0 +1,19 @@
+---
+title: "Financiamiento verde para transporte de carga"
+client: "GIZ"
+location: "México"
+year: 2022
+categories: ["Movilidad Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Financiamiento verde para transporte de carga",
+  "sponsor": "GIZ",
+  "spatialCoverage": "México"
+}
+</script>
+
+CAPSUS trabajó con instituciones mexicanas para identificar opciones de financiamiento local para la adquisición de camiones de carga más nuevos, con el objetivo de reducir las emisiones de GEI del sector de transporte de carga. El análisis se centró en las estrategias de arrendamiento.

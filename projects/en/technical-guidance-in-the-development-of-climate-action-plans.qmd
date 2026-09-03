@@ -1,0 +1,19 @@
+---
+title: "Technical Guidance in the Development of Climate Action Plans"
+client: "The European Commission and the cities of Bahía de Banderas (Nayarit), Culiacán (Sinaloa), Juárez (Chihuahua), Ciudad Madero (Tamaulipas) y Zapopan (Jalisco)"
+location: "Bahía de Banderas (Nayarit), Culiacán (Sinaloa), Juárez (Chihuahua), Ciudad Madero (Tamaulipas) and Zapopan (Jalisco), Mexico."
+year: 2019-2020
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Technical Guidance in the Development of Climate Action Plans",
+  "sponsor": "The European Commission and the cities of Bahía de Banderas (Nayarit), Culiacán (Sinaloa), Juárez (Chihuahua), Ciudad Madero (Tamaulipas) y Zapopan (Jalisco)",
+  "spatialCoverage": "Bahía de Banderas (Nayarit), Culiacán (Sinaloa), Juárez (Chihuahua), Ciudad Madero (Tamaulipas) and Zapopan (Jalisco), Mexico."
+}
+</script>
+
+Five Mexican cities were trained in the preparation of their local Climate Action Plans. The process included the compilation of a greenhouse gas emissions inventory, climate risks, and vulnerabilities analysis, the development of climate mitigation and resilience measures, and strategies, their prioritization, and communication and community interaction strategies. The project was carried out in collaboration with the Global Covenant of Mayors for Climate and Energy (GCoM), and the International Urban Cooperation Program (IUC).

@@ -1,0 +1,19 @@
+---
+title: "Assistance to Develop Technical Reports for Social Infrastructure Projects"
+client: "GIZ Banobras"
+location: "Mexico"
+year: 2023-2024
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Assistance to Develop Technical Reports for Social Infrastructure Projects",
+  "sponsor": "GIZ Banobras",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+This project centered on the development and design of a web application for integrating technical portfolios into water infrastructure. The application serves as a methodological guide for municipal technical personnel in Mexico, assisting in the maintenance and upgrading of existing water infrastructure and the creation of new projects. The platform allows to consult methodologies about field studies prior to project execution and enables progress tracking. The project covers research on the methods and requirements for implementing such projects, incorporating field visits to low-resource municipalities in Mexico to better understand their institutional needs. Additionally, the project included the design of capacity-building sessions for stakeholders.

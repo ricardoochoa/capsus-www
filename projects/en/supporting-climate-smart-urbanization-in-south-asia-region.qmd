@@ -1,0 +1,19 @@
+---
+title: "Supporting Climate Smart Urbanization in South Asia Region"
+client: "World Bank"
+location: "India"
+year: 2023-2024
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Supporting Climate Smart Urbanization in South Asia Region",
+  "sponsor": "World Bank",
+  "spatialCoverage": "India"
+}
+</script>
+
+The project informs the India Country Climate and Development Report (CCDR) by identifying urbanization trends and providing recommendations to improve urban policy and actions for a just transition for climate-resilient and low-carbon growth. It consists of a macro assessment of 24 cities and a deep dive into selected cities. The team developed a base analysis of the sustainability status of the country's urban system through a set of environmental and social indicators. It forecasted the trend under a business-as-usual scenario. The team also analyzed in a more detailed manner five cities in India and developed a set of recommendations to improve the sustainable performance of the cities in India.

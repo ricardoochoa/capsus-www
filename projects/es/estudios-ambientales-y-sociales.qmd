@@ -1,0 +1,19 @@
+---
+title: "Estudios ambientales y sociales"
+client: "Parque Solar “Las Garzas”"
+location: "Durango, México"
+year: 2018
+categories: ["Energía Renovable"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Estudios ambientales y sociales",
+  "sponsor": "Parque Solar “Las Garzas”",
+  "spatialCoverage": "Durango, México"
+}
+</script>
+
+Se realizó la Manifestación de Impacto Ambiental y la Evaluación de Impacto Social para una futura instalación de generación de energía eléctrica mediante el uso de tecnología solar. La granja solar se encuentra cerca de la Ciudad de Torreón en el Estado de Durango. El desarrollo del parque fue adquirido por Iberdrola para su futura construcción.

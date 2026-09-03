@@ -1,0 +1,19 @@
+---
+title: "Urban Sustainability Training"
+client: "Instituto Tecnológico de Estudios Superiores de Monterrey (ITESM)"
+location: "State of Mexico, Mexico"
+year: 2019
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Urban Sustainability Training",
+  "sponsor": "Instituto Tecnológico de Estudios Superiores de Monterrey (ITESM)",
+  "spatialCoverage": "State of Mexico, Mexico"
+}
+</script>
+
+The Institute was supported in the delivery of a course for professors that teach urban planning at the bachelor's level with a sustainability approach and through the use of computer tools.

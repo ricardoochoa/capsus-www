@@ -1,0 +1,19 @@
+---
+title: "Tool for Calculating Water Consumption and Savings in Social Housing"
+client: "German Agency for International Cooperation (GIZ)"
+location: "Mexico"
+year: 2016
+categories: ["Data & Technology"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Tool for Calculating Water Consumption and Savings in Social Housing",
+  "sponsor": "German Agency for International Cooperation (GIZ)",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+Thanks to the support of the German Agency for International Cooperation (GIZ), work was carried out with federal institutions in the housing sector to update the Water Simulator Tool (SAAVI). This tool estimates the water savings a home can have through different eco-technologies. The tool also includes estimates of energy savings and greenhouse gas emission reductions.

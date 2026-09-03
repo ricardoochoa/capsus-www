@@ -1,0 +1,19 @@
+---
+title: "Linking the Green Mortgage Program of INFONAVIT with the Green Housing Assessment System (Sisevive- Ecocasa)"
+client: "German Agency for International Cooperation (GIZ)"
+location: "Mexico"
+year: 2016-2017
+categories: ["Public Policies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Linking the Green Mortgage Program of INFONAVIT with the Green Housing Assessment System (Sisevive- Ecocasa)",
+  "sponsor": "German Agency for International Cooperation (GIZ)",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+The evaluation methods of the Green Mortgage program and the "Sisevive-Ecocasa" program were standardized to have one single methodology that incorporates energy, water saving, and bioclimatic evaluation.

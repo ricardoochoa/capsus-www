@@ -1,0 +1,19 @@
+---
+title: "Sustainable Local Development Guide"
+client: "Ministry of Social Development and the World Bank"
+location: "Mexico"
+year: 2011
+categories: ["Public Policies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Sustainable Local Development Guide",
+  "sponsor": "Ministry of Social Development and the World Bank",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+CAPSUS was hired by the Mexican Ministry of Social Development and the World Bank to draft a guide that would help local authorities develop their communities in a sustainable manner. The guide includes an analysis of the legal framework; sections on climate change, water, air, energy, soils, biodiversity, and waste; it addresses the importance of social participation, proposes a methodology to analyze specific projects to increase their sustainability, provides an analysis of experiences Mexico and other nations; appends a checklist to assess local sustainability and a series of eco-technologies applicable to marginalized localities.

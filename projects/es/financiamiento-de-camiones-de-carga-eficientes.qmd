@@ -1,0 +1,19 @@
+---
+title: "Financiamiento de Camiones de Carga Eficientes"
+client: "GIZ"
+location: "CDMX"
+year: 2022
+categories: ["Movilidad Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Financiamiento de Camiones de Carga Eficientes",
+  "sponsor": "GIZ",
+  "spatialCoverage": "CDMX"
+}
+</script>
+
+Explorar el arrendamiento puro en México; identificar mecanismos de operación; experiencias de instituciones financieras que ofrecen el servicio y el camino de implementación para incorporarlo en el portafolio de operaciones y servicios de NAFIN. Específicamente: 1\) Identificar su naturaleza jurídica, generalidades de operación y esquema de gestión contable; 2\) Identificar experiencias de tres instituciones financieras que surgen del arrendamiento puro, resaltar los desafíos, beneficios, mecanismo de gestión de activos y tratamiento de incumplimiento; 3\) Identificación de una hoja de ruta general sobre la posible incorporación del arrendamiento puro en el portafolio de operaciones y servicios de NAFIN.

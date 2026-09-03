@@ -1,0 +1,19 @@
+---
+title: "Wind Farms in Oaxaca"
+client: "PRENEAL Mexico"
+location: "Oaxaca, Mexico"
+year: 2011-2012
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Wind Farms in Oaxaca",
+  "sponsor": "PRENEAL Mexico",
+  "spatialCoverage": "Oaxaca, Mexico"
+}
+</script>
+
+Environmental studies, consulting, and fieldwork was done to comply with federal regulations. Furthermore, an environmental impact assessment and other requisites were made to obtain the approval of the transmission line.

@@ -1,0 +1,19 @@
+---
+title: "Tendencias Demográficas"
+client: "Banco Mundial"
+location: "Mundial"
+year: 2018
+categories: ["Estudios Ambientales"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Tendencias Demográficas",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Mundial"
+}
+</script>
+
+El proyecto consiste en el análisis y diseño de información para la comunicación masiva de las tendencias demográficas en 6 regiones del mundo, para mostrar los cambios en el crecimiento y promedio de edad de diferentes países.

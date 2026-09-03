@@ -1,0 +1,19 @@
+---
+title: "Municipal Environmental Action Plan"
+client: "Huixquilucan Municipality, State of Mexico"
+location: "Huixquilucan, State of Mexico, Mexico"
+year: 2010
+categories: ["Public Policies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Municipal Environmental Action Plan",
+  "sponsor": "Huixquilucan Municipality, State of Mexico",
+  "spatialCoverage": "Huixquilucan, State of Mexico, Mexico"
+}
+</script>
+
+The plan sets out the environmental policy guidelines, milestones and goals for the municipal administration.

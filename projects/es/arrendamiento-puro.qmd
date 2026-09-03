@@ -1,0 +1,19 @@
+---
+title: "Arrendamiento Puro"
+client: "GIZ"
+location: "Ciudad de México"
+year: 2022
+categories: ["Estudios Ambientales"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Arrendamiento Puro",
+  "sponsor": "GIZ",
+  "spatialCoverage": "Ciudad de México"
+}
+</script>
+
+Explorar el tema de arrendamiento puro en México; identificando mecanismo de operación; experiencias de instituciones financieras que lo ofrecen y ruta de implementación para incorporarlo en la cartera de operaciones y servicios de NAFIN. Específicamente de: 1\) Identificar su naturaleza jurídica, generalidades de operación y esquema de gestión contable; 2\) Identificar experiencias de tres instituciones financieras que ofrecen arrendamiento puro, destacando los retos, beneficios, mecanismo de administración de bienes y tratamiento del incumplimiento; 3\) Identificación de un mapa de ruta general sobre la posible incorporación del arrendamiento puro en la cartera de operaciones y servicios de NAFIN.

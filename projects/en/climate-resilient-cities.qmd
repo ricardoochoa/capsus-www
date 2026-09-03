@@ -1,0 +1,19 @@
+---
+title: "Climate Resilient Cities"
+client: "World Bank, Urban Resilience Office (ORU) and the Secretariat of Agrarian, Territorial and Urban Development (SEDATU)"
+location: "Mexico"
+year: 2021
+categories: ["Climate Change"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Climate Resilient Cities",
+  "sponsor": "World Bank, Urban Resilience Office (ORU) and the Secretariat of Agrarian, Territorial and Urban Development (SEDATU)",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+The project supports the Secretariat of Agrarian, Territorial and Urban Development SEDATU in the development of design and construction guidelines to maximize the mitigation and adaptation benefits of infrastructure investments financed under the PMU, in the context of promoting a green and resilient recovery from the COVID-19 Pandemic. The objective is to develop the general guidelines and design criteria to be adopted in the design, procurement, construction and supervision of the investments financed under the PMU. These guidelines establish the parameters so that the works carried out within the framework of the program meet sustainability criteria in accordance with the different climatic conditions of the project sites in various regions.

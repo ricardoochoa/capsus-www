@@ -1,0 +1,19 @@
+---
+title: "Water Recycling"
+client: "Papalote Children’s Museum"
+location: "Mexico City, Mexico"
+year: 2012
+categories: ["Sustainable Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Water Recycling",
+  "sponsor": "Papalote Children’s Museum",
+  "spatialCoverage": "Mexico City, Mexico"
+}
+</script>
+
+A proposal was made to develop a project for the treatment and reuse of water. The project recirculates approximately 70% of the water consumed in the museum and reduces its water bill. The project is self-financed.

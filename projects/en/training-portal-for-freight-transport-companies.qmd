@@ -1,0 +1,19 @@
+---
+title: "Training Portal for Freight Transport Companies"
+client: "GIZ"
+location: "México"
+year: 2020–2021
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Training Portal for Freight Transport Companies",
+  "sponsor": "GIZ",
+  "spatialCoverage": "México"
+}
+</script>
+
+A training portal for freight transport companies was developed and implemented to consolidate existing educational offerings, as part of the Sustainable Transport Program led by SEMARNAT and GIZ. The project included an assessment of available training programs, identification of needs and gaps, interviews with key stakeholders, and the launch of the portal (https://www.educat.com.mx).

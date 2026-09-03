@@ -1,0 +1,19 @@
+---
+title: "Review of the Mexico City Climate Action Plan"
+client: "C40"
+location: "Mexico City, Mexico"
+year: 2018
+categories: ["Public Policies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Review of the Mexico City Climate Action Plan",
+  "sponsor": "C40",
+  "spatialCoverage": "Mexico City, Mexico"
+}
+</script>
+
+Based on the C40 guidelines and The Paris commitments, the Climate Action Plan (PAC) of Mexico City 2020 to 2050 was revised. Following the review, a technical opinion was issued to C40 on the process of developing the CAP, the content, the goals and the general consistency with the commitment of mayors of the cities that are part of the C40. The review covered the areas of participatory processes, integration of vulnerable groups, emissions inventory, climate vulnerability analysis, measures, prioritization, costs and financing.

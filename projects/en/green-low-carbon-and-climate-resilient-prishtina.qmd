@@ -1,0 +1,19 @@
+---
+title: "Green, Low Carbon, and Climate Resilient Prishtina"
+client: "World Bank"
+location: "Prishtina, Kosovo"
+year: 2021-2022
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Green, Low Carbon, and Climate Resilient Prishtina",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Prishtina, Kosovo"
+}
+</script>
+
+The purpose of this project is to support the municipality of Prishtina in making decisions for a greener, low-carbon, and resilient development. CAPSUS analyzed current urban and development strategies and trajectories to identify investment projects at the city and neighborhood scales. The scope of work included 1) developing low-carbon and climate-resilient urban growth analytics, and 2) supporting the identification of location-specific low-carbon and climate-resilient investments.

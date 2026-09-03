@@ -1,0 +1,25 @@
+---
+title: "Asistencia técnica para el programa de iniciativa de Ciudades Sostenibles de Camboya"
+client: "Banco Mundial"
+location: "Phnom Penh, Camboya"
+year: 2022-2023
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Asistencia técnica para el programa de iniciativa de Ciudades Sostenibles de Camboya",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Phnom Penh, Camboya"
+}
+</script>
+
+El objetivo del proyecto es actualizar el Plan Estratégico de la Ciudad Verde de Phnom Penh y ayudar a preparar a Phnom Penh para los desafíos que impondrá el cambio climático y hacer que sea parte de la solución centrándose en un camino de desarrollo resiliente y bajo en carbono con el objetivo de alcanzar cero emisiones netas para 2050. Los objetivos específicos del proyecto son:
+
+* Mejorar los sistemas de planificación espacial y del uso de la tierra para un desarrollo informado sobre los riesgos y sensible al carbono  
+* Mejorar la eficiencia, la resiliencia y la sostenibilidad de la infraestructura urbana y los sistemas de prestación de servicios  
+* Incorporar la sostenibilidad ambiental, la participación ciudadana y la inclusión social
+
+Estos objetivos se lograrán a través de una evaluación profunda de las políticas y características actuales de Phnom Penh, junto con recomendaciones de políticas e inversiones basadas en las mejores prácticas internacionales que se ajustan al contexto. La información obtenida se utilizará para desarrollar escenarios urbanos que se comprarán para identificar las ventajas y desventajas ambientales, sociales y económicas de cada trayectoria de crecimiento urbano. El ejercicio facilitará la planificación, las políticas y las opciones de inversión a nivel de ciudad. El intercambio de conocimientos y el desarrollo de capacidades serán pilares centrales para fomentar la apropiación y la replicación del enfoque metodológico.

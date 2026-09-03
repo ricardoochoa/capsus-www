@@ -1,0 +1,19 @@
+---
+title: "Integración de Elementos Clave de la Política de Buena Gobernanza Ambiental para el Estado de Quintana Roo"
+client: "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Quintana Roo (SESAEQROO)"
+location: "Quintana Roo, México"
+year: 2025
+categories: ["Políticas Públicas"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Integración de Elementos Clave de la Política de Buena Gobernanza Ambiental para el Estado de Quintana Roo",
+  "sponsor": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Quintana Roo (SESAEQROO)",
+  "spatialCoverage": "Quintana Roo, México"
+}
+</script>
+
+Este proyecto se enfoca en la co-creación de la Política de Buena Gobernanza Ambiental (PBGA) para el Estado de Quintana Roo, con una visión de largo plazo de al menos 10 años, alineada con el Plan Estratégico de Desarrollo Sostenible (PEDS) con visión a 50 años. La PBGA busca establecer un modelo de gobernanza ambiental estatal que garantice la protección, preservación y restauración de los ecosistemas mediante un enfoque anticorrupción, participativo, transparente y basado en la legalidad. Es un instrumento crucial para abordar los desafíos ambientales significativos de Quintana Roo, como los asentamientos irregulares, la deforestación, el turismo no sostenible, el sargazo y la contaminación del agua, y su vinculación con la corrupción. El proyecto abarcó el análisis normativo, el proceso de co-creación con especialistas y la integración del documento final de la política pública, estructurado con objetivos, responsables e indicadores de seguimiento para garantizar la transparencia y la rendición de cuentas en el estado.

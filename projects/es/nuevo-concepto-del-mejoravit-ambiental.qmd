@@ -1,0 +1,19 @@
+---
+title: "Nuevo concepto del Mejoravit Ambiental"
+client: "Agencia Alemana de Cooperación Internacional (GIZ) \- INFONAVIT"
+location: "Ciudad de México"
+year: 2016-2017
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Nuevo concepto del Mejoravit Ambiental",
+  "sponsor": "Agencia Alemana de Cooperación Internacional (GIZ) \- INFONAVIT",
+  "spatialCoverage": "Ciudad de México"
+}
+</script>
+
+Gracias al apoyo de la Agencia Alemana de Cooperación Internacional (GIZ), se trabajó con el INFONAVIT para diseñar la estrategia conceptual de un programa de mejora a la vivienda existente que logre mejorar el desempeño ambiental y energético de las viviendas, de forma que presente un ahorro para el beneficiario del crédito y que sea financieramente congruente con los objetivos del programa.

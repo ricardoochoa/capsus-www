@@ -1,0 +1,19 @@
+---
+title: "Waste to Energy Consultancy"
+client: "GUASCOR Mexico"
+location: "Mexico City, Mexico"
+year: 2010
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Waste to Energy Consultancy",
+  "sponsor": "GUASCOR Mexico",
+  "spatialCoverage": "Mexico City, Mexico"
+}
+</script>
+
+CAPSUS worked with the client to identify and implement biogas projects from solid and water waste.

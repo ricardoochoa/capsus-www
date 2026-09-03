@@ -1,0 +1,19 @@
+---
+title: "Climate Smart Urbanization in Mongolia"
+client: "World Bank, National Government of Mongolia, Cities of Ulaanbaatar, Darkhan, and Erdenet"
+location: "Ulaanbaatar, Darkhan and Erdenet, Mongolia"
+year: 2019-2020
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Climate Smart Urbanization in Mongolia",
+  "sponsor": "World Bank, National Government of Mongolia, Cities of Ulaanbaatar, Darkhan, and Erdenet",
+  "spatialCoverage": "Ulaanbaatar, Darkhan and Erdenet, Mongolia"
+}
+</script>
+
+The main objective of the project is to increase the resilience and urban sustainability of Mongolia's three major cities: Ulaanbaatar, Erdenet and Darkhan. It consisted of three scopes: The first consisted of analyzing the growth trend of Mongolia's three major cities, Mongolia's urban policies and investment ideas and new strategies for each city. This information modeled cities in the future and evaluated their performance in environmental, economic and social matters through indicators related to air quality, energy consumption, the cost of maintaining infrastructure, proximity to public spaces, among others. The second scope was to analyze the environmental, economic and social impacts of moving an industrial zone within the urban estate of Mongolia's capital and carrying out urban regeneration. The third scope was to produce an urban planning guide for Mongolia with a sustainability and resilience approach.

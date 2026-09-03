@@ -1,0 +1,19 @@
+---
+title: "Industrial Energy Savings"
+client: "Silanes Laboratories & DIPAK"
+location: "State of Mexico, Mexico"
+year: 2017
+categories: ["Sustainable Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Industrial Energy Savings",
+  "sponsor": "Silanes Laboratories & DIPAK",
+  "spatialCoverage": "State of Mexico, Mexico"
+}
+</script>
+
+Consulting services were provided to reduce energy consumption and energy costs. The service consisted of researching energy-saving options, identifying the best possible providers, and making a recommendation based on economic, environmental, and operational benefits. Some of the options analyzed were equipment substitution, energy providers, tariff changes, and self-generation investments, among others.

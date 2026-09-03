@@ -1,0 +1,19 @@
+---
+title: "Air Quality Program for the State of Mexico 2018-2030"
+client: "Ministry of the Environment of the Government of the State of Mexico"
+location: "State of Mexico, Mexico"
+year: 2018
+categories: ["Public Policies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Air Quality Program for the State of Mexico 2018-2030",
+  "sponsor": "Ministry of the Environment of the Government of the State of Mexico",
+  "spatialCoverage": "State of Mexico, Mexico"
+}
+</script>
+
+The Program to Improve the Air Quality of the State of Mexico was developed. To this end, an air quality diagnosis was carried out in the State of Mexico that included the development of the emissions inventory, institutional analysis, budget, and operational capacities, as well as the results of atmospheric monitoring stations. Based on the diagnosis, the state strategy was developed to reduce the emission of local air pollutants, reverse deterioration trends, protect public health and strengthen monitoring. A list of public policy strategies and actions was developed, where the policy actions were prioritized, assessed in terms of their reduction of air contaminants and their cost of implementation was estimated.

@@ -1,0 +1,19 @@
+---
+title: "Tool to Locate Areas Ideal for Social Housing"
+client: "National Housing Commission of Mexico (CONAVI)"
+location: "Mexico"
+year: 2017-2018
+categories: ["Data & Technology"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Tool to Locate Areas Ideal for Social Housing",
+  "sponsor": "National Housing Commission of Mexico (CONAVI)",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+The tool was developed for CONAVI in order to facilitate the analysis of the urban environment in 384 cities in Mexico. It consists of a computer system that uses algorithms and geographic systems to evaluate each city block. It allows the analysis of one or several layers of urban information simultaneously, integrating them into a city scale suitability index. The index is shown as a heat map, highlighting the most suitable areas of the city according to the desired analysis; for example, the best locations for social housing projects. In its first phase, the tool was developed, and installed on the CONAVI server, and its personnel trained in its use and maintenance. In its second phase, more than 30 layers of information were integrated for 384 Mexican cities.

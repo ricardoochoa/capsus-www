@@ -1,0 +1,19 @@
+---
+title: "Programa de Gestión de la Calidad del Aire del Estado de México (ProAire Edomex) 2018-2030"
+client: "Secretaría de Medio Ambiente del Gobierno del Estado de México (SMAGEM)"
+location: "Estado de México, México"
+year: 2018
+categories: ["Cambio Climático"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Programa de Gestión de la Calidad del Aire del Estado de México (ProAire Edomex) 2018-2030",
+  "sponsor": "Secretaría de Medio Ambiente del Gobierno del Estado de México (SMAGEM)",
+  "spatialCoverage": "Estado de México, México"
+}
+</script>
+
+Se desarrolló el Programa para Mejorar la Calidad del Aire del Estado de México. Para ello se realizó un diagnóstico de la calidad del aire en el Estado de México que incluyó la elaboración del inventario de emisiones, el análisis institucional, las capacidades presupuestales, así como los resultados de las estaciones de monitoreo atmosférico. Con base en el diagnóstico, se desarrolló la estrategia estatal para reducir la emisión de contaminantes atmosféricos locales, revertir las tendencias de deterioro, proteger la salud pública y fortalecer el monitoreo. Se elaboró ​​un listado de estrategias y acciones de política pública, donde se priorizaron las acciones de política, se evaluaron en cuanto a su reducción de contaminantes atmosféricos y se estimó su costo de implementación.

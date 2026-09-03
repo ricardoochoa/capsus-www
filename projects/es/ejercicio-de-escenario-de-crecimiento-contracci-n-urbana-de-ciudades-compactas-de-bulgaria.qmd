@@ -1,0 +1,19 @@
+---
+title: "Ejercicio de escenario de crecimiento/contracción urbana de Ciudades Compactas de Bulgaria"
+client: "Banco Mundial"
+location: "Vratsa y Sliven, Bulgaria"
+year: 2022
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Ejercicio de escenario de crecimiento/contracción urbana de Ciudades Compactas de Bulgaria",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Vratsa y Sliven, Bulgaria"
+}
+</script>
+
+El objetivo del proyecto es brindar asistencia técnica al Gobierno de Bulgaria y municipios búlgaros seleccionados, para lograr beneficios de adaptación y mitigación climática mediante el desarrollo de un enfoque pragmático de Ciudades Sustentables. CAPSUS realizó un mapeo de riesgos urbanos y climáticos, a través de la revisión de la literatura y la investigación sobre modelos espaciales urbanos, los planes sectoriales y cambio climático de Bulgaria. El análisis pronosticó tres posibles escenarios de crecimiento/contracción urbana para evaluar la accesibilidad a los servicios urbanos y las oportunidades de empleo, la exposición a los peligros climáticos, la mitigación del cambio climático, los costos de expansión, la pobreza y la cobertura de infraestructura. Asimismo, CAPSUS adaptó el material de difusión existente para desarrollar el diálogo con las partes interesadas.

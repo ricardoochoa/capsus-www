@@ -1,0 +1,19 @@
+---
+title: "Elaboration of City Action Plans, under the African Cities Program"
+client: "African Development Bank Group"
+location: "Juba, South Sudan"
+year: 2025-2026
+categories: ["Climate Change"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Elaboration of City Action Plans, under the African Cities Program",
+  "sponsor": "African Development Bank Group",
+  "spatialCoverage": "Juba, South Sudan"
+}
+</script>
+
+The project established a clear strategic roadmap, with a strong emphasis on investment prioritization, by systematically moving from a Rapid City Profiling that validated local challenges and data gaps, to a Strategizing and Prioritizing phase that collaboratively identified a shortlist of 12 high-impact actions. This prioritization was finalized during the action plan development phase, using a Multi-Criteria Analysis (MCA) to select and detail the top 3-5 investment-ready priority projects, along with comprehensive project sheets and an implementation roadmap. The final plan directly addressed Juba’s vision of becoming a more climate-resilient, livable, and productive urban center, laying the groundwork for future institutional transformation and the mobilization of urban finance.

@@ -1,0 +1,19 @@
+---
+title: "Methodology to Assess the Benefits of Urban Densification in "District 4.0" in the City of Morelia, Michoacán, Mexico"
+client: "German Agency for International Cooperation (GIZ) and The City Government of Morelia, Mexico"
+location: "Morelia, Michoacan, Mexico"
+year: 2018
+categories: ["Urban Planning"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Methodology to Assess the Benefits of Urban Densification in "District 4.0" in the City of Morelia, Michoacán, Mexico",
+  "sponsor": "German Agency for International Cooperation (GIZ) and The City Government of Morelia, Mexico",
+  "spatialCoverage": "Morelia, Michoacan, Mexico"
+}
+</script>
+
+The project consisted of the development of urban growth scenarios to analyze the benefits of urban densification in strategic polygons within the city of Morelia, with special emphasis on the area called "District 4.0". Appropriate densities for the city were also proposed. The project was a collaboration with the German Agency for International Cooperation (GIZ) to support the urban planning process in Morelia.

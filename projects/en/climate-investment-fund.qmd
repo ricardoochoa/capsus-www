@@ -1,0 +1,19 @@
+---
+title: "Climate Investment Fund"
+client: "C230"
+location: "Mexico City, Mexico"
+year: 2019
+categories: ["Public Policies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Climate Investment Fund",
+  "sponsor": "C230",
+  "spatialCoverage": "Mexico City, Mexico"
+}
+</script>
+
+This project reviewed different methodologies and tools used by multilateral banks to select and design public and private programs that are eligible for resources from Climate Investment Funds.

@@ -1,0 +1,19 @@
+---
+title: "Training for the Construction Code for Energy Efficiency (IECC)"
+client: "World Resource Institute – Mexico"
+location: "Mexico City, Mexico"
+year: 2016
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Training for the Construction Code for Energy Efficiency (IECC)",
+  "sponsor": "World Resource Institute – Mexico",
+  "spatialCoverage": "Mexico City, Mexico"
+}
+</script>
+
+For this project, we studied the proposed construction code and developed educational material for local government officials. The workshops and training seminars had two objectives. The first one was to convince decision-makers of the importance of energy conservation codes, and the second one was to train public officials to adapt the code to the local regulations. The project was developed in association with Coenergia.

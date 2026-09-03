@@ -1,0 +1,19 @@
+---
+title: "Estrategia de Participación y Comunicación Social para Asunción, Paraguay"
+client: "Banco Interamericano de Desarrollo (BID) y Gobierno Nacional de Paraguay"
+location: "Asunción, Paraguay"
+year: 2019-2021
+categories: ["Datos y Tecnología"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Estrategia de Participación y Comunicación Social para Asunción, Paraguay",
+  "sponsor": "Banco Interamericano de Desarrollo (BID) y Gobierno Nacional de Paraguay",
+  "spatialCoverage": "Asunción, Paraguay"
+}
+</script>
+
+Se diseña e implementa la estrategia de comunicación y participación social para el programa de Rehabilitación y Vivienda del Bañado Sur, Barrio Tacumbú en Asunción, Paraguay. La estrategia se compone de tres mecanismos: 1\) Información y comunicación social, 2\) Consulta y participación Social, y 3\) Atención a quejas y reclamos. Estos mecanismos se apoyan en una plataforma digital llamada “CollabMap”. El objetivo del proyecto es fortalecer la comunicación y gestión de la información, la inclusión social, la atención a quejas y potenciar la participación activa de la población en torno al Programa y los proyectos asociados de consolidación de barrio. De manera adicional y derivado de una extensión del contrato, se están adaptando herramientas digitales para concentrar información proveniente de diversas instituciones, recolectar información en territorio, analizar datos para fomentar la toma de decisiones informadas con relación a grupos vulnerables en el marco del COVID-19.

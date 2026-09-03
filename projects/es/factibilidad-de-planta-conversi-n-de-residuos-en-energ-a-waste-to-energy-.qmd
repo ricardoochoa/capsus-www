@@ -1,0 +1,19 @@
+---
+title: "Factibilidad de Planta Conversión de Residuos en Energía (Waste-to-Energy)"
+client: "GESTAB / CALTIA"
+location: "Ciudad de México y Estado de México, México"
+year: 2018
+categories: ["Energía Renovable"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Factibilidad de Planta Conversión de Residuos en Energía (Waste-to-Energy)",
+  "sponsor": "GESTAB / CALTIA",
+  "spatialCoverage": "Ciudad de México y Estado de México, México"
+}
+</script>
+
+Se realizó una investigación de campo para identificar el tipo de residuos que llegan a los rellenos sanitarios de las zonas metropolitanas del valle de Toluca y del valle de México. Además de la caracterización física, se realizaron pruebas de laboratorio para tener más datos de su composición, como la humedad y el poder calórico de los mismos. Con base en esa información se emitió una opinión sobre la factibilidad técnica de establecer una planta de reciclaje o de generación eléctrica a través de los RSU generados en la región.

@@ -1,0 +1,21 @@
+---
+title: "Implementación de la Infraestructura Municipal de Datos Espaciales (MSDI) en Amman, Jordania"
+client: "Banco Mundial"
+location: "Jordania"
+year: 2023-2024
+categories: ["Datos y Tecnología"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Implementación de la Infraestructura Municipal de Datos Espaciales (MSDI) en Amman, Jordania",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Jordania"
+}
+</script>
+
+El proyecto tuvo como objetivo mejorar la Infraestructura Municipal de Datos Espaciales (MSDI) en la Gran Municipalidad de Amman (GMA). El proyecto consistió en realizar una evaluación del estado actual en las áreas de Datos (tipo y calidad de los conjuntos de datos disponibles), Instituciones (políticas, regulaciones y prácticas para crear, gestionar, compartir y actualizar datos), Personas (capacidades técnicas, cantidad de personas calificadas, roles) y Sistemas (software y hardware). Como resultado de la evaluación, el proyecto incluyó el desarrollo de una hoja de ruta para fortalecer la gestión de datos espaciales para mejorar la planificación urbana y la prestación de servicios públicos. Además, CAPSUS realizó talleres de desarrollo de capacidades sobre Gobernanza de Datos, Herramientas de Planificación Urbana, Portales y Sistemas de Datos, Políticas de Datos Abiertos y desarrolló una estrategia de desarrollo de capacidades para continuar las capacidades humanas dentro de la GMA. 
+
+Como resultado de este proyecto, la GMA instaló un Comité de Gobernanza de Datos para reformar las políticas de datos dentro de la Municipalidad, fortalecer su observatorio urbano, integró estos esfuerzos con la Iniciativa de Ciudad Inteligente de Amman e inició el análisis de desarrollo de un geoportal para gestionar y compartir datos geoespaciales.

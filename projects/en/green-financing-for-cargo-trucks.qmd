@@ -1,0 +1,19 @@
+---
+title: "Green Financing for Cargo Trucks"
+client: "GIZ"
+location: "Mexico"
+year: 2022
+categories: ["Sustainable Finance"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Green Financing for Cargo Trucks",
+  "sponsor": "GIZ",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+CAPSUS worked with Mexican institutions to identify local financing options for acquiring newer cargo trucks, with the aim of reducing GHG emissions in the cargo transportation sector. The analysis focused on leasing strategies.

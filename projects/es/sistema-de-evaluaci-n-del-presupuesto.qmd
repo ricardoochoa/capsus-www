@@ -1,0 +1,19 @@
+---
+title: "Sistema de evaluación del presupuesto"
+client: "La Agencia Alemana de Cooperación Internacional (GIZ)"
+location: "México"
+year: 2021-2022
+categories: ["Finanzas Sostenibles"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Sistema de evaluación del presupuesto",
+  "sponsor": "La Agencia Alemana de Cooperación Internacional (GIZ)",
+  "spatialCoverage": "México"
+}
+</script>
+
+El objetivo principal consiste en mejorar la calidad del gasto público a través del desarrollo de formatos estratégicos de divulgación y difusión de la información del desempeño (cédulas), que incluyan enfoques y criterios de sostenibilidad para la recuperación sostenible post COVID-19, a su vez que aporten a una toma de decisiones con base en evidencia en el ámbito programático y presupuestal.

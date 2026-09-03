@@ -1,0 +1,19 @@
+---
+title: "Opciones de financiamiento climático para viviendas rurales y asequibles"
+client: "Cooperación Internacional Alemana para el Desarrollo Sustentable (GIZ) / Comisión Nacional de Vivienda de México (CONAVI)"
+location: "México"
+year: 2021-2022
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Opciones de financiamiento climático para viviendas rurales y asequibles",
+  "sponsor": "Cooperación Internacional Alemana para el Desarrollo Sustentable (GIZ) / Comisión Nacional de Vivienda de México (CONAVI)",
+  "spatialCoverage": "México"
+}
+</script>
+
+El objetivo del proyecto fue identificar los actores y fuentes de financiamiento climático que puedan colaborar con la Comisión Nacional de Vivienda de México para atender la carencia de vivienda sustentable, potenciar la eficiencia energética en las acciones de mejora, ampliación y reconstrucción de las viviendas, así como mitigar la falta de servicios. El proyecto consistió en mapear actores/instituciones/mecanismos nacionales e internacionales que ofrecen financiamiento climático y pueden apoyar los programas de la Comisión; priorizando las alternativas identificadas; contactando a los principales actores para propiciar la colaboración y generando hojas de ruta que detallan los pasos o procesos para formalizar la cooperación. Adicionalmente, se realizó una publicación para la divulgación del contenido.

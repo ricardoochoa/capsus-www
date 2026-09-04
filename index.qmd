@@ -46,3 +46,51 @@ Policy design, emissions reduction planning, and interactive stakeholder capacit
 :::
 :::
 
+---
+
+::: {.bg-dark-section style="text-align: center; border-radius: 8px; margin-top: 3rem;"}
+## Nuestra Misión
+
+CAPSUS busca hacer de las ciudades espacios que otorguen mejor calidad y nivel de vida con un menor impacto ambiental, asegurando que cada proyecto contribuya activamente al desarrollo sustentable.
+
+Ayudamos a nuestros clientes a construir un mejor futuro y proteger su capital mediante decisiones informadas que integran desarrollo económico, inclusión social, eficiencia y protección ambiental.
+
+::: {style="margin-top: 1.5rem; font-weight: 600;"}
+**Nuestros Valores:** Corresponsabilidad | Compromiso | Crecimiento | Creatividad | Credibilidad
+:::
+:::
+
+---
+
+<div style="text-align: center; margin-top: 3rem;">
+  <h2>Nuestro Impacto</h2>
+</div>
+
+::: {.row .g-4 style="text-align: center; margin-top: 1rem; margin-bottom: 2rem;"}
+::: {.col-md-4}
+<h1 style="color: #007d73; font-size: 3.8rem; margin-bottom: 0; font-weight: 700;">21</h1>
+**PAÍSES**
+:::
+
+::: {.col-md-4}
+<h1 style="color: #b2d912; font-size: 3.8rem; margin-bottom: 0; font-weight: 700;">4</h1>
+**CONTINENTES**
+:::
+
+::: {.col-md-4}
+<h1 style="color: #00495a; font-size: 3.8rem; margin-bottom: 0; font-weight: 700;">+300</h1>
+**CIUDADES**
+:::
+:::
+
+---
+
+## Lo que dicen nuestros aliados
+
+> "Concretar un instrumento como el Plan de Acción Climática Municipal... ha enriquecido la capacidad del equipo local, para estructurar, definir y proyectar acciones de mitigación y adaptación esenciales en distintos plazos."
+> <br>— **Dra. Beatriz Martínez Sánchez**, Directora General del Instituto Municipal de Planeación de Bahía de Banderas, Nayarit.
+
+> "This project made some kind of mind-shifting for me... I think in this project we have moved from traditional urban planning which depends on efficiency to a balanced urban planning taking into consideration the environmental, social, and economic aspects."
+> <br>— **Mohammed Zawahreh**, Head of the Local Development Unit, Zarqa Municipality, Jordan.
+
+

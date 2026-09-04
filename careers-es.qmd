@@ -8,3 +8,36 @@ Superamos desafíos en diversos contextos gracias a nuestro equipo multidiscipli
 Creemos que la inclusión y la diversidad social nutren la capacidad de innovación. Actuamos bajo la premisa de la no violencia, la igualdad de género y el respeto a la diversidad sexual para proteger a la comunidad LGBTQ+, mujeres y grupos minoritarios en nuestro entorno de trabajo.
 
 [Descargar nuestra Política de Género, Diversidad e Inclusión (PDF)](documents/capsus_inclusion_es.pdf)
+
+---
+
+## Programa de Becarios
+
+Creemos que las primeras experiencias laborales son transformacionales y parte esencial del aprendizaje profesional. Contamos con un programa diseñado para apoyar a jóvenes profesionistas e impulsar el desarrollo de las nuevas generaciones en profesiones dirigidas a la sustentabilidad.
+
+**¿Qué pedimos a los interesados?**
+
+* Haberse graduado recientemente o estar cursando el último año/semestre de estudios de licenciatura o posgrado.
+* Ser 100% bilingüe (español e inglés).
+* Intereses profesionales ligados al desarrollo sustentable en el ámbito urbano.
+* Compromiso de al menos 2 meses a tiempo completo.
+
+**¿Qué ofrecemos?**
+
+* Integración total al equipo con experiencia profesional real en proyectos nacionales e internacionales.
+* Acceso a nuestras plataformas y metodologías tecnológicas.
+* Mentoría cercana y ambiente colaborativo.
+* Apoyo económico de $3,800 pesos mexicanos al mes.
+
+**Contacto:** Envía tu CV, carta de motivos en español y una carta en inglés a [ideas@capsus.mx](mailto:ideas@capsus.mx).
+
+---
+
+## Vacantes Abiertas
+
+::: {.callout-note collapse="true"}
+## Consultor/a en Sustentabilidad
+**Perfil:** Buscamos una persona comprometida con el desarrollo sustentable, con formación en áreas ambientales, urbanismo o ingeniería.  
+**Requisitos:** Manejo de herramientas de análisis o SIG, capacidad de redacción técnica bilingüe y trabajo en equipo.  
+**Contacto:** Envía tu CV sin fotografía ni datos personales sensibles a [ideas@capsus.mx](mailto:ideas@capsus.mx).
+:::

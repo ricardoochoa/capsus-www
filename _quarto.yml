@@ -19,6 +19,13 @@ website:
     right:
       - href: portfolio-es.qmd
         text: "ES"
+  page-footer:
+    background: "#00495a"
+    left: |
+      **CAPSUS Mx:** Prado Sur 274, Lomas de Chapultepec, Miguel Hidalgo, 11000, CDMX. Tel: +52 (55) 47 44 48 30 <br>
+      **CAPSUS LLC:** 5718 Westheimer Suite 1000 Houston, Texas 77057. Tel: +1 832 737 0834
+    right: |
+      [ideas@capsus.mx](mailto:ideas@capsus.mx) | [Aviso de Privacidad](/privacy-es.qmd)
         
 format:
   html:

@@ -35,7 +35,39 @@ $font-family-sans-serif: "Lato", sans-serif;
   }
 }
 
-.hero-banner h3 {
-  color: $dark;
-  margin-top: 1rem;
+.hero-banner {
+  background-image: linear-gradient(rgba(0, 73, 90, 0.75), rgba(0, 73, 90, 0.75)), url('images/backgrounds/Banner-1.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 5rem 2rem;
+
+  h3 {
+    color: white !important;
+    font-weight: 700;
+    margin-top: 1rem;
+  }
+
+  p {
+    color: rgba(255, 255, 255, 0.9);
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.15rem;
+    line-height: 1.6;
+  }
+}
+
+.bg-dark-section {
+  background-color: $dark;
+  color: white;
+  padding: 4.5rem 2rem;
+
+  h1, h2, h3, h4, h5, h6 {
+    color: white !important;
+  }
+
+  p, li {
+    color: rgba(255, 255, 255, 0.9);
+  }
 }

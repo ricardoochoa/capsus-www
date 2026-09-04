@@ -2,7 +2,7 @@
 title: "Tool to Locate Areas Ideal for Social Housing"
 client: "National Housing Commission of Mexico (CONAVI)"
 location: "Mexico"
-year: 2017-2018
+year: "2017-2018"
 categories: ["Data & Technology"]
 ---
 

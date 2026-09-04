@@ -2,7 +2,7 @@
 title: "Water Recycling"
 client: "Papalote Children’s Museum"
 location: "Mexico City, Mexico"
-year: 2012
+year: "2012"
 categories: ["Sustainable Development"]
 ---
 

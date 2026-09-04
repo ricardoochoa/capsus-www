@@ -2,7 +2,7 @@
 title: "Climate Resilient Cities"
 client: "World Bank, Urban Resilience Office (ORU) and the Secretariat of Agrarian, Territorial and Urban Development (SEDATU)"
 location: "Mexico"
-year: 2021
+year: "2021"
 categories: ["Climate Change"]
 ---
 

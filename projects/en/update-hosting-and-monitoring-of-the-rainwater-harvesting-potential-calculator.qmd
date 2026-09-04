@@ -2,7 +2,7 @@
 title: "Update, Hosting, and Monitoring of the Rainwater Harvesting Potential Calculator"
 client: "Cántaro Azul"
 location: "Mexico"
-year: 2025
+year: "2025"
 categories: ["Technology & Software"]
 ---
 

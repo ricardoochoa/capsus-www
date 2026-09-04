@@ -2,7 +2,7 @@
 title: "City Climate Action Plan Analysis"
 client: "World Bank"
 location: "Latin America and the Caribbean"
-year: 2021-2022
+year: "2021-2022"
 categories: ["Public Policies"]
 ---
 

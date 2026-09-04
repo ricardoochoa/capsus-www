@@ -2,7 +2,7 @@
 title: "Plan de infraestructura sustentable para Zacatecas"
 client: "Gobierno de Zacatecas"
 location: "Zacatecas, México"
-year: 2021
+year: "2021"
 categories: ["Finanzas Sostenibles"]
 ---
 

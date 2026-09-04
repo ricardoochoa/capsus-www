@@ -2,7 +2,7 @@
 title: "Desarrollo Territorial Sostenible en Mozambique: Retos y Oportunidades Claves"
 client: "Banco Mundial"
 location: "Mozambique"
-year: 2023-2024
+year: "2023-2024"
 categories: ["Planificación Urbana"]
 ---
 

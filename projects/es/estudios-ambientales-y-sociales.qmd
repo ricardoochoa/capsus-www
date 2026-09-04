@@ -2,7 +2,7 @@
 title: "Estudios ambientales y sociales"
 client: "Parque Solar “Las Garzas”"
 location: "Durango, México"
-year: 2018
+year: "2018"
 categories: ["Energía Renovable"]
 ---
 

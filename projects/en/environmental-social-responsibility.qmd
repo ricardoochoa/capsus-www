@@ -2,7 +2,7 @@
 title: "Environmental Social Responsibility"
 client: "Marsh Mexico"
 location: "Mexico City, Mexico"
-year: 2009
+year: "2009"
 categories: ["Capacity Development"]
 ---
 

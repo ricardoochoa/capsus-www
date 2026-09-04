@@ -2,7 +2,7 @@
 title: "Creating a Learning Management System for Mexican National Banking and Securities Commission to Accelerate Green Finance Flows"
 client: "Global Green Growth Institute (GGGI) / Comisión Nacional Bancaria y la Comisión de Valores de México (CNBV)"
 location: "Mexico"
-year: 2021
+year: "2021"
 categories: ["Capacity Development"]
 ---
 

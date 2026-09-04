@@ -2,7 +2,7 @@
 title: "Formulation of the Environmental Governance Chapter of the Strategic Sustainable Development Plan of Quintana Roo 2050"
 client: "Ciudadanos por la Transparencia (Citizens for Transparency Organization)"
 location: "Mexico"
-year: 2024
+year: "2024"
 categories: ["Public Policies"]
 ---
 

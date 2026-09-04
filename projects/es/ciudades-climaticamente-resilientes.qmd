@@ -1,0 +1,19 @@
+---
+title: "Ciudades climáticamente resilientes"
+client: "Banco Mundial, Oficina de Resiliencia Urbana (ORU) / Secretaría de Desarrollo Agrario, Territorial y urbano (SEDATU)"
+location: "México"
+year: "2021"
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Ciudades climáticamente resilientes",
+  "sponsor": "Banco Mundial, Oficina de Resiliencia Urbana (ORU) / Secretaría de Desarrollo Agrario, Territorial y urbano (SEDATU)",
+  "spatialCoverage": "México"
+}
+</script>
+
+El proyecto apoyó a la Secretaría de Desarrollo Agrario, Territorial y Urbano (SEDATU) en el desarrollo de lineamientos de diseño y construcción para maximizar los beneficios de mitigación y adaptación de las inversiones en infraestructura financiadas bajo la PMU, en el contexto de promover una recuperación verde y resiliente de la pandemia COVID- 19. El objetivo fue desarrollar los lineamientos generales y criterios de diseño a ser adoptados en el diseño, adquisición, construcción y supervisión de las inversiones financiadas por la PMU. Estos lineamientos establecen los parámetros para que las obras realizadas en el marco del programa cumplan con criterios de sustentabilidad de acuerdo con las diferentes condiciones climáticas del proyecto en diversas regiones.

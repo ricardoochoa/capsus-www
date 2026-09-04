@@ -1,8 +1,8 @@
 ---
 title: "Nuevo concepto del Mejoravit Ambiental"
-client: "Agencia Alemana de Cooperación Internacional (GIZ) \- INFONAVIT"
+client: "Agencia Alemana de Cooperación Internacional (GIZ) - INFONAVIT"
 location: "Ciudad de México"
-year: 2016-2017
+year: "2016-2017"
 categories: ["Planificación Urbana"]
 ---
 
@@ -11,7 +11,7 @@ categories: ["Planificación Urbana"]
   "@context": "https://schema.org",
   "@type": "Project",
   "name": "Nuevo concepto del Mejoravit Ambiental",
-  "sponsor": "Agencia Alemana de Cooperación Internacional (GIZ) \- INFONAVIT",
+  "sponsor": "Agencia Alemana de Cooperación Internacional (GIZ) - INFONAVIT",
   "spatialCoverage": "Ciudad de México"
 }
 </script>

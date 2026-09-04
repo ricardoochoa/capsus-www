@@ -2,7 +2,7 @@
 title: "Infraestructura Municipal de Datos Espaciales en Samarcanda"
 client: "Banco Mundial"
 location: "Samarcanda, Uzbekistán"
-year: 2024-2025
+year: "2024-2025"
 categories: ["Datos y Tecnología"]
 ---
 

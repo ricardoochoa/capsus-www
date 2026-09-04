@@ -2,7 +2,7 @@
 title: "Chapultepec Master Plan"
 client: "Mexico City Government"
 location: "Mexico City, Mexico"
-year: 2021
+year: "2021"
 categories: ["Urban Planning"]
 ---
 

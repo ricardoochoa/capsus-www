@@ -2,7 +2,7 @@
 title: "Municipal Environmental Action Plan"
 client: "Huixquilucan Municipality, State of Mexico"
 location: "Huixquilucan, State of Mexico, Mexico"
-year: 2010
+year: "2010"
 categories: ["Public Policies"]
 ---
 

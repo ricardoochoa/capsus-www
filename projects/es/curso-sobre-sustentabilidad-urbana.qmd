@@ -2,7 +2,7 @@
 title: "Curso sobre Sustentabilidad Urbana"
 client: "Instituto Tecnológico de Estudios Superiores de Monterrey (ITESM)"
 location: "Estado de México, México"
-year: 2019
+year: "2019"
 categories: ["Datos y Tecnología"]
 ---
 

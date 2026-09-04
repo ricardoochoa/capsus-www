@@ -2,7 +2,7 @@
 title: "Industrial Energy Savings"
 client: "Silanes Laboratories & DIPAK"
 location: "State of Mexico, Mexico"
-year: 2017
+year: "2017"
 categories: ["Sustainable Development"]
 ---
 

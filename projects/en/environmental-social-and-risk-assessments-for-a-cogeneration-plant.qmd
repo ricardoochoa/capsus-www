@@ -2,7 +2,7 @@
 title: "Environmental, Social, and Risk Assessments for a Cogeneration Plant"
 client: "Igasamex"
 location: "Querétaro, Mexico"
-year: 2021-2024
+year: "2021-2024"
 categories: ["Environmental Studies"]
 ---
 

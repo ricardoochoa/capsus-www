@@ -2,7 +2,7 @@
 title: "Sustainable Strategy for the Social Housing Sector of Mexico"
 client: "ARA, CADU, DEREX, JAVER, RUBA, SADASI, UNION, VINTE"
 location: "Mexico"
-year: 2016
+year: "2016"
 categories: ["Public Policies"]
 ---
 

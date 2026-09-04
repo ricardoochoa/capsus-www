@@ -2,7 +2,7 @@
 title: "Urban Growth Scenarios for Indonesia"
 client: "World Bank, Korean Green Growth Trust Fund, and National Government of Indonesia"
 location: "Denpasar and Semarang, Indonesia"
-year: 2017
+year: "2017"
 categories: ["Urban Planning"]
 ---
 

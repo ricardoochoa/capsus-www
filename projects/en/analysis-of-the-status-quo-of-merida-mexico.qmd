@@ -1,0 +1,19 @@
+---
+title: "Analysis of the Status Quo of Mérida, Mexico"
+client: "GIZ"
+location: "Mexico"
+year: "2022"
+categories: ["Climate Change"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Analysis of the Status Quo of Mérida, Mexico",
+  "sponsor": "GIZ",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+CAPSUS worked with ORU to generate an analysis of the status quo of the municipality of Merida, in relation to resilience strategies and adaptation to climate change. The team identified the strengths, weaknesses, and opportunities; the current state of the regulatory framework; and the municipality's institutional capacities. Likewise, the team developed potential options for financing adaptation measures. The analysis integrated gender-perspective criteria and recognized the cultural diversity of vulnerable groups in the face of the effects of climate change.

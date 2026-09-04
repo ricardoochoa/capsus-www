@@ -1,0 +1,19 @@
+---
+title: "Consulting in Environmental and Social Responsibility for Cuitláhuac Park in Iztapalapa, Mexico City"
+client: "NetaCero"
+location: "Mexico City, Mexico"
+year: "2019"
+categories: ["Environmental Studies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Consulting in Environmental and Social Responsibility for Cuitláhuac Park in Iztapalapa, Mexico City",
+  "sponsor": "NetaCero",
+  "spatialCoverage": "Mexico City, Mexico"
+}
+</script>
+
+Advice was provided on a socio-environmental analysis related to the rehabilitation of the main public park of the municipality. To this end, an environmental and social environment analysis was made using remote perception tools, inputs provided on social behavior and the use of geographic information systems.

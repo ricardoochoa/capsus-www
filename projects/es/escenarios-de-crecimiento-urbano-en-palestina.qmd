@@ -2,7 +2,7 @@
 title: "Escenarios de Crecimiento Urbano en Palestina"
 client: "Municipal Development and Lending Fund (MDLF)"
 location: "Ramalá-Al Bireh, Belén, Hebrón, Nablus y Gaza, Palestina"
-year: 2018-2019
+year: "2018-2019"
 categories: ["Planificación Urbana"]
 ---
 

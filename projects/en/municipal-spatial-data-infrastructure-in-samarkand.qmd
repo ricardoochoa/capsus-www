@@ -2,7 +2,7 @@
 title: "Municipal Spatial Data Infrastructure in Samarkand"
 client: "World Bank"
 location: "Samarkand, Uzbekistan"
-year: 2024
+year: "2024"
 categories: ["Data & Technology"]
 ---
 

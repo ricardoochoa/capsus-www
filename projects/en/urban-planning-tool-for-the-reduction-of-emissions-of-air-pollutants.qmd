@@ -2,7 +2,7 @@
 title: "Urban Planning Tool for the Reduction of Emissions of Air Pollutants"
 client: "Mexico City Ministry of the Environment (SEDEMA)"
 location: "Mexico City, Mexico"
-year: 2018
+year: "2018"
 categories: ["Data & Technology"]
 ---
 

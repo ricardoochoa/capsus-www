@@ -2,7 +2,7 @@
 title: "Conservation and Management Guidelines, and Master Plans for Protected Natural Areas"
 client: "Ministry of the Environment of Mexico City (SEDEMA)"
 location: "Mexico City, Mexico"
-year: 2025-2026
+year: "2025-2026"
 categories: ["Urban Planning"]
 ---
 

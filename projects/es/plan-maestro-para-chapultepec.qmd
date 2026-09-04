@@ -2,7 +2,7 @@
 title: "Plan Maestro para Chapultepec"
 client: "Gobierno de la Ciudad de México"
 location: "Ciudad de México, México"
-year: 2021
+year: "2021"
 categories: ["Planificación Urbana"]
 ---
 

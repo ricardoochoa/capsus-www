@@ -2,7 +2,7 @@
 title: "Supporting the Implementation of Nationally Determined Contribution-Cities and Climate Change in South Africa"
 client: "World Bank"
 location: "South Africa"
-year: 2022
+year: "2022"
 categories: ["Climate Change"]
 ---
 

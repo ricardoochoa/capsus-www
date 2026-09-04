@@ -1,0 +1,19 @@
+---
+title: "Ahorro de Energía Comercial"
+client: "Ópticas Devlyn"
+location: "Ciudad de México, México"
+year: "2012"
+categories: ["Energía Renovable"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Ahorro de Energía Comercial",
+  "sponsor": "Ópticas Devlyn",
+  "spatialCoverage": "Ciudad de México, México"
+}
+</script>
+
+Se otorgaron servicios de consultoría para instrumentar un proyecto gradual de ahorro de energía eléctrica en las sucursales, edificios y laboratorios. Además de asesorar sobre esquemas de autoabasto eléctrico por medios renovables.

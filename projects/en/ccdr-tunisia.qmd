@@ -2,7 +2,7 @@
 title: "CCDR Tunisia"
 client: "World Bank"
 location: "Tunisia"
-year: 2023
+year: "2023"
 categories: ["Climate Change"]
 ---
 

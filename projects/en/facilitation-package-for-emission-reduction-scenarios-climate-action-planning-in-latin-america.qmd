@@ -2,7 +2,7 @@
 title: "Facilitation Package for Emission Reduction Scenarios – Climate Action Planning in Latin America"
 client: "C40 Cities"
 location: "Latin America"
-year: 2018
+year: "2018"
 categories: ["Capacity Development"]
 ---
 

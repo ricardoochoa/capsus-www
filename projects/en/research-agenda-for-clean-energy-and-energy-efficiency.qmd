@@ -2,7 +2,7 @@
 title: "Research Agenda for Clean Energy and Energy Efficiency"
 client: "SENER, World Bank, and Inter-American Development Bank"
 location: "Campeche, Quintana Roo, Tabasco, Yucatan, Mexico"
-year: 2016
+year: "2016"
 categories: ["Public Policies"]
 ---
 

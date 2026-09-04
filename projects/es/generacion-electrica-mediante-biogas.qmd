@@ -1,0 +1,19 @@
+---
+title: "Generación Eléctrica mediante biogás"
+client: "GUCAHE / IDEAL"
+location: "Ciudad de México, México"
+year: "2009"
+categories: ["Energía Renovable"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Generación Eléctrica mediante biogás",
+  "sponsor": "GUCAHE / IDEAL",
+  "spatialCoverage": "Ciudad de México, México"
+}
+</script>
+
+Se asesoró sobre la instrumentación de un proyecto de auto-abasto eléctrico que sustituye la generación eléctrica usando diésel por biogás de un tiradero de basura clausurado para abastecer al Centro Comercial de la zona. Además, se asesoró sobre la viabilidad de incluir al proyecto como un Mecanismo de Desarrollo Limpio.

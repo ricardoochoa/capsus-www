@@ -2,7 +2,7 @@
 title: "Urban Growth Scenarios for Kolkata"
 client: "LEA Associates"
 location: "India"
-year: 2024
+year: "2024"
 categories: ["Urban Planning"]
 ---
 

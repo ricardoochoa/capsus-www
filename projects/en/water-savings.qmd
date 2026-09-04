@@ -2,7 +2,7 @@
 title: "Water Savings"
 client: "President Hotel Mexico City"
 location: "Mexico City, Mexico"
-year: 2010-2016
+year: "2010-2016"
 categories: ["Sustainable Development"]
 ---
 

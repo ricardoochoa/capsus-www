@@ -2,7 +2,7 @@
 title: "Urban Sustainability Training"
 client: "Instituto Tecnológico de Estudios Superiores de Monterrey (ITESM)"
 location: "State of Mexico, Mexico"
-year: 2019
+year: "2019"
 categories: ["Capacity Development"]
 ---
 

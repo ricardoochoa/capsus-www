@@ -2,7 +2,7 @@
 title: "Ahorro de consumo de agua"
 client: "Hotel Presidente Ciudad de México"
 location: "Ciudad de México, México"
-year: 2010-2016
+year: "2010-2016"
 categories: ["Estudios Ambientales"]
 ---
 

@@ -1,0 +1,19 @@
+---
+title: "Manual para planificación y diseño urbano con inclusión de género"
+client: "Grupo Banco Mundial"
+location: "Divulgación en todo el mundo"
+year: "2020"
+categories: ["Desarrollo de Capacidades"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Manual para planificación y diseño urbano con inclusión de género",
+  "sponsor": "Grupo Banco Mundial",
+  "spatialCoverage": "Divulgación en todo el mundo"
+}
+</script>
+
+Se rediseñó un manual trabajado por parte del Grupo Banco Mundial que presenta pautas claras y prácticas para implementar procesos de planificación y diseño inclusivos, flexibles a un plan o proyecto en cualquier contexto, con un enfoque para establecer principios de género.

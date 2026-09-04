@@ -1,0 +1,19 @@
+---
+title: "Sustentabilidad Económica del Transporte de Carga"
+client: "HEAT / Cooperación Alemana al Desarrollo Sustentable (GIZ)"
+location: "Jalisco, México"
+year: "2022"
+categories: ["Movilidad Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Sustentabilidad Económica del Transporte de Carga",
+  "sponsor": "HEAT / Cooperación Alemana al Desarrollo Sustentable (GIZ)",
+  "spatialCoverage": "Jalisco, México"
+}
+</script>
+
+El proyecto es parte del programa nacional “Transporte Sustentable de Carga”. En este proyecto, CAPSUS colabora con HEAT y la GIZ para fomentar la sostenibilidad económica de las flotas de carga privadas de las PYME. El equipo trabaja junto a los actores locales para identificar las mejores prácticas para el desarrollo sustentable del sector, con un enfoque especial en el aprovechamiento de las economías de escala.

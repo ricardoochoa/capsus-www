@@ -2,7 +2,7 @@
 title: "Escenarios de Crecimiento Urbano para el reino Hachemita de Jordania"
 client: "Grupo Banco Mundial y el Fondo de Crecimiento Verde de Corea"
 location: "Amman, Russeifa, Zarqa, Irbid y Mafraq, Jordania"
-year: 2017-2018
+year: "2017-2018"
 categories: ["Planificación Urbana"]
 ---
 

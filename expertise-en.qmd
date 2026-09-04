@@ -2,9 +2,9 @@
 title: "Our Expertise"
 ---
 
-We help design and manage sustainable cities that promote social justice, economic development, energy efficiency, and good environmental performance[cite: 1]. 
+We help design and manage sustainable cities that promote social justice, economic development, energy efficiency, and good environmental performance. 
 
-* **Sustainable Urban Planning:** Solutions for cities and buildings to reduce costs and improve environmental performance[cite: 1].
-* **Environmental Studies:** Field and cabinet studies to evaluate energy and urban infrastructure projects[cite: 1].
-* **Public Policies:** Design and evaluation of policies on climate change, air quality, and waste management[cite: 1].
-* **Capacity Development:** Creative workshops to build capacities on sustainable development[cite: 1].
+* **Sustainable Urban Planning:** Solutions for cities and buildings to reduce costs and improve environmental performance.
+* **Environmental Studies:** Field and cabinet studies to evaluate energy and urban infrastructure projects.
+* **Public Policies:** Design and evaluation of policies on climate change, air quality, and waste management.
+* **Capacity Development:** Creative workshops to build capacities on sustainable development.

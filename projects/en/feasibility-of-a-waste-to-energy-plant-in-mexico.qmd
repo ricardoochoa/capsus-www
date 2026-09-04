@@ -2,7 +2,7 @@
 title: "Feasibility of a Waste to Energy Plant in Mexico"
 client: "GESTAB / CALTIA"
 location: "Mexico City and the State of Mexico, Mexico"
-year: 2018
+year: "2018"
 categories: ["Environmental Studies"]
 ---
 

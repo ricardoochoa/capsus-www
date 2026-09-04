@@ -2,7 +2,7 @@
 title: "Low Carbon Central Asian Cities"
 client: "World Bank"
 location: "Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan and Uzbekistan."
-year: 2022-2023
+year: "2022-2023"
 categories: ["Climate Change"]
 ---
 

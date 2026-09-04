@@ -3,12 +3,19 @@ project:
 
 website:
   title: "CAPSUS"
-  # logo: "images/Menu-Logo-Capsus.png" # Uncomment once images are migrated
+  favicon: "images/favicon.ico"
   navbar:
+    logo: "images/Menu-Logo-Capsus.png"
     background: "#00495a"
     left:
+      - href: index.qmd
+        text: "Home"
       - href: portfolio-en.qmd
         text: "Projects"
+      - href: expertise-en.qmd
+        text: "Expertise"
+      - href: careers-en.qmd
+        text: "Careers"
     right:
       - href: portfolio-es.qmd
         text: "ES"

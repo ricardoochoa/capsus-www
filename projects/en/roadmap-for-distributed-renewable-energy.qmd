@@ -2,7 +2,7 @@
 title: "Roadmap for Distributed Renewable Energy"
 client: "IFC"
 location: "Mexico"
-year: 2024
+year: "2024"
 categories: ["Renewable Energy"]
 ---
 

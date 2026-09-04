@@ -2,7 +2,7 @@
 title: "Air Quality Forecast"
 client: "Ministry of the Environment of the Government of the State of Mexico"
 location: "State of Mexico, Mexico"
-year: 2019
+year: "2019"
 categories: ["Environmental Studies"]
 ---
 

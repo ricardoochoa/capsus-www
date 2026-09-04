@@ -2,7 +2,7 @@
 title: "Ecotechnologies for Social Housing"
 client: "INFONAVIT"
 location: "Mexico"
-year: 2016
+year: "2016"
 categories: ["Sustainable Development"]
 ---
 

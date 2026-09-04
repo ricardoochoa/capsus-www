@@ -2,7 +2,7 @@
 title: "Plan Ambiental Municipal de Huixquilucan"
 client: "Municipio de Huixquilucan, Estado de México"
 location: "Huixquilucan, Estado de México, México"
-year: 2010
+year: "2010"
 categories: ["Políticas Públicas"]
 ---
 

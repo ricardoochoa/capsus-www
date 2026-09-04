@@ -1,0 +1,19 @@
+---
+title: "Mexico City’s Air Quality Program 2021-2030 (ProAire ZMVM 2021-2030)"
+client: "Mexico City Ministry of the Environment (SEDEMA)"
+location: "Mexico City, Mexico"
+year: "2020"
+categories: ["Public Policies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Mexico City’s Air Quality Program 2021-2030 (ProAire ZMVM 2021-2030)",
+  "sponsor": "Mexico City Ministry of the Environment (SEDEMA)",
+  "spatialCoverage": "Mexico City, Mexico"
+}
+</script>
+
+The Program to Improve the Air Quality of the Metropolitan Area of the Valley of Mexico (ProAire ZMVM) includes the 16 districts of Mexico City, 59 conurbation municipalities of the state of Mexico, and Tizayuca, Hidalgo. The Program comprises an air quality diagnosis carried out at the ZMVM, which included analysis of the emissions inventory results, the institutions, the budgetary and operational capacities, as well as the results of the atmospheric monitoring stations. Based on the diagnosis, the metropolitan strategy was developed to reduce emissions of local air pollutants, reverse deterioration trends, protect public health, and strengthen monitoring activities. The public policy strategies and measures included in the Program were evaluated and prioritized based on emissions reductions and implementation costs.

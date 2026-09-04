@@ -1,0 +1,19 @@
+---
+title: "Capacitación sobre el Código de Edificación Eficiente en México (IECC)"
+client: "World Resource Institute - México"
+location: "Ciudad de México, México"
+year: "2016"
+categories: ["Desarrollo de Capacidades"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Capacitación sobre el Código de Edificación Eficiente en México (IECC)",
+  "sponsor": "World Resource Institute - México",
+  "spatialCoverage": "Ciudad de México, México"
+}
+</script>
+
+Taller de difusión y generación de material didáctico para la capacitación a personal de gobiernos locales sobre los beneficios de adopción del Código de Edificación Eficiente en sus reglamentos de construcción. Desarrollado en conjunto con Coenergía.

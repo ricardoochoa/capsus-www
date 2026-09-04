@@ -1,0 +1,19 @@
+---
+title: "Estudios Ambientales para un Parque Eólico"
+client: "ZUMA ENERGÍA"
+location: "Reynosa, Tamaulipas, México"
+year: "2016-2017"
+categories: ["Estudios Ambientales"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Estudios Ambientales para un Parque Eólico",
+  "sponsor": "ZUMA ENERGÍA",
+  "spatialCoverage": "Reynosa, Tamaulipas, México"
+}
+</script>
+
+Se elaboraron diversos servicios de apoyo para el establecimiento de un parque eólico y sus líneas de transmisión, con una capacidad instalada mayor a los 400 MW. Para alcanzar el desarrollo de este proyecto, se realizaron varios servicios, como: analizar factibilidades ambientales de otras opciones, auditoría ambiental (Due Diligence), estudios de flora y fauna, Manifestación de Impacto Ambiental, Estudios Técnico Justificativo para cambio de Uso de Suelo, entre otros. Para el desarrollo del proyecto se propusieron estrategias y conductas que sirvieran para mantener en buen estatus el medio ambiente circundante.

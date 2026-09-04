@@ -1,0 +1,19 @@
+---
+title: "Consulta pública"
+client: "Amigos de Sian Ka’an A. C. para la Comisión Nacional de Áreas Naturales Protegidas (CONANP)"
+location: "Quintana Roo, México"
+year: "2017"
+categories: ["Estudios Ambientales"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Consulta pública",
+  "sponsor": "Amigos de Sian Ka’an A. C. para la Comisión Nacional de Áreas Naturales Protegidas (CONANP)",
+  "spatialCoverage": "Quintana Roo, México"
+}
+</script>
+
+El proyecto consistió en diseñar e implementar un proceso de consulta pública para la conservación y el programa de administración del área natural protegida: Reserva de la Biosfera Caribe Mexicano. Este proceso incluyó una plataforma web para visualización interactiva y para sistematizar la opinión registrada de los ciudadanos.

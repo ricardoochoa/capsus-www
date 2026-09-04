@@ -2,7 +2,7 @@
 title: "Technical Assistance for Municipal Spatial Data Infrastructure (MSDI) Implementation in Kenya"
 client: "World Bank"
 location: "Kenya"
-year: 2024
+year: "2024"
 categories: ["Data & Technology"]
 ---
 

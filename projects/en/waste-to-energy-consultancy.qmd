@@ -2,7 +2,7 @@
 title: "Waste to Energy Consultancy"
 client: "GUASCOR Mexico"
 location: "Mexico City, Mexico"
-year: 2010
+year: "2010"
 categories: ["Environmental Studies"]
 ---
 

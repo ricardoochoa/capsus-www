@@ -2,7 +2,7 @@
 title: "Wind Farms in Oaxaca"
 client: "PRENEAL Mexico"
 location: "Oaxaca, Mexico"
-year: 2011-2012
+year: "2011-2012"
 categories: ["Environmental Studies"]
 ---
 

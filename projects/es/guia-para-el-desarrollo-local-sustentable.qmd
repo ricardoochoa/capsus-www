@@ -1,0 +1,19 @@
+---
+title: "Guía para el Desarrollo Local Sustentable"
+client: "Secretaría de Desarrollo Social y Grupo Banco Mundial"
+location: "México"
+year: "2011"
+categories: ["Desarrollo de Capacidades"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Guía para el Desarrollo Local Sustentable",
+  "sponsor": "Secretaría de Desarrollo Social y Grupo Banco Mundial",
+  "spatialCoverage": "México"
+}
+</script>
+
+Se elaboró una Guía que tiene como objetivo auxiliar a los municipios a desarrollarse de manera sustentable. Incluye: un análisis del marco jurídico; apartados sobre cambio climático, agua, aire, energía, suelos, biodiversidad y residuos; aborda la importancia de la participación social; propone una metodología para analizar proyectos específicos y volverlos “más sustentables”; aporta un análisis de experiencias mexicanas y de otras naciones; anexa una lista de verificación para evaluar la sustentabilidad local: y anexa una serie de ecotecnias aplicables a localidades marginadas.

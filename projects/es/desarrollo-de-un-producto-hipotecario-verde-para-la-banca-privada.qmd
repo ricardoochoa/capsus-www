@@ -2,7 +2,7 @@
 title: "Desarrollo de un Producto Hipotecario Verde para la banca privada"
 client: "Institución financiera"
 location: "México"
-year: 2022-2024
+year: "2022-2024"
 categories: ["Finanzas Sostenibles"]
 ---
 

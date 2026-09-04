@@ -2,7 +2,7 @@
 title: "Location Suitability of Subsidized Housing in Indonesia"
 client: "World Bank"
 location: "Indonesia"
-year: 2020
+year: "2020"
 categories: ["Urban Planning"]
 ---
 
@@ -16,4 +16,4 @@ categories: ["Urban Planning"]
 }
 </script>
 
-The main objective of the project is to analyze the suitability of the location of housing projects using the urban planning tool "Suitability". The tool assesses the location of housing projects with respect to the coverage of services, distance to urban areas, and the cost of land. It also provides recommendations that guide governments in terms of housing typologies based on geographic location, economic and urban characteristics, and environmental risk criteria. This project is piloted in 6 metropolitan areas, spanning 20 cities in Indonesia.
+The main objective of the project is to analyze the suitability of the location of housing projects using the urban planning tool “Suitability”. The tool assesses the location of housing projects with respect to the coverage of services, distance to urban areas, and the cost of land. It also provides recommendations that guide governments in terms of housing typologies based on geographic location, economic and urban characteristics, and environmental risk criteria. This project is piloted in 6 metropolitan areas, spanning 20 cities in Indonesia.

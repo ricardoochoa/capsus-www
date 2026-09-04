@@ -2,7 +2,7 @@
 title: "Design and Test of a Methodology Based in Digital Tools for the Frequent Collection of Information of the Current Situation in Informal Settlements in the Asuncion Metropolitan Area"
 client: "Inter-American Development Bank"
 location: "Paraguay"
-year: 2022-2023
+year: "2022-2023"
 categories: ["Data & Technology"]
 ---
 

@@ -1,0 +1,19 @@
+---
+title: "State Development Plan of Yucatán"
+client: "A911 and the Government of the State of Yucatán."
+location: "Yucatan, Mexico"
+year: "2018"
+categories: ["Public Policies"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "State Development Plan of Yucatán",
+  "sponsor": "A911 and the Government of the State of Yucatán.",
+  "spatialCoverage": "Yucatan, Mexico"
+}
+</script>
+
+Advice was given on energy and environmental strategies for the state government, which served as input for the development of the State Development Plan 2018 – 2024.

@@ -2,7 +2,7 @@
 title: "Environmental Studies for a Wind Farm"
 client: "ZUMA ENERGY"
 location: "Tamaulipas, Mexico"
-year: 2016-2017
+year: "2016-2017"
 categories: ["Environmental Studies"]
 ---
 

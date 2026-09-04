@@ -2,7 +2,7 @@
 title: "Ranking of Public Transportation for Mexican Cities"
 client: "Centro Mario Molina (Mario Molina Centre) and GIZ Mexico"
 location: "Mexico"
-year: 2024
+year: "2024"
 categories: ["Urban Mobility"]
 ---
 

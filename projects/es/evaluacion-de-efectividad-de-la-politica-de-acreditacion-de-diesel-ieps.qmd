@@ -1,0 +1,19 @@
+---
+title: "Evaluación de efectividad de la política de acreditación de diesel IEPS"
+client: "Agencia Francesa de Desarrollo (AFD)"
+location: "México"
+year: "2022"
+categories: ["Políticas Públicas"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Evaluación de efectividad de la política de acreditación de diesel IEPS",
+  "sponsor": "Agencia Francesa de Desarrollo (AFD)",
+  "spatialCoverage": "México"
+}
+</script>
+
+Este programa busca evaluar: (1) la efectividad de la política de acreditación tributaria del impuesto especial de productos y servicios (IEPS) para promover la formalización de las pequeñas empresas en el sector transporte, (2) la concentración económica de las acreditaciones en el sector, y (3) los impactos ambientales generados por el otorgamiento de acreditaciones fiscales del IEPS al diésel. Además, se generarán estrategias potenciales para reducir costos y emisiones en el sector transporte. Los resultados de la evaluación ayudarán a la Secretaría de Hacienda y Crédito Público (SHCP) a definir alternativas de política fiscal para el sector camionero en México.

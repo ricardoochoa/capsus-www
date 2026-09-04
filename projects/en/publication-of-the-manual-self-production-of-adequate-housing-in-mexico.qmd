@@ -1,0 +1,19 @@
+---
+title: "Publication of the Manual “Self-production of Adequate Housing in Mexico”"
+client: "GIZ / CONAVI / INFONAVIT"
+location: "Mexico"
+year: "2021-2022"
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Publication of the Manual “Self-production of Adequate Housing in Mexico”",
+  "sponsor": "GIZ / CONAVI / INFONAVIT",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+Development of the content for a publication together with GIZ, CONAVI, and INFONAVIT for the dissemination of a comprehensive strategy for self-production of adequate housing in Mexico based on financing schemes for the low-income Mexican population, ensuring informed decision-making by families about building safe and functional houses. As a final product, the report was published and disseminated.

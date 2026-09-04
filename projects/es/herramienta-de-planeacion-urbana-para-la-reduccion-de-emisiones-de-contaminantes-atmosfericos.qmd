@@ -1,0 +1,19 @@
+---
+title: "Herramienta de Planeación Urbana para la reducción de emisiones de contaminantes atmosféricos"
+client: "Secretaría del Medio Ambiente de la Ciudad de México (SEDEMA)"
+location: "Ciudad de México, México"
+year: "2018"
+categories: ["Datos y Tecnología"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Herramienta de Planeación Urbana para la reducción de emisiones de contaminantes atmosféricos",
+  "sponsor": "Secretaría del Medio Ambiente de la Ciudad de México (SEDEMA)",
+  "spatialCoverage": "Ciudad de México, México"
+}
+</script>
+
+Se llevó a cabo una capacitación, se otorgó asesoría y se instaló un software cuyo objetivo es evaluar de manera rápida las inversiones en infraestructura urbana y las políticas públicas en materia urbana y de movilidad para estimar sus beneficios o impactos en la generación de contaminantes atmosféricos.

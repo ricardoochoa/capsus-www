@@ -1,0 +1,19 @@
+---
+title: "Desarrollo de la Plataforma educativa “ETS México”’"
+client: "Banco Mundial"
+location: "México"
+year: "2021"
+categories: ["Desarrollo de Capacidades"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Desarrollo de la Plataforma educativa “ETS México”’",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "México"
+}
+</script>
+
+El proyecto realizó tareas desarrolladas en estrecha coordinación con el equipo de trabajo de PMR México, así como con el equipo de ETS (Emissions Trading System) de la SEMARNAT. El objetivo del proyecto fue desarrollar un curso en línea para la creación de capacidades en torno al Sistema de Comercio de Emisiones en México a partir de material previamente desarrollado por el Programa de Preparación del Mercado en México (PMR México). El proyecto implicó revisar y adaptar el material existente identificando áreas de oportunidad e incluyendo mejoras técnicas; desarrollar material complementario para mejorar la experiencia de aprendizaje; así como desarrollar y configurar la plataforma en línea para albergar los contenidos del curso y facilitar la interacción de las personas usuarias.

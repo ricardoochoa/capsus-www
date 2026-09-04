@@ -1,0 +1,19 @@
+---
+title: "Escenarios de crecimiento para evaluar los beneficios de la densificación urbana en la ciudad de León, Guanajuato"
+client: "Agencia Alemana de Cooperación Internacional (GIZ) y el Gobierno de León, Guanajuato"
+location: "León, Estado de Guanajuato, México"
+year: "2019-2020"
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Escenarios de crecimiento para evaluar los beneficios de la densificación urbana en la ciudad de León, Guanajuato",
+  "sponsor": "Agencia Alemana de Cooperación Internacional (GIZ) y el Gobierno de León, Guanajuato",
+  "spatialCoverage": "León, Estado de Guanajuato, México"
+}
+</script>
+
+El proyecto consiste en el desarrollo de una serie de escenarios de crecimiento urbano para analizar los beneficios de la densificación urbana en terrenos baldíos previamente identificados dentro de la ciudad de León, Guanajuato. El proyecto es una colaboración con la Agencia Alemana de Cooperación Internacional (GIZ) para apoyar el proceso de planificación urbana en la ciudad de León, Guanajuato.

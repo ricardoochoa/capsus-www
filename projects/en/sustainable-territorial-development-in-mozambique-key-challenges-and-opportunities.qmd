@@ -2,7 +2,7 @@
 title: "Sustainable Territorial Development in Mozambique: Key Challenges and Opportunities"
 client: "World Bank"
 location: "Mozambique"
-year: 2023-2024
+year: "2023-2024"
 categories: ["Urban Planning"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Environmental Studies and Permitting for a Combined Cycle Plant"
 client: "PANEM Energy"
 location: "Tecate, Baja California, Mexico"
-year: 2016-2017
+year: "2016-2017"
 categories: ["Environmental Studies"]
 ---
 

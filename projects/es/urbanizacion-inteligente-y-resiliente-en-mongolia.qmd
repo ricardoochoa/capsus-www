@@ -1,0 +1,19 @@
+---
+title: "Urbanización Inteligente y Resiliente en Mongolia"
+client: "Grupo Banco Mundial, Gobierno Nacional de Mongolia, Alcaldías de las ciudades de Ulán-Bator, Darkhan y Erdenet"
+location: "Ulán-Bator, Darkhan y Erdenet, Mongolia"
+year: "2019-2020"
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Urbanización Inteligente y Resiliente en Mongolia",
+  "sponsor": "Grupo Banco Mundial, Gobierno Nacional de Mongolia, Alcaldías de las ciudades de Ulán-Bator, Darkhan y Erdenet",
+  "spatialCoverage": "Ulán-Bator, Darkhan y Erdenet, Mongolia"
+}
+</script>
+
+El proyecto tuvo como objetivo principal incrementar la resiliencia y sustentabilidad urbana de las tres principales ciudades de Mongolia: Ulán-Bator, Darkhan y Erdenet. Constó de tres alcances: El primero consistió en analizar la tendencia de crecimiento de las tres principales ciudades de Mongolia, las políticas urbanas de Mongolia y las ideas en materia de inversiones y nuevas estrategias para cada ciudad. Con esta información se modelaron las ciudades a futuro y se evaluó su desempeño en materia ambiental, económica y social mediante indicadores relacionados a la calidad del aire, el consumo energético, el costo de mantenimiento de infraestructura, la cercanía a espacios públicos, entre otros. El segundo alcance consistió en analizar las repercusiones ambientales, económicas y sociales que tendría mover una zona industrial dentro del polígono urbano de la capital de Mongolia y realizar una regeneración urbana. El tercer alcance consistió en producir una guía de planeación urbana para Mongolia con un enfoque de sustentabilidad y resiliencia.

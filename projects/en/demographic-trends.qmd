@@ -2,7 +2,7 @@
 title: "Demographic Trends"
 client: "World Bank"
 location: "Worldwide"
-year: 2018
+year: "2018"
 categories: ["Data & Technology"]
 ---
 

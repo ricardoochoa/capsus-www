@@ -2,7 +2,7 @@
 title: "Leasing for Modernizing Cargo Trucks"
 client: "GIZ"
 location: "Mexico City"
-year: 2022
+year: "2022"
 categories: ["Sustainable Finance"]
 ---
 

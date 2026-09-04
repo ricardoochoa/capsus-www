@@ -2,7 +2,7 @@
 title: "Comprehensive Solid Waste Management"
 client: "Metepec Municipality"
 location: "Metepec, Mexico"
-year: 2010
+year: "2010"
 categories: ["Environmental Studies"]
 ---
 

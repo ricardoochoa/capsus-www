@@ -1,0 +1,19 @@
+---
+title: "‘ETS in Mexico’ E-learning Course, Mexico Partnership for Market Readiness (PMR Mexico)"
+client: "World Bank"
+location: "Mexico"
+year: "2021"
+categories: ["Capacity Development"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "‘ETS in Mexico’ E-learning Course, Mexico Partnership for Market Readiness (PMR Mexico)",
+  "sponsor": "World Bank",
+  "spatialCoverage": "Mexico"
+}
+</script>
+
+The project was carried out in close coordination with the PMR Mexico team and the Emissions Trading System (ETS) team at SEMARNAT. Its objective was to develop an online course to build capacity around the Emissions Trading System in Mexico, using materials previously developed by the Market Readiness Program in Mexico (PMR Mexico). The project involved reviewing and adapting existing materials to identify areas for improvement and include technical enhancements, developing complementary materials to enrich the learning experience, and designing and configuring the online platform to host the course content and facilitate user interaction.

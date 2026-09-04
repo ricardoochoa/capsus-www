@@ -2,7 +2,7 @@
 title: "Environmental Impact Assessment of the Vaso El Cristo"
 client: "Water Commission of the State of Mexico (CAEM)"
 location: "Estado de México, Mexico"
-year: 2021
+year: "2021"
 categories: ["Environmental Studies"]
 ---
 

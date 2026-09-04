@@ -2,7 +2,7 @@
 title: "Simulation of urban growth scenarios for the municipality of San Pedro"
 client: "Centro Mario Molina (Mario Molina Centre)"
 location: "Mexico"
-year: 2024
+year: "2024"
 categories: ["Urban Planning"]
 ---
 

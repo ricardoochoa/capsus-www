@@ -1,0 +1,19 @@
+---
+title: "Actualización del Inventario de Emisiones de Gases de Efecto Invernadero de Zapopan"
+client: "Gobierno Municipal de Zapopan"
+location: "Zapopan, Jalisco, México"
+year: "2025"
+categories: ["Cambio Climático"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Actualización del Inventario de Emisiones de Gases de Efecto Invernadero de Zapopan",
+  "sponsor": "Gobierno Municipal de Zapopan",
+  "spatialCoverage": "Zapopan, Jalisco, México"
+}
+</script>
+
+El proyecto consiste en la actualización del inventario de emisiones de gases de efecto invernadero (GEI) a nivel municipal, utilizando la metodología del Panel Intergubernamental sobre Cambio Climático (IPCC). Esta actualización permitirá recopilar, analizar y sistematizar datos recientes para estimar las emisiones generadas en los sectores clave de energía estacionaria, transporte y gestión de residuos.

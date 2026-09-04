@@ -2,7 +2,7 @@
 title: "Bulgaria Compact Cities ASA Urban Growth/shrinkage Scenario Exercise"
 client: "World Bank"
 location: "Vratsa and Sliven, Bulgaria"
-year: 2022
+year: "2022"
 categories: ["Urban Planning"]
 ---
 

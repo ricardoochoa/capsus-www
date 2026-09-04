@@ -2,7 +2,7 @@
 title: "Estudios Ambientales para Ductos de Gas Natural"
 client: "IGASAMEX"
 location: "Ciudad de México, México"
-year: 2016-2025
+year: "2016-2025"
 categories: ["Estudios Ambientales"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Tool for Calculating Water Consumption and Savings in Social Housing"
 client: "German Agency for International Cooperation (GIZ)"
 location: "Mexico"
-year: 2016
+year: "2016"
 categories: ["Data & Technology"]
 ---
 

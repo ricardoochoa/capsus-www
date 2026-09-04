@@ -2,7 +2,7 @@
 title: "Urban Growth Scenarios for Palestine"
 client: "Municipal Development and Lending Fund (MDLF) of Palestine"
 location: "Ramallah-Al Bireh, Bethlehem, Hebron, Nablus and Gaza, Palestine"
-year: 2018-2019
+year: "2018-2019"
 categories: ["Urban Planning"]
 ---
 

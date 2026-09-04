@@ -2,7 +2,7 @@
 title: "Sustainable Infrastructure Plan for Zacatecas"
 client: "Government of Zacatecas"
 location: "Zacatecas, Mexico"
-year: 2021
+year: "2021"
 categories: ["Urban Planning"]
 ---
 

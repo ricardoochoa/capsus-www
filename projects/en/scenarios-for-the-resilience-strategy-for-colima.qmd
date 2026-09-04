@@ -2,7 +2,7 @@
 title: "Scenarios for the Resilience Strategy for Colima"
 client: "AECOM and the Resilience Office for Colima of the Rockefeller Foundation"
 location: "Colima, Mexico"
-year: 2018
+year: "2018"
 categories: ["Urban Planning"]
 ---
 

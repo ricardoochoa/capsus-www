@@ -1,0 +1,19 @@
+---
+title: "Gestión Integral de Residuos Sólidos Urbanos"
+client: "Municipio de Metepec"
+location: "Metepec, Estado de México, México"
+year: "2010"
+categories: ["Gestión de Residuos"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Gestión Integral de Residuos Sólidos Urbanos",
+  "sponsor": "Municipio de Metepec",
+  "spatialCoverage": "Metepec, Estado de México, México"
+}
+</script>
+
+Se da asesoría al Ayuntamiento para el fortalecimiento del sistema de gestión de los residuos sólidos urbanos. Se realiza mediante un esquema público- privado e incluye separación, reciclaje, tratamiento de orgánicos, confinamiento final y aprovechamiento de biogás.

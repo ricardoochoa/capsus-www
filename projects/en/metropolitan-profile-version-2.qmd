@@ -2,7 +2,7 @@
 title: "Metropolitan Profile Version 2"
 client: "World Bank and Korean Green Growth Trust Fund"
 location: "Mexico"
-year: 2017-2018
+year: "2017-2018"
 categories: ["Urban Planning"]
 ---
 

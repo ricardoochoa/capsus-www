@@ -2,7 +2,7 @@
 title: "Climate-Smart Scenarios for Affordable Housing in South Sumatra, Indonesia"
 client: "World Bank"
 location: "Palembang, Musi Rawas, and Lubuklinggau, Indonesia"
-year: 2022-2023
+year: "2022-2023"
 categories: ["Urban Planning"]
 ---
 

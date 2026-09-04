@@ -2,7 +2,7 @@
 title: "Strategy to Strengthen Community Water Governance"
 client: "German International Cooperation for Sustainable Development (GIZ)"
 location: "Rural communities in the state of Quintana Roo, Mexico"
-year: 2021-2022
+year: "2021-2022"
 categories: ["Capacity Development"]
 ---
 

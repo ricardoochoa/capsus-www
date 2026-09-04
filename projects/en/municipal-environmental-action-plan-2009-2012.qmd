@@ -2,7 +2,7 @@
 title: "Municipal Environmental Action Plan 2009-2012"
 client: "Cuautitlán Izcalli Municipality, State of Mexico"
 location: "Cuautitlán Izcalli, Mexico"
-year: 2010
+year: "2010"
 categories: ["Public Policies"]
 ---
 

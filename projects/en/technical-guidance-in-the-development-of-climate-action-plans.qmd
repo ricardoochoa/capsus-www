@@ -2,7 +2,7 @@
 title: "Technical Guidance in the Development of Climate Action Plans"
 client: "The European Commission and the cities of Bahía de Banderas (Nayarit), Culiacán (Sinaloa), Juárez (Chihuahua), Ciudad Madero (Tamaulipas) y Zapopan (Jalisco)"
 location: "Bahía de Banderas (Nayarit), Culiacán (Sinaloa), Juárez (Chihuahua), Ciudad Madero (Tamaulipas) and Zapopan (Jalisco), Mexico."
-year: 2019-2020
+year: "2019-2020"
 categories: ["Capacity Development"]
 ---
 

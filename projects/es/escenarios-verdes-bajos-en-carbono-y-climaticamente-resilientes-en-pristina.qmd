@@ -1,0 +1,19 @@
+---
+title: "Escenarios verdes, bajos en carbono y climáticamente resilientes en Pristina"
+client: "Banco Mundial"
+location: "Pristina-Kosovo"
+year: "2021-2022"
+categories: ["Cambio Climático"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Escenarios verdes, bajos en carbono y climáticamente resilientes en Pristina",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Pristina-Kosovo"
+}
+</script>
+
+El propósito de este proyecto es apoyar al municipio de Pristina en la toma de decisiones para un desarrollo resiliente más verde y bajo en emisiones de carbono. CAPSUS realizó un análisis de las estrategias y trayectorias urbanas de desarrollo para identificar los proyectos de inversión a escala de ciudad y de barrio. El alcance del proyecto incluyó 1) desarrollar un análisis del crecimiento urbano bajo en carbono y climáticamente resiliente; y 2) apoyar a la identificación de inversiones bajas en carbono e inversiones climáticamente resilientes en ubicaciones específicas.

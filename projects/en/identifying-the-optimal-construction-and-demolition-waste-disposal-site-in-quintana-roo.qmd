@@ -2,7 +2,7 @@
 title: "Identifying the Optimal Construction and Demolition Waste Disposal Site in Quintana Roo"
 client: "Exinsa"
 location: "Mexico"
-year: 2023
+year: "2023"
 categories: ["Waste Management"]
 ---
 

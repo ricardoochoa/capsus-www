@@ -2,7 +2,7 @@
 title: "Reciclaje de Agua"
 client: "Papalote Museo del Niño"
 location: "Ciudad de México, México"
-year: 2012
+year: "2012"
 categories: ["Gestión de Residuos"]
 ---
 

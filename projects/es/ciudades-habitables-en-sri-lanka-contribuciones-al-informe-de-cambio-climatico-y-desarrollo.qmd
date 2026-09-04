@@ -1,0 +1,21 @@
+---
+title: "Ciudades Habitables en Sri Lanka: Contribuciones al Informe de Cambio Climático y Desarrollo"
+client: "Banco Mundial"
+location: "Sri Lanka"
+year: "2024"
+categories: ["Cambio Climático"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Ciudades Habitables en Sri Lanka: Contribuciones al Informe de Cambio Climático y Desarrollo",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "Sri Lanka"
+}
+</script>
+
+El proyecto realizó un análisis exhaustivo de la habitabilidad, la vulnerabilidad al cambio climático y las posibles estrategias de mitigación y adaptación para el Área Metropolitana de Colombo (AMC) y Sri Lanka, con el objetivo de informar la elaboración de recomendaciones de políticas para el Informe de Cambio Climático y Desarrollo (CCDR) de Sri Lanka. Incluyó 1) una evaluación de las políticas de mitigación y adaptación al cambio climático a nivel nacional y sus vínculos con los procesos de urbanización, 2) un análisis cuantificado y espacial para evaluar la contribución del crecimiento urbano no planificado y la falta de un enfoque de bajas emisiones de carbono en los servicios municipales a las emisiones de GEI del país y su desempeño frente a indicadores clave, y 3) una evaluación de la cadena de valor de la Gestión de Residuos Sólidos (GRS). 
+
+El proyecto también pronosticó tendencias bajo tres escenarios para el AMC hasta 2050: el ‘Do-nothing scenario’, el  ‘Planned scenario’, y el  ‘Best-case scenario’.

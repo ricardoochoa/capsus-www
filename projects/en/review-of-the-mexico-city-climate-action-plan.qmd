@@ -2,7 +2,7 @@
 title: "Review of the Mexico City Climate Action Plan"
 client: "C40"
 location: "Mexico City, Mexico"
-year: 2018
+year: "2018"
 categories: ["Public Policies"]
 ---
 

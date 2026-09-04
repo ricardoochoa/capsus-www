@@ -2,7 +2,7 @@
 title: "Energy Efficiency in Public and Private Lighting"
 client: "Huixquilucan Municipality, State of Mexico"
 location: "Huixquilucan, Mexico"
-year: 2010
+year: "2010"
 categories: ["Sustainable Development"]
 ---
 

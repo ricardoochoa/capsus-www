@@ -2,7 +2,7 @@
 title: "Development of a Green Mortgage Product for a Leading Global Financial Institution"
 client: "Global Financial Institution"
 location: "Mexico"
-year: 2023-2024
+year: "2023-2024"
 categories: ["Sustainable Finance"]
 ---
 

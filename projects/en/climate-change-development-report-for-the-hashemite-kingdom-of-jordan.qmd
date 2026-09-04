@@ -2,7 +2,7 @@
 title: "Climate Change Development Report for the Hashemite Kingdom of Jordan"
 client: "World Bank"
 location: "Amman, Jordan"
-year: 2022
+year: "2022"
 categories: ["Climate Change"]
 ---
 

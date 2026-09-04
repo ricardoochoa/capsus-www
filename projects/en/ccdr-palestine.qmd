@@ -2,7 +2,7 @@
 title: "CCDR Palestine"
 client: "World Bank"
 location: "Palestine"
-year: 2023
+year: "2023"
 categories: ["Climate Change"]
 ---
 

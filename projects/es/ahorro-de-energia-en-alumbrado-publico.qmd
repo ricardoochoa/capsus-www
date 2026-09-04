@@ -1,0 +1,19 @@
+---
+title: "Ahorro de Energía en Alumbrado Público"
+client: "Municipio de Huixquilucan, Estado de México"
+location: "Huixquilucan, Estado de México, México"
+year: "2011"
+categories: ["Energía Renovable"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Ahorro de Energía en Alumbrado Público",
+  "sponsor": "Municipio de Huixquilucan, Estado de México",
+  "spatialCoverage": "Huixquilucan, Estado de México, México"
+}
+</script>
+
+Se desarrolló un proyecto de sustitución de luminarias para el Municipio que fue autofinanciable y logró un ahorro energético de 38% y una reducción de facturación neta cercana a los 7 millones de pesos anuales. Se apoyó también con la campaña de comunicación social de la medida (página de internet, boletín de prensa), que incluyó un evento de lanzamiento carbono neutral y reconocimiento de ONG ambientales. Este proyecto incluyó una campaña de sustitución de focos domésticos, intercambiando más de 30,000 focos tradicionales por eficientes en hogares del Municipio.

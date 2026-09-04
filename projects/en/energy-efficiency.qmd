@@ -2,7 +2,7 @@
 title: "Energy Efficiency"
 client: "+KOTA"
 location: "Mexico City, Mexico"
-year: 2010
+year: "2010"
 categories: ["Sustainable Development"]
 ---
 

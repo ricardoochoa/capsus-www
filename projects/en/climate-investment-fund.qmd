@@ -2,7 +2,7 @@
 title: "Climate Investment Fund"
 client: "C230"
 location: "Mexico City, Mexico"
-year: 2019
+year: "2019"
 categories: ["Public Policies"]
 ---
 

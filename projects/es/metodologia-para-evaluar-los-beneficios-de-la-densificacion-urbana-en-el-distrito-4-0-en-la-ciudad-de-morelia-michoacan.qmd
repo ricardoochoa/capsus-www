@@ -1,0 +1,19 @@
+---
+title: "Metodología para evaluar los beneficios de la densificación urbana en el “Distrito 4.0” en la ciudad de Morelia, Michoacán"
+client: "Agencia Alemana de Cooperación Internacional (GIZ) y Gobierno de la Ciudad de Morelia"
+location: "Morelia, Michoacán, México"
+year: "2018"
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Metodología para evaluar los beneficios de la densificación urbana en el “Distrito 4.0” en la ciudad de Morelia, Michoacán",
+  "sponsor": "Agencia Alemana de Cooperación Internacional (GIZ) y Gobierno de la Ciudad de Morelia",
+  "spatialCoverage": "Morelia, Michoacán, México"
+}
+</script>
+
+El proyecto consistió en el desarrollo de una serie de escenarios de crecimiento para analizar los beneficios de la densificación urbana en polígonos estratégicos dentro de la ciudad de Morelia, Michoacán, con especial énfasis en el área denominada “Distrito 4.0”. También se propusieron las densidades adecuadas para la redensificación.  El proyecto fue una colaboración con la Agencia Alemana de Cooperación Internacional (GIZ) para apoyar el proceso de planificación urbana en Morelia, Michoacán.

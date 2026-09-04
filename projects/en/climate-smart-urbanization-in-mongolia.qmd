@@ -2,7 +2,7 @@
 title: "Climate Smart Urbanization in Mongolia"
 client: "World Bank, National Government of Mongolia, Cities of Ulaanbaatar, Darkhan, and Erdenet"
 location: "Ulaanbaatar, Darkhan and Erdenet, Mongolia"
-year: 2019-2020
+year: "2019-2020"
 categories: ["Urban Planning"]
 ---
 

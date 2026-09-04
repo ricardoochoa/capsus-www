@@ -2,7 +2,7 @@
 title: "Urban Planning Tools Demo Capacity Building Sessions"
 client: "World Bank"
 location: "Worldwide"
-year: 2024
+year: "2024"
 categories: ["Capacity Development"]
 ---
 

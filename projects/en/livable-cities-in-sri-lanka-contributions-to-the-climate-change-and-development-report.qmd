@@ -2,7 +2,7 @@
 title: "Livable Cities in Sri Lanka: Contributions to the Climate Change and Development Report"
 client: "World Bank"
 location: "Sri Lanka"
-year: 2024
+year: "2024"
 categories: ["Climate Change"]
 ---
 

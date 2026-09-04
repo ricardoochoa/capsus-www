@@ -1,0 +1,19 @@
+---
+title: "Asistencia técnica para el diseño e implementación de una política medioambiental"
+client: "Comisión Ambiental de la Megalópolis (CAMe)"
+location: "Ciudad de México, México"
+year: "2021-2024"
+categories: ["Movilidad Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Asistencia técnica para el diseño e implementación de una política medioambiental",
+  "sponsor": "Comisión Ambiental de la Megalópolis (CAMe)",
+  "spatialCoverage": "Ciudad de México, México"
+}
+</script>
+
+El proyecto apoya a la Comisión Ambiental de la Megalópolis (CAMe) en su operación, monitoreo, coordinación y seguimiento de proyectos estratégicos. El trabajo también incluyó la presentación y seguimiento de los proyectos financiados por el Fideicomiso 1490; el seguimiento a los programas y proyectos en materia de transporte y movilidad sostenible; el análisis de las bases de datos de los programas de verificación de vehículos y calidad del aire; el seguimiento de acciones y proyectos ambientales; la gestión de redes sociales, sitio web, comunicados de noticias, entrevistas, ruedas de prensa y diversos materiales de comunicación; y el apoyo y seguimiento legal a temas de la CAMe.

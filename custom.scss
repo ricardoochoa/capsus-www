@@ -1,10 +1,12 @@
 /*-- scss:defaults --*/
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap");
+
 // Core CAPSUS Brand Palette
-$primary: #28c5b9;     // Teal
-$secondary: #b2d912;   // Green
+$primary: #007d73;     // Accessible Teal (WCAG AA compliant against #fbfafa)
+$secondary: #b2d912;   // Green accent
 $dark: #00495a;        // Deep Blue
 $body-bg: #fbfafa;     // Off-white background
-$body-color: #333333;
+$body-color: #2b2b2b;
 
 // Typography
 $font-family-sans-serif: "Lato", sans-serif;
@@ -15,16 +17,25 @@ $font-family-sans-serif: "Lato", sans-serif;
   border-bottom: 3px solid $secondary;
 }
 
-// Card styling for the Quarto listings to match previous hover states
+// Card styling for the Quarto listings
 .quarto-listing-category {
   color: $primary;
+  font-weight: 600;
 }
 
 .quarto-grid-item {
-  border: 1px solid rgba($dark, 0.1);
-  transition: all 0.3s ease;
+  border: 1px solid rgba($dark, 0.12);
+  border-radius: 4px;
+  background-color: #ffffff;
+  transition: all 0.25s ease;
   &:hover {
-    border-bottom: 5px solid $secondary;
-    transform: translateY(-5px);
+    border-bottom: 4px solid $secondary;
+    transform: translateY(-3px);
+    box-shadow: 0 4px 12px rgba(0, 73, 90, 0.08);
   }
+}
+
+.hero-banner h3 {
+  color: $dark;
+  margin-top: 1rem;
 }

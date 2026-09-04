@@ -2,7 +2,7 @@
 title: "Technical Assistance Program on Cambodia Sustainable Cities Initiative"
 client: "World Bank"
 location: "Phnom Penh Green City, Cambodia"
-year: 2022-2023
+year: "2022-2023"
 categories: ["Urban Planning"]
 ---
 

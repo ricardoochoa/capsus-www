@@ -2,7 +2,7 @@
 title: "Municipal Spatial Data Infrastructure (MSDI) Implementation in Amman, Jordan"
 client: "World Bank"
 location: "Jordan"
-year: 2023-2024
+year: "2023-2024"
 categories: ["Data & Technology"]
 ---
 

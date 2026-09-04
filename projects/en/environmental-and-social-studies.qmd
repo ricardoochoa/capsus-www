@@ -2,7 +2,7 @@
 title: "Environmental and Social Studies"
 client: "Las Garzas Solar Park"
 location: "Durango, Mexico"
-year: 2018
+year: "2018"
 categories: ["Environmental Studies"]
 ---
 

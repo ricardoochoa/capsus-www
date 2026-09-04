@@ -2,7 +2,7 @@
 title: "Megalopolis Growth Projection"
 client: "CAME"
 location: "México"
-year: 2023-2024
+year: "2023-2024"
 categories: ["Urban Planning"]
 ---
 
@@ -16,4 +16,4 @@ categories: ["Urban Planning"]
 }
 </script>
 
-CAPSUS conducted a thorough data gathering and modeling exercise using our in-house Urban Performance Tool. This tool relies on spatial and numerical data to create detailed urban growth scenarios, covering aspects such as the city's footprint, mobility infrastructure, amenities, water and energy consumption, energy generation, and climate hazards. Urban Performance was used to model a "business as usual" growth scenario for both the entire Mexican Megalopolis and six individual metropolitan areas. After completing the modeling, CAPSUS assessed the environmental, economic, and social impacts associated with development trends in the Megalopolis through 2050. Additionally, by developing infographics, an informative website, and a comprehensive report and database, CAPSUS contributed to building a knowledge based on current urban growth trends and their social, environmental, and economic implications, which can be disseminated throughout the region.
+CAPSUS conducted a thorough data gathering and modeling exercise using our in-house Urban Performance Tool. This tool relies on spatial and numerical data to create detailed urban growth scenarios, covering aspects such as the city's footprint, mobility infrastructure, amenities, water and energy consumption, energy generation, and climate hazards. Urban Performance was used to model a “business as usual” growth scenario for both the entire Mexican Megalopolis and six individual metropolitan areas. After completing the modeling, CAPSUS assessed the environmental, economic, and social impacts associated with development trends in the Megalopolis through 2050. Additionally, by developing infographics, an informative website, and a comprehensive report and database, CAPSUS contributed to building a knowledge based on current urban growth trends and their social, environmental, and economic implications, which can be disseminated throughout the region.

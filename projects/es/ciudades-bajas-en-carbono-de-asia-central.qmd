@@ -2,7 +2,7 @@
 title: "Ciudades bajas en carbono de Asia Central"
 client: "Banco Mundial"
 location: "Kazajstán, Kirguistán, Tayikistán, Turkmenistán y Uzbekistán."
-year: 2022-2023
+year: "2022-2023"
 categories: ["Planificación Urbana"]
 ---
 

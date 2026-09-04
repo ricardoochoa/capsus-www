@@ -2,7 +2,7 @@
 title: "Green, Low Carbon, and Climate Resilient Prishtina"
 client: "World Bank"
 location: "Prishtina, Kosovo"
-year: 2021-2022
+year: "2021-2022"
 categories: ["Urban Planning"]
 ---
 

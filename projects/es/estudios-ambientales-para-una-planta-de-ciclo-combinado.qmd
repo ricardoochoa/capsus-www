@@ -2,7 +2,7 @@
 title: "Estudios Ambientales para una Planta de Ciclo Combinado"
 client: "PANEM Energy"
 location: "Tecate, Baja California"
-year: 2016-2017
+year: "2016-2017"
 categories: ["Estudios Ambientales"]
 ---
 

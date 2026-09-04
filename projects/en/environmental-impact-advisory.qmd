@@ -2,7 +2,7 @@
 title: "Environmental Impact Advisory"
 client: "Quantum Energía"
 location: "Mexico"
-year: 2025-2026
+year: "2025-2026"
 categories: ["Environmental Studies"]
 ---
 

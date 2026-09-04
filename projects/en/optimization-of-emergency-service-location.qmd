@@ -2,7 +2,7 @@
 title: "Optimization of Emergency Service Location"
 client: "City of San Diego"
 location: "San Diego, California, USA"
-year: 2019
+year: "2019"
 categories: ["Data & Technology"]
 ---
 

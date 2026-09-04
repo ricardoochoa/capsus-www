@@ -2,7 +2,7 @@
 title: "Development of Municipal Climate Action Plans for Tulum and San Cristobal de las Casas"
 client: "World Bank"
 location: "Tulum, Quintana Roo & San Cristóbal de las Casas, Chiapas Mexico"
-year: 2021-2022
+year: "2021-2022"
 categories: ["Climate Change"]
 ---
 

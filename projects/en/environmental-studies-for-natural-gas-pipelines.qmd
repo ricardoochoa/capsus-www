@@ -2,7 +2,7 @@
 title: "Environmental Studies for Natural Gas Pipelines"
 client: "IGASAMEX"
 location: "Mexico City, Mexico"
-year: 2016-2025
+year: "2016-2025"
 categories: ["Environmental Studies"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Financiamiento verde para transporte de carga"
 client: "GIZ"
 location: "México"
-year: 2022
+year: "2022"
 categories: ["Movilidad Urbana"]
 ---
 

@@ -1,0 +1,19 @@
+---
+title: "Estrategia de fortalecimiento de la gobernanza hídrica comunitaria"
+client: "Amigos de Sian Ka’an A. C."
+location: "Quintana Roo, México"
+year: "2021"
+categories: ["Datos y Tecnología"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Estrategia de fortalecimiento de la gobernanza hídrica comunitaria",
+  "sponsor": "Amigos de Sian Ka’an A. C.",
+  "spatialCoverage": "Quintana Roo, México"
+}
+</script>
+
+El objetivo de este proyecto fue desarrollar una estrategia de fortalecimiento de la gobernanza comunitaria del agua mediante el diseño de tres componentes diferentes: 1) Propuesta de gestión comunitaria, 2) Programa de desarrollo de capacidades de asistencia comunitaria y 3) Programa de fortalecimiento de capacidades dirigido a las comunidades. Este proyecto comenzó con un diagnóstico integral de ocho comunidades en Quintana Roo. La información se recolectó mediante el uso de una plataforma digital para sistematizar los resultados. La recopilación de información de las comunidades garantizó que la estrategia estuviera alineada con la realidad de la región. Esta estrategia implicó la instalación de tecnologías de eficiencia hídrica por parte del equipo de Amigos de Sian Ka’an, y el desarrollo de materiales visuales accesibles por parte de CAPSUS, para facilitar el conocimiento para el uso y mantenimiento de estas tecnologías.

@@ -2,7 +2,7 @@
 title: "Assistance to Develop Technical Reports for Social Infrastructure Projects"
 client: "GIZ Banobras"
 location: "Mexico"
-year: 2023-2024
+year: "2023-2024"
 categories: ["Capacity Development"]
 ---
 

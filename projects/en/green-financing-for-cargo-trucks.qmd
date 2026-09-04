@@ -2,7 +2,7 @@
 title: "Green Financing for Cargo Trucks"
 client: "GIZ"
 location: "Mexico"
-year: 2022
+year: "2022"
 categories: ["Sustainable Finance"]
 ---
 

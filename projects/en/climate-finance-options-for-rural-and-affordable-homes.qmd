@@ -2,7 +2,7 @@
 title: "Climate Finance Options for Rural and Affordable Homes"
 client: "German International Cooperation for Sustainable Development (GIZ) and the National Housing Commission of Mexico (CONAVI)"
 location: "Mexico"
-year: 2021-2022
+year: "2021-2022"
 categories: ["Sustainable Finance"]
 ---
 

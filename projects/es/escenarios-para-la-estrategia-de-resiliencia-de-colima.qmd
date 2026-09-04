@@ -2,7 +2,7 @@
 title: "Escenarios para la Estrategia de Resiliencia de Colima"
 client: "AECOM y la Oficina de Resiliencia de Colima para la Rockefeller Foundation"
 location: "Colima, México"
-year: 2018
+year: "2018"
 categories: ["Planificación Urbana"]
 ---
 

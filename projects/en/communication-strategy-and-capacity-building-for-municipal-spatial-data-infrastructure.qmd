@@ -2,7 +2,7 @@
 title: "Communication Strategy and Capacity Building for Municipal Spatial Data Infrastructure"
 client: "City Planning Labs - World Bank"
 location: "Indonesia"
-year: 2019-2020
+year: "2019-2020"
 categories: ["Capacity Development"]
 ---
 

@@ -1,0 +1,19 @@
+---
+title: "Gestión Integral de Residuos Sólidos Urbanos"
+client: "Municipio de Toluca, Estado de México"
+location: "Toluca, Estado de México"
+year: "2014"
+categories: ["Gestión de Residuos"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Gestión Integral de Residuos Sólidos Urbanos",
+  "sponsor": "Municipio de Toluca, Estado de México",
+  "spatialCoverage": "Toluca, Estado de México"
+}
+</script>
+
+Se otorgó asesoría al Ayuntamiento para el fortalecimiento del sistema de gestión de los residuos sólidos urbanos. Se propuso un esquema público- privado que incluye separación, reciclaje, tratamiento de orgánicos, confinamiento final y aprovechamiento de biogás.

@@ -1,0 +1,19 @@
+---
+title: "Nuevas soluciones ambientales para la vivienda en México"
+client: "La Agencia Alemana de Cooperación Internacional (GIZ) y la Comisión Nacional de Vivienda (CONAVI)"
+location: "México"
+year: "2019-2020"
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Nuevas soluciones ambientales para la vivienda en México",
+  "sponsor": "La Agencia Alemana de Cooperación Internacional (GIZ) y la Comisión Nacional de Vivienda (CONAVI)",
+  "spatialCoverage": "México"
+}
+</script>
+
+Se desarrolló una investigación sobre los materiales ecológicos, los sistemas bioclimáticos y las ecotecnologías aún no certificadas para la Producción de Vivienda Social. Se llevó a cabo una investigación exploratoria sobre los componentes de la vivienda que puedan lograr ahorro en el consumo de agua y energía para quienes la habitan. Esto con el fin de elaborar un catálogo de fichas técnicas que amplíen el abanico de soluciones en la industria de la construcción. Dicha investigación consistió en entrevistas, acopio de información generada, estimación del desempeño energético e hídrico y análisis de costos de cada una de las propuestas.

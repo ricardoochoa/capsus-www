@@ -2,7 +2,7 @@
 title: "Dissemination and Capacity Development Semarang Siap 2.0"
 client: "World Bank"
 location: "Indonesia"
-year: 2022-2023
+year: "2022-2023"
 categories: ["Capacity Development"]
 ---
 

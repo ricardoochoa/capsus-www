@@ -2,7 +2,7 @@
 title: "Urban Growth Scenarios for Abidjan"
 client: "World Bank and Ivory Coast National Government"
 location: "Abidjan, Ivory Coast"
-year: 2017
+year: "2017"
 categories: ["Urban Planning"]
 ---
 
@@ -16,4 +16,4 @@ categories: ["Urban Planning"]
 }
 </script>
 
-The "Urban Growth Scenarios for Abidjan" project, funded by the Korean Green Growth Trust Fund via the World Bank, aimed to evaluate urban development possibilities and determine the most sustainable choices. Capsus, in partnership with BNETD, conducted this assessment for Abidjan. Urban growth scenarios served as a planning instrument to comprehend potential consequences arising from specific urban policies, including transportation and infrastructure investments, land use modifications, and housing strategies. This exercise helped the city government identify the most cost-effective policies and investments and reach an internal consensus for implementing a sustainable path for the city.
+The “Urban Growth Scenarios for Abidjan” project, funded by the Korean Green Growth Trust Fund via the World Bank, aimed to evaluate urban development possibilities and determine the most sustainable choices. Capsus, in partnership with BNETD, conducted this assessment for Abidjan. Urban growth scenarios served as a planning instrument to comprehend potential consequences arising from specific urban policies, including transportation and infrastructure investments, land use modifications, and housing strategies. This exercise helped the city government identify the most cost-effective policies and investments and reach an internal consensus for implementing a sustainable path for the city.

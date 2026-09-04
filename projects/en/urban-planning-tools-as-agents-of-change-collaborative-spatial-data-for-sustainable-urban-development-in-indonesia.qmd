@@ -2,7 +2,7 @@
 title: "Urban Planning Tools as Agents of Change: Collaborative Spatial Data for Sustainable Urban Development in Indonesia"
 client: "World Bank and the National Government of Indonesia"
 location: "Indonesia"
-year: 2019-2020
+year: "2019-2020"
 categories: ["Data & Technology"]
 ---
 

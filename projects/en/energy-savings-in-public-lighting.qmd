@@ -2,7 +2,7 @@
 title: "Energy Savings in Public Lighting"
 client: "Huixquilucan Municipality, State of Mexico"
 location: "Huixquilucan, State of Mexico, Mexico"
-year: 2011
+year: "2011"
 categories: ["Sustainable Development"]
 ---
 

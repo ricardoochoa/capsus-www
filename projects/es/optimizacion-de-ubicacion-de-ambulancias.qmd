@@ -1,0 +1,19 @@
+---
+title: "Optimización de ubicación de ambulancias"
+client: "Ciudad de San Diego"
+location: "San Diego, California, USA"
+year: "2019"
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Optimización de ubicación de ambulancias",
+  "sponsor": "Ciudad de San Diego",
+  "spatialCoverage": "San Diego, California, USA"
+}
+</script>
+
+CAPSUS colaboró ​​(pro-bono) con el equipo de análisis y rendimiento de la ciudad de San Diego y desarrolló un modelo de pronóstico para los servicios médicos de emergencia (EMS) que representaba las variaciones temporales y estacionales en la ubicación de la población. El modelo tenía como objetivo restaurar el nivel de servicio del departamento de EMS para reducir el tiempo de respuesta.

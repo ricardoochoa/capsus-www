@@ -2,7 +2,7 @@
 title: "New Environmental Solutions for Mexican Houses"
 client: "German Agency for International Cooperation (GIZ) and the National Housing Commission of Mexico (CONAVI)"
 location: "Mexico"
-year: 2019-2020
+year: "2019-2020"
 categories: ["Sustainable Development"]
 ---
 

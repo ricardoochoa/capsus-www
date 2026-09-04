@@ -2,7 +2,7 @@
 title: "Sustainable Local Development Guide"
 client: "Ministry of Social Development and the World Bank"
 location: "Mexico"
-year: 2011
+year: "2011"
 categories: ["Public Policies"]
 ---
 

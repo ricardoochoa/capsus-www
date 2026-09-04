@@ -2,7 +2,7 @@
 title: "Air Quality Program for the State of Mexico 2018-2030"
 client: "Ministry of the Environment of the Government of the State of Mexico"
 location: "State of Mexico, Mexico"
-year: 2018
+year: "2018"
 categories: ["Public Policies"]
 ---
 

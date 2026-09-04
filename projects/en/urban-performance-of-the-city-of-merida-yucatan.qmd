@@ -2,7 +2,7 @@
 title: "Urban Performance of the City of Merida, Yucatan"
 client: "Ministry of Territorial and Urban Development (SEDATU)"
 location: "Merida, Yucatán, Mexico"
-year: 2013
+year: "2013"
 categories: ["Urban Planning"]
 ---
 

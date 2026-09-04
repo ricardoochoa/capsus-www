@@ -2,7 +2,7 @@
 title: "Colima Strategic Investment Roadmap"
 client: "Alianza para la Regeneración Urbana"
 location: "Colima, Mexico"
-year: 2025
+year: "2025"
 categories: ["Urban Planning"]
 ---
 

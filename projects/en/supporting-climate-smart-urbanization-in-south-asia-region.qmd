@@ -2,7 +2,7 @@
 title: "Supporting Climate Smart Urbanization in South Asia Region"
 client: "World Bank"
 location: "India"
-year: 2023-2024
+year: "2023-2024"
 categories: ["Urban Planning"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Developing Energy-efficient and Resilient Housing Scenarios for Secondary Cities in Mongolia"
 client: "World Bank"
 location: "Mongolia"
-year: 2022-2023
+year: "2022-2023"
 categories: ["Urban Planning"]
 ---
 

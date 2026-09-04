@@ -2,7 +2,7 @@
 title: "Desarrollo de Proyectos Demostrativos"
 client: "Amigos de Sian Ka’an A. C. (ONG Nacional para la Conservación Ambiental)"
 location: "México"
-year: 2021
+year: "2021"
 categories: ["Estudios Ambientales"]
 ---
 

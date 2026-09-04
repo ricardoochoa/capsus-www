@@ -2,7 +2,7 @@
 title: "Master Plan for a New National Tourism Center"
 client: "FONATUR (National Tourism Development Fund)"
 location: "Sinaloa, Mexico"
-year: 2016
+year: "2016"
 categories: ["Urban Planning"]
 ---
 

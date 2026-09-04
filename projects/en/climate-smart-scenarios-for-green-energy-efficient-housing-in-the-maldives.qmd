@@ -2,7 +2,7 @@
 title: "Climate-Smart Scenarios for Green & Energy-Efficient Housing in the Maldives"
 client: "World Bank"
 location: "Greater Male, Addu, and Fuvahmulah, Maldives"
-year: 2023-2024
+year: "2023-2024"
 categories: ["Urban Planning"]
 ---
 

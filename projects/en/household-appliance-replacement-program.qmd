@@ -2,7 +2,7 @@
 title: "Household Appliance Replacement Program"
 client: "World Bank"
 location: "Buenos Aires, Argentina"
-year: 2020
+year: "2020"
 categories: ["Sustainable Development"]
 ---
 

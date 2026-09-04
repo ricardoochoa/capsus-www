@@ -2,7 +2,7 @@
 title: "Demographic Transition in Latin America"
 client: "Inter-American Development Bank (IDB)"
 location: "Latin America"
-year: 2016
+year: "2016"
 categories: ["Capacity Development"]
 ---
 

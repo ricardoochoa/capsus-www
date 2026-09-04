@@ -2,7 +2,7 @@
 title: "Study About Construction Waste and Social Housing Waste in Mexico"
 client: "Infonavit"
 location: "Mexico"
-year: 2017
+year: "2017"
 categories: ["Environmental Studies"]
 ---
 

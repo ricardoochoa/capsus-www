@@ -1,0 +1,19 @@
+---
+title: "Apoyo a la urbanización climáticamente inteligente en la región del sur de Asia"
+client: "Banco Mundial"
+location: "India"
+year: "2023-2024"
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Apoyo a la urbanización climáticamente inteligente en la región del sur de Asia",
+  "sponsor": "Banco Mundial",
+  "spatialCoverage": "India"
+}
+</script>
+
+El proyecto informa acerca del reporte sobre el clima y el desarrollo del país de la India (CCDR) identificando tendencias de urbanización y brindando recomendaciones para mejorar las políticas y acciones urbanas para una transición justa hacia un crecimiento resiliente al clima y bajo en carbono. Consiste en una evaluación macro de 24 ciudades y una inmersión profunda en ciudades seleccionadas. El equipo desarrolló un análisis base del estado de sostenibilidad del sistema urbano del país a través de un conjunto de indicadores ambientales y sociales. Pronosticó la tendencia en un escenario tendencial. El equipo también analizó de manera más detallada cinco ciudades de la India y desarrolló un conjunto de recomendaciones para mejorar el desempeño sostenible de las ciudades de la India.

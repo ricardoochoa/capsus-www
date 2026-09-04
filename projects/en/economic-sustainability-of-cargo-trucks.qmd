@@ -2,7 +2,7 @@
 title: "Economic Sustainability of Cargo Trucks"
 client: "HEAT / German International Cooperation for Sustainable Development (GIZ)"
 location: "Jalisco, Mexico"
-year: 2022
+year: "2022"
 categories: ["Urban Mobility"]
 ---
 

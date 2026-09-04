@@ -2,7 +2,7 @@
 title: "Environmental Feasibilities"
 client: "ZUMA Energy"
 location: "Mexico"
-year: 2016
+year: "2016"
 categories: ["Environmental Studies"]
 ---
 

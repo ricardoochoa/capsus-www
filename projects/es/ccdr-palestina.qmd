@@ -2,7 +2,7 @@
 title: "CCDR Palestina"
 client: "Banco Mundial"
 location: "Palestina"
-year: 2023
+year: "2023"
 categories: ["Planificación Urbana"]
 ---
 

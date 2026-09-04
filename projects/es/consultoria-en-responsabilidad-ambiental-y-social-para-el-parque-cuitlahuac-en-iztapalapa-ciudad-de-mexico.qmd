@@ -1,0 +1,19 @@
+---
+title: "Consultoría en Responsabilidad Ambiental y Social para el Parque Cuitláhuac en Iztapalapa, Ciudad de México"
+client: "NetaCero"
+location: "Ciudad de México, México"
+year: "2019"
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Consultoría en Responsabilidad Ambiental y Social para el Parque Cuitláhuac en Iztapalapa, Ciudad de México",
+  "sponsor": "NetaCero",
+  "spatialCoverage": "Ciudad de México, México"
+}
+</script>
+
+Se otorgó asesoría sobre un análisis socioambiental de costo beneficio relacionado a la rehabilitación del parque. Para ello se hizo un análisis del entorno en materia ambiental y social mediante herramientas de percepción remota, insumos proporcionados sobre el comportamiento social y el uso de sistemas de información geográfica.

@@ -1,0 +1,19 @@
+---
+title: "Lineamientos de Conservación y Gestión, y Planes Maestros de Áreas Naturales Protegidas"
+client: "Secretaría del Medio Ambiente de la Ciudad de México (SEDEMA)"
+location: "Ciudad de México, México"
+year: "2025-2026"
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Lineamientos de Conservación y Gestión, y Planes Maestros de Áreas Naturales Protegidas",
+  "sponsor": "Secretaría del Medio Ambiente de la Ciudad de México (SEDEMA)",
+  "spatialCoverage": "Ciudad de México, México"
+}
+</script>
+
+El primer componente del proyecto consiste en el diseño e implementación de una identidad estratégica y un manual de lineamientos de imagen y diseño para orientar la intervención y gestión del Sistema de Parques Naturales de la Ciudad de México, promoviendo su protección ecológica, su resiliencia frente a riesgos urbanos y climáticos, y su integración cultural. El manual propone principios y directrices de diseño sostenible para elementos de arquitectura, infraestructura verde, movilidad, mobiliario y señalización. El segundo componente se enfoca en la elaboración de los Planes Maestros de dos parques naturales, incluyendo un diagnóstico de sitio y un sistema de indicadores de monitoreo ambiental y social para evaluar los resultados de los Planes.

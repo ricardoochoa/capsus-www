@@ -2,7 +2,7 @@
 title: "Training Portal for Freight Transport Companies"
 client: "GIZ"
 location: "México"
-year: 2020–2021
+year: "2020–2021"
 categories: ["Capacity Development"]
 ---
 

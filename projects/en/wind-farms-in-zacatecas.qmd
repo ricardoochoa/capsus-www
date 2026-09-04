@@ -2,7 +2,7 @@
 title: "Wind Farms in Zacatecas"
 client: "PRENEAL"
 location: "Zacatecas, Mexico"
-year: 2011-2012
+year: "2011-2012"
 categories: ["Environmental Studies"]
 ---
 

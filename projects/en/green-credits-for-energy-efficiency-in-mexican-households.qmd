@@ -2,7 +2,7 @@
 title: "Green Credits for Energy Efficiency in Mexican Households"
 client: "GIZ / FIPATERM"
 location: "Mexico"
-year: 2023
+year: "2023"
 categories: ["Sustainable Finance"]
 ---
 

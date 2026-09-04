@@ -2,7 +2,7 @@
 title: "Promotion of Sustainable Housing Solutions for Low-income Families in Mexico"
 client: "World Bank"
 location: "Mexico"
-year: 2020-2021
+year: "2020-2021"
 categories: ["Urban Planning"]
 ---
 

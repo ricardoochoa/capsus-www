@@ -1,0 +1,19 @@
+---
+title: "Herramientas Digitales para el Relevamiento Frecuente del Estado de los Asentamientos Informales del Área Metropolitana de Asunción"
+client: "Banco Interamericano de Desarrollo"
+location: "Paraguay"
+year: "2022-2023"
+categories: ["Datos y Tecnología"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Herramientas Digitales para el Relevamiento Frecuente del Estado de los Asentamientos Informales del Área Metropolitana de Asunción",
+  "sponsor": "Banco Interamericano de Desarrollo",
+  "spatialCoverage": "Paraguay"
+}
+</script>
+
+El proyecto tiene como objetivo diseñar e implementar una metodología para la identificación y caracterización de asentamientos precarios en el Área Metropolitana de Asunción (AMA), Paraguay, con apoyo de dos herramientas digitales. Por un lado, el diseño y desarrollo de un sistema automatizado para identificar asentamientos precarios de forma remota y monitorear su expansión. Y por otro, el desarrollo de un sistema para la recolección continua de datos en campo sobre la situación de los asentamientos, de primera mano de sus residentes. El relevamiento de información contribuye a que las instituciones gubernamentales puedan tomar decisiones informadas sobre dónde y cómo enfocar sus esfuerzos para mejorar la calidad de vida de las comunidades. El proyecto incluyó un componente de construcción de capacidades para servidores públicos de diversas ciudades del área metropolitana orientada a la aplicación de la metodología y el uso de las herramientas.

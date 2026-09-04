@@ -2,7 +2,7 @@
 title: "Handbook for Gender-Inclusive Urban Planning and Design"
 client: "World Bank"
 location: "Worldwide"
-year: 2020
+year: "2020"
 categories: ["Urban Planning"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Commercial Energy Efficiency"
 client: "Devlyn"
 location: "Mexico City, Mexico"
-year: 2012
+year: "2012"
 categories: ["Sustainable Development"]
 ---
 

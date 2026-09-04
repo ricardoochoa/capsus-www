@@ -1,0 +1,19 @@
+---
+title: "Análisis del Desempeño Urbano del PMDU de Mérida, Yucatán"
+client: "Secretaría de Desarrollo Territorial y Urbano (SEDATU)"
+location: "Mérida, Yucatán, México"
+year: "2013"
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Análisis del Desempeño Urbano del PMDU de Mérida, Yucatán",
+  "sponsor": "Secretaría de Desarrollo Territorial y Urbano (SEDATU)",
+  "spatialCoverage": "Mérida, Yucatán, México"
+}
+</script>
+
+Se realizó una evaluación de las diferentes alternativas de crecimiento urbano para la ciudad de Mérida, incluyendo el crecimiento tendencial, el Plan Municipal de Desarrollo Urbano (PMDU) y un escenario ideal. Para ello se establecieron indicadores ambientales, económicos y sociales para realizar un análisis de sustentabilidad urbana. Algunos de los factores que se consideraron en el análisis espacial fueron: densidad, costos de infraestructura, costos de mantenimiento, disponibilidad de recursos, capacidad de carga, independencia financiera, ocupación de vivienda, estrategias de movilidad, consumos de energéticos, equipamiento escolar, marginación, entre otros.

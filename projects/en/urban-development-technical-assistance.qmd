@@ -2,7 +2,7 @@
 title: "Urban Development Technical Assistance"
 client: "World Bank"
 location: "Indonesia"
-year: 2022-2023
+year: "2022-2023"
 categories: ["Urban Planning"]
 ---
 

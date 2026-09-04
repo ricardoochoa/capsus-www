@@ -2,7 +2,7 @@
 title: "Elaboration of City Action Plans, under the African Cities Program"
 client: "African Development Bank Group"
 location: "Juba, South Sudan"
-year: 2025-2026
+year: "2025-2026"
 categories: ["Climate Change"]
 ---
 

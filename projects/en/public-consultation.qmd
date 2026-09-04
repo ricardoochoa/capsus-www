@@ -2,7 +2,7 @@
 title: "Public Consultation"
 client: "Amigos de Sian Ka’an A. C. (National NGO on Environmental Conservation)"
 location: "Quintana Roo, Mexico"
-year: 2017
+year: "2017"
 categories: ["Capacity Development"]
 ---
 

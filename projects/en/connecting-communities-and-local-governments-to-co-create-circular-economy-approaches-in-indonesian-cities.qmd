@@ -2,7 +2,7 @@
 title: "Connecting Communities and Local Governments to Co-create Circular Economy Approaches in Indonesian Cities"
 client: "World Bank"
 location: "Indonesia"
-year: 2022-2023
+year: "2022-2023"
 categories: ["Data & Technology"]
 ---
 

@@ -1,0 +1,19 @@
+---
+title: "Asistencia Técnica para desarrollar capacidades de expertos para identificar y preparar proyectos de Cambio Climático en Ecuador"
+client: "GIZ"
+location: "Ecuador"
+year: "2022"
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Asistencia Técnica para desarrollar capacidades de expertos para identificar y preparar proyectos de Cambio Climático en Ecuador",
+  "sponsor": "GIZ",
+  "spatialCoverage": "Ecuador"
+}
+</script>
+
+El objetivo del proyecto fue diseñar e implementar un programa de mentoría dirigido a un equipo de expertos y expertas de diversas instituciones para que estén en capacidad de asesorar a los municipios del Ecuador en el proceso de preparación de propuestas de cambio climático y desarrollo urbano a ser presentadas a instituciones financieras.

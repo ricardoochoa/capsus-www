@@ -2,7 +2,7 @@
 title: "Plataforma para el seguimiento de la huella de carbono y de agua del tequila"
 client: "Consejo Regulador del Tequila y Centro Mario Molina, 2026"
 location: "México"
-year: 2026
+year: "2026"
 categories: ["Datos y Tecnología"]
 ---
 

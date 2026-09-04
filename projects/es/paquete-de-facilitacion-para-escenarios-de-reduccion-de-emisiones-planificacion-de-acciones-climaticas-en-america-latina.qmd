@@ -1,0 +1,19 @@
+---
+title: "Paquete de Facilitación para Escenarios de Reducción de Emisiones - Planificación de Acciones Climáticas en América Latina"
+client: "C40"
+location: "América Latina"
+year: "2018"
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Paquete de Facilitación para Escenarios de Reducción de Emisiones - Planificación de Acciones Climáticas en América Latina",
+  "sponsor": "C40",
+  "spatialCoverage": "América Latina"
+}
+</script>
+
+CAPSUS apoyó a C40 Cities en el fortalecimiento de la planificación climática en América Latina mediante el desarrollo de un paquete de facilitación para escenarios de reducción de emisiones de GEI, basado en las lecciones aprendidas de nueve ciudades del programa CAP LATAM. El trabajo incluyó encuestas y entrevistas con equipos locales, la elaboración de un informe de buenas prácticas y recomendaciones, y la creación de un manual y herramientas de facilitación (glosarios, formularios, plantillas e insumos para talleres) para guiar a otras ciudades en el diseño de sus escenarios de reducción de emisiones.

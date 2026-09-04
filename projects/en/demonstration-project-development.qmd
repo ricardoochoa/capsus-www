@@ -2,7 +2,7 @@
 title: "Demonstration Project Development"
 client: "Amigos de Sian Ka’an A. C. (National NGO on Environmental Conservation)"
 location: "Mexico"
-year: 2021
+year: "2021"
 categories: ["Capacity Development"]
 ---
 

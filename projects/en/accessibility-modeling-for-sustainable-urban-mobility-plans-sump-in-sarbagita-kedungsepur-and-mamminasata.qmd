@@ -2,7 +2,7 @@
 title: "Accessibility Modeling for Sustainable Urban Mobility Plans (SUMP) in Sarbagita, Kedungsepur, and Mamminasata"
 client: "Cardno Emerging Markets (Australia) Pty Ltd"
 location: "Sarbagita, Kedungsepur, and Mamminasata metropolitan areas in Indonesia"
-year: 2021-2022
+year: "2021-2022"
 categories: ["Urban Mobility"]
 ---
 

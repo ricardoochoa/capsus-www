@@ -1,0 +1,19 @@
+---
+title: "Financiamiento de Energía para la Inversión de Carbono Bajo - Servicios de Asesoría para Ciudades (FELICITY)"
+client: "Agencia Alemana de Cooperación Internacional (GIZ), Banco Europeo de Inversiones (EIB)"
+location: "México"
+year: "2018"
+categories: ["Planificación Urbana"]
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "name": "Financiamiento de Energía para la Inversión de Carbono Bajo - Servicios de Asesoría para Ciudades (FELICITY)",
+  "sponsor": "Agencia Alemana de Cooperación Internacional (GIZ), Banco Europeo de Inversiones (EIB)",
+  "spatialCoverage": "México"
+}
+</script>
+
+Se otorgó a la FELICITY (Financing Energy for Low-carbon Investment - Cities Advisory Facility), iniciativa de la GIZ y el EIB, el servicio de revisión del estatus y opinión de factibilidad ambiental, social, económica y legal de dos proyectos. Uno de ellos consiste en un biodigestor de residuos orgánicos en Naucalpan que tiene como objetivo reducir la cantidad de residuos sólidos urbanos enviados al relleno sanitario, producir energía eléctrica y mitigar emisiones contaminantes. El segundo proyecto que se evaluó fue del Gobierno de la Ciudad de México con respecto a un esquema de ahorro de energía en edificios públicos que sería financiado por la emisión de un bono verde.

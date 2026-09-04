@@ -2,7 +2,7 @@
 title: "Development of a Green Mortgage"
 client: "BBVA / GOPA / Passivehouse Institute"
 location: "Mexico"
-year: 2021-2024
+year: "2021-2024"
 categories: ["Sustainable Finance"]
 ---
 

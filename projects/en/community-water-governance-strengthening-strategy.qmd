@@ -2,7 +2,7 @@
 title: "Community Water Governance Strengthening Strategy"
 client: "Amigos de Sian Ka’an A. C. (National NGO on Environmental Conservation)"
 location: "Quintana Roo, Mexico"
-year: 2021
+year: "2021"
 categories: ["Capacity Development"]
 ---
 

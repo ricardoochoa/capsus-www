@@ -2,7 +2,7 @@
 title: "Discipline Update Course (CADI in Spanish) for Teachers - Information Technologies for Urban Analysis"
 client: "Instituto Tecnológico de Estudios Superiores de Monterrey"
 location: "State of Mexico"
-year: 2017
+year: "2017"
 categories: ["Capacity Development"]
 ---
 
